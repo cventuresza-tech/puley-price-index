@@ -1,0 +1,21 @@
+[project]
+name = "puley-price-index"
+version = "1.0.0"
+description = "What popular subscriptions cost in every App Store country: the open data behind puley.com/prices"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+authors = [{ name = "Puley", email = "hello@puley.com" }]
+dependencies = []  # standard library only
+keywords = ["prices", "subscriptions", "app store", "chatgpt", "open data", "purchasing power", "price index"]
+
+[project.optional-dependencies]
+test = ["pytest>=8"]
+
+[project.urls]
+Homepage = "https://puley.com/prices"
+Data = "https://github.com/cventuresza-tech/puley-price-index/tree/main/data"
+Methodology = "https://puley.com/prices/about"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

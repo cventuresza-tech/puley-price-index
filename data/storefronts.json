@@ -1,0 +1,703 @@
+{
+ "source": "Apple, App Store Connect Help: App Store pricing and availability start times by country or region (175 storefronts), read 2026-10-08. The currency of each store is read from its own pages.",
+ "checked": "2026-10-08",
+ "count": 174,
+ "storefronts": {
+  "ae": {
+   "name": "United Arab Emirates",
+   "apple_name": "United Arab Emirates"
+  },
+  "af": {
+   "name": "Afghanistan",
+   "apple_name": "Afghanistan"
+  },
+  "ag": {
+   "name": "Antigua and Barbuda",
+   "apple_name": "Antigua and Barbuda"
+  },
+  "ai": {
+   "name": "Anguilla",
+   "apple_name": "Anguilla"
+  },
+  "al": {
+   "name": "Albania",
+   "apple_name": "Albania"
+  },
+  "am": {
+   "name": "Armenia",
+   "apple_name": "Armenia"
+  },
+  "ao": {
+   "name": "Angola",
+   "apple_name": "Angola"
+  },
+  "ar": {
+   "name": "Argentina",
+   "apple_name": "Argentina"
+  },
+  "at": {
+   "name": "Austria",
+   "apple_name": "Austria"
+  },
+  "au": {
+   "name": "Australia",
+   "apple_name": "Australia"
+  },
+  "az": {
+   "name": "Azerbaijan",
+   "apple_name": "Azerbaijan"
+  },
+  "ba": {
+   "name": "Bosnia and Herzegovina",
+   "apple_name": "Bosnia and Herzegovina"
+  },
+  "bb": {
+   "name": "Barbados",
+   "apple_name": "Barbados"
+  },
+  "be": {
+   "name": "Belgium",
+   "apple_name": "Belgium"
+  },
+  "bf": {
+   "name": "Burkina Faso",
+   "apple_name": "Burkina Faso"
+  },
+  "bg": {
+   "name": "Bulgaria",
+   "apple_name": "Bulgaria"
+  },
+  "bh": {
+   "name": "Bahrain",
+   "apple_name": "Bahrain"
+  },
+  "bj": {
+   "name": "Benin",
+   "apple_name": "Benin"
+  },
+  "bm": {
+   "name": "Bermuda",
+   "apple_name": "Bermuda"
+  },
+  "bn": {
+   "name": "Brunei",
+   "apple_name": "Brunei"
+  },
+  "bo": {
+   "name": "Bolivia",
+   "apple_name": "Bolivia"
+  },
+  "br": {
+   "name": "Brazil",
+   "apple_name": "Brazil"
+  },
+  "bs": {
+   "name": "Bahamas",
+   "apple_name": "Bahamas"
+  },
+  "bt": {
+   "name": "Bhutan",
+   "apple_name": "Bhutan"
+  },
+  "bw": {
+   "name": "Botswana",
+   "apple_name": "Botswana"
+  },
+  "by": {
+   "name": "Belarus",
+   "apple_name": "Belarus"
+  },
+  "bz": {
+   "name": "Belize",
+   "apple_name": "Belize"
+  },
+  "ca": {
+   "name": "Canada",
+   "apple_name": "Canada"
+  },
+  "cd": {
+   "name": "DR Congo",
+   "apple_name": "Congo, Democratic Republic of the"
+  },
+  "cg": {
+   "name": "Republic of the Congo",
+   "apple_name": "Congo, Republic of the"
+  },
+  "ch": {
+   "name": "Switzerland",
+   "apple_name": "Switzerland"
+  },
+  "ci": {
+   "name": "Côte d'Ivoire",
+   "apple_name": "Cote d’Ivoire"
+  },
+  "cl": {
+   "name": "Chile",
+   "apple_name": "Chile"
+  },
+  "cm": {
+   "name": "Cameroon",
+   "apple_name": "Cameroon"
+  },
+  "cn": {
+   "name": "China",
+   "apple_name": "China mainland"
+  },
+  "co": {
+   "name": "Colombia",
+   "apple_name": "Colombia"
+  },
+  "cr": {
+   "name": "Costa Rica",
+   "apple_name": "Costa Rica"
+  },
+  "cv": {
+   "name": "Cape Verde",
+   "apple_name": "Cape Verde"
+  },
+  "cy": {
+   "name": "Cyprus",
+   "apple_name": "Cyprus"
+  },
+  "cz": {
+   "name": "Czechia",
+   "apple_name": "Czechia"
+  },
+  "de": {
+   "name": "Germany",
+   "apple_name": "Germany"
+  },
+  "dk": {
+   "name": "Denmark",
+   "apple_name": "Denmark"
+  },
+  "dm": {
+   "name": "Dominica",
+   "apple_name": "Dominica"
+  },
+  "do": {
+   "name": "Dominican Republic",
+   "apple_name": "Dominican Republic"
+  },
+  "dz": {
+   "name": "Algeria",
+   "apple_name": "Algeria"
+  },
+  "ec": {
+   "name": "Ecuador",
+   "apple_name": "Ecuador"
+  },
+  "ee": {
+   "name": "Estonia",
+   "apple_name": "Estonia"
+  },
+  "eg": {
+   "name": "Egypt",
+   "apple_name": "Egypt"
+  },
+  "es": {
+   "name": "Spain",
+   "apple_name": "Spain"
+  },
+  "fi": {
+   "name": "Finland",
+   "apple_name": "Finland"
+  },
+  "fj": {
+   "name": "Fiji",
+   "apple_name": "Fiji"
+  },
+  "fm": {
+   "name": "Micronesia",
+   "apple_name": "Micronesia"
+  },
+  "fr": {
+   "name": "France",
+   "apple_name": "France"
+  },
+  "ga": {
+   "name": "Gabon",
+   "apple_name": "Gabon"
+  },
+  "gb": {
+   "name": "United Kingdom",
+   "apple_name": "United Kingdom"
+  },
+  "gd": {
+   "name": "Grenada",
+   "apple_name": "Grenada"
+  },
+  "ge": {
+   "name": "Georgia",
+   "apple_name": "Georgia"
+  },
+  "gh": {
+   "name": "Ghana",
+   "apple_name": "Ghana"
+  },
+  "gm": {
+   "name": "Gambia",
+   "apple_name": "Gambia"
+  },
+  "gr": {
+   "name": "Greece",
+   "apple_name": "Greece"
+  },
+  "gt": {
+   "name": "Guatemala",
+   "apple_name": "Guatemala"
+  },
+  "gw": {
+   "name": "Guinea-Bissau",
+   "apple_name": "Guinea-Bissau"
+  },
+  "gy": {
+   "name": "Guyana",
+   "apple_name": "Guyana"
+  },
+  "hk": {
+   "name": "Hong Kong",
+   "apple_name": "Hong Kong"
+  },
+  "hn": {
+   "name": "Honduras",
+   "apple_name": "Honduras"
+  },
+  "hr": {
+   "name": "Croatia",
+   "apple_name": "Croatia"
+  },
+  "hu": {
+   "name": "Hungary",
+   "apple_name": "Hungary"
+  },
+  "id": {
+   "name": "Indonesia",
+   "apple_name": "Indonesia"
+  },
+  "ie": {
+   "name": "Ireland",
+   "apple_name": "Ireland"
+  },
+  "il": {
+   "name": "Israel",
+   "apple_name": "Israel"
+  },
+  "in": {
+   "name": "India",
+   "apple_name": "India"
+  },
+  "iq": {
+   "name": "Iraq",
+   "apple_name": "Iraq"
+  },
+  "is": {
+   "name": "Iceland",
+   "apple_name": "Iceland"
+  },
+  "it": {
+   "name": "Italy",
+   "apple_name": "Italy"
+  },
+  "jm": {
+   "name": "Jamaica",
+   "apple_name": "Jamaica"
+  },
+  "jo": {
+   "name": "Jordan",
+   "apple_name": "Jordan"
+  },
+  "jp": {
+   "name": "Japan",
+   "apple_name": "Japan"
+  },
+  "ke": {
+   "name": "Kenya",
+   "apple_name": "Kenya"
+  },
+  "kg": {
+   "name": "Kyrgyzstan",
+   "apple_name": "Kyrgyzstan"
+  },
+  "kh": {
+   "name": "Cambodia",
+   "apple_name": "Cambodia"
+  },
+  "kn": {
+   "name": "Saint Kitts and Nevis",
+   "apple_name": "St. Kitts and Nevis"
+  },
+  "kr": {
+   "name": "South Korea",
+   "apple_name": "Republic of Korea"
+  },
+  "kw": {
+   "name": "Kuwait",
+   "apple_name": "Kuwait"
+  },
+  "ky": {
+   "name": "Cayman Islands",
+   "apple_name": "Cayman Islands"
+  },
+  "kz": {
+   "name": "Kazakhstan",
+   "apple_name": "Kazakhstan"
+  },
+  "la": {
+   "name": "Laos",
+   "apple_name": "Laos"
+  },
+  "lb": {
+   "name": "Lebanon",
+   "apple_name": "Lebanon"
+  },
+  "lc": {
+   "name": "Saint Lucia",
+   "apple_name": "St. Lucia"
+  },
+  "lk": {
+   "name": "Sri Lanka",
+   "apple_name": "Sri Lanka"
+  },
+  "lr": {
+   "name": "Liberia",
+   "apple_name": "Liberia"
+  },
+  "lt": {
+   "name": "Lithuania",
+   "apple_name": "Lithuania"
+  },
+  "lu": {
+   "name": "Luxembourg",
+   "apple_name": "Luxembourg"
+  },
+  "lv": {
+   "name": "Latvia",
+   "apple_name": "Latvia"
+  },
+  "ly": {
+   "name": "Libya",
+   "apple_name": "Libya"
+  },
+  "ma": {
+   "name": "Morocco",
+   "apple_name": "Morocco"
+  },
+  "md": {
+   "name": "Moldova",
+   "apple_name": "Moldova"
+  },
+  "me": {
+   "name": "Montenegro",
+   "apple_name": "Montenegro"
+  },
+  "mg": {
+   "name": "Madagascar",
+   "apple_name": "Madagascar"
+  },
+  "mk": {
+   "name": "North Macedonia",
+   "apple_name": "North Macedonia"
+  },
+  "ml": {
+   "name": "Mali",
+   "apple_name": "Mali"
+  },
+  "mm": {
+   "name": "Myanmar",
+   "apple_name": "Myanmar"
+  },
+  "mn": {
+   "name": "Mongolia",
+   "apple_name": "Mongolia"
+  },
+  "mo": {
+   "name": "Macau",
+   "apple_name": "Macau"
+  },
+  "mr": {
+   "name": "Mauritania",
+   "apple_name": "Mauritania"
+  },
+  "ms": {
+   "name": "Montserrat",
+   "apple_name": "Montserrat"
+  },
+  "mt": {
+   "name": "Malta",
+   "apple_name": "Malta"
+  },
+  "mu": {
+   "name": "Mauritius",
+   "apple_name": "Mauritius"
+  },
+  "mv": {
+   "name": "Maldives",
+   "apple_name": "Maldives"
+  },
+  "mw": {
+   "name": "Malawi",
+   "apple_name": "Malawi"
+  },
+  "mx": {
+   "name": "Mexico",
+   "apple_name": "Mexico"
+  },
+  "my": {
+   "name": "Malaysia",
+   "apple_name": "Malaysia"
+  },
+  "mz": {
+   "name": "Mozambique",
+   "apple_name": "Mozambique"
+  },
+  "na": {
+   "name": "Namibia",
+   "apple_name": "Namibia"
+  },
+  "ng": {
+   "name": "Nigeria",
+   "apple_name": "Nigeria"
+  },
+  "ni": {
+   "name": "Nicaragua",
+   "apple_name": "Nicaragua"
+  },
+  "nl": {
+   "name": "Netherlands",
+   "apple_name": "Netherlands"
+  },
+  "no": {
+   "name": "Norway",
+   "apple_name": "Norway"
+  },
+  "np": {
+   "name": "Nepal",
+   "apple_name": "Nepal"
+  },
+  "nr": {
+   "name": "Nauru",
+   "apple_name": "Nauru"
+  },
+  "nz": {
+   "name": "New Zealand",
+   "apple_name": "New Zealand"
+  },
+  "om": {
+   "name": "Oman",
+   "apple_name": "Oman"
+  },
+  "pa": {
+   "name": "Panama",
+   "apple_name": "Panama"
+  },
+  "pe": {
+   "name": "Peru",
+   "apple_name": "Peru"
+  },
+  "pg": {
+   "name": "Papua New Guinea",
+   "apple_name": "Papua New Guinea"
+  },
+  "ph": {
+   "name": "Philippines",
+   "apple_name": "Philippines"
+  },
+  "pk": {
+   "name": "Pakistan",
+   "apple_name": "Pakistan"
+  },
+  "pl": {
+   "name": "Poland",
+   "apple_name": "Poland"
+  },
+  "pt": {
+   "name": "Portugal",
+   "apple_name": "Portugal"
+  },
+  "pw": {
+   "name": "Palau",
+   "apple_name": "Palau"
+  },
+  "py": {
+   "name": "Paraguay",
+   "apple_name": "Paraguay"
+  },
+  "qa": {
+   "name": "Qatar",
+   "apple_name": "Qatar"
+  },
+  "ro": {
+   "name": "Romania",
+   "apple_name": "Romania"
+  },
+  "rs": {
+   "name": "Serbia",
+   "apple_name": "Serbia"
+  },
+  "ru": {
+   "name": "Russia",
+   "apple_name": "Russia"
+  },
+  "rw": {
+   "name": "Rwanda",
+   "apple_name": "Rwanda"
+  },
+  "sa": {
+   "name": "Saudi Arabia",
+   "apple_name": "Saudi Arabia"
+  },
+  "sb": {
+   "name": "Solomon Islands",
+   "apple_name": "Solomon Islands"
+  },
+  "sc": {
+   "name": "Seychelles",
+   "apple_name": "Seychelles"
+  },
+  "se": {
+   "name": "Sweden",
+   "apple_name": "Sweden"
+  },
+  "sg": {
+   "name": "Singapore",
+   "apple_name": "Singapore"
+  },
+  "si": {
+   "name": "Slovenia",
+   "apple_name": "Slovenia"
+  },
+  "sk": {
+   "name": "Slovakia",
+   "apple_name": "Slovakia"
+  },
+  "sl": {
+   "name": "Sierra Leone",
+   "apple_name": "Sierra Leone"
+  },
+  "sn": {
+   "name": "Senegal",
+   "apple_name": "Senegal"
+  },
+  "sr": {
+   "name": "Suriname",
+   "apple_name": "Suriname"
+  },
+  "st": {
+   "name": "São Tomé and Príncipe",
+   "apple_name": "Sao Tome and Principe"
+  },
+  "sv": {
+   "name": "El Salvador",
+   "apple_name": "El Salvador"
+  },
+  "sz": {
+   "name": "Eswatini",
+   "apple_name": "Eswatini"
+  },
+  "tc": {
+   "name": "Turks and Caicos Islands",
+   "apple_name": "Turks and Caicos Islands"
+  },
+  "td": {
+   "name": "Chad",
+   "apple_name": "Chad"
+  },
+  "th": {
+   "name": "Thailand",
+   "apple_name": "Thailand"
+  },
+  "tj": {
+   "name": "Tajikistan",
+   "apple_name": "Tajikistan"
+  },
+  "tm": {
+   "name": "Turkmenistan",
+   "apple_name": "Turkmenistan"
+  },
+  "tn": {
+   "name": "Tunisia",
+   "apple_name": "Tunisia"
+  },
+  "to": {
+   "name": "Tonga",
+   "apple_name": "Tonga"
+  },
+  "tr": {
+   "name": "Turkey",
+   "apple_name": "Türkiye"
+  },
+  "tt": {
+   "name": "Trinidad and Tobago",
+   "apple_name": "Trinidad and Tobago"
+  },
+  "tw": {
+   "name": "Taiwan",
+   "apple_name": "Taiwan"
+  },
+  "tz": {
+   "name": "Tanzania",
+   "apple_name": "Tanzania"
+  },
+  "ua": {
+   "name": "Ukraine",
+   "apple_name": "Ukraine"
+  },
+  "ug": {
+   "name": "Uganda",
+   "apple_name": "Uganda"
+  },
+  "us": {
+   "name": "United States",
+   "apple_name": "United States"
+  },
+  "uy": {
+   "name": "Uruguay",
+   "apple_name": "Uruguay"
+  },
+  "uz": {
+   "name": "Uzbekistan",
+   "apple_name": "Uzbekistan"
+  },
+  "vc": {
+   "name": "Saint Vincent and the Grenadines",
+   "apple_name": "St. Vincent and the Grenadines"
+  },
+  "ve": {
+   "name": "Venezuela",
+   "apple_name": "Venezuela"
+  },
+  "vg": {
+   "name": "British Virgin Islands",
+   "apple_name": "British Virgin Islands"
+  },
+  "vn": {
+   "name": "Vietnam",
+   "apple_name": "Vietnam"
+  },
+  "vu": {
+   "name": "Vanuatu",
+   "apple_name": "Vanuatu"
+  },
+  "xk": {
+   "name": "Kosovo",
+   "apple_name": "Kosovo"
+  },
+  "ye": {
+   "name": "Yemen",
+   "apple_name": "Yemen"
+  },
+  "za": {
+   "name": "South Africa",
+   "apple_name": "South Africa"
+  },
+  "zm": {
+   "name": "Zambia",
+   "apple_name": "Zambia"
+  },
+  "zw": {
+   "name": "Zimbabwe",
+   "apple_name": "Zimbabwe"
+  }
+ }
+}

@@ -1,0 +1,2891 @@
+{
+ "name": "Puley Price Index",
+ "url": "https://puley.com/prices",
+ "updated": "2026-10-08",
+ "fx_date": "2026-10-08",
+ "built": "2026-10-08T10:26:30Z",
+ "stores": 174,
+ "apps": [
+  {
+   "app": "chatgpt",
+   "name": "ChatGPT",
+   "category": "AI assistants",
+   "collected": "2026-10-08",
+   "sold_in": 168,
+   "plans": 6,
+   "headline": {
+    "key": "chatgpt-plus",
+    "name": "ChatGPT Plus",
+    "period": "month",
+    "stores": 168,
+    "stats": {
+     "us": 19.99,
+     "min": 15.91,
+     "max": 30.86,
+     "median": 19.99,
+     "spread": 1.94,
+     "cheapest": [
+      {
+       "cc": "PH",
+       "country": "Philippines",
+       "usd": 15.91
+      },
+      {
+       "cc": "CA",
+       "country": "Canada",
+       "usd": 17.55
+      },
+      {
+       "cc": "PK",
+       "country": "Pakistan",
+       "usd": 17.68
+      },
+      {
+       "cc": "TZ",
+       "country": "Tanzania",
+       "usd": 18.91
+      },
+      {
+       "cc": "JP",
+       "country": "Japan",
+       "usd": 18.98
+      }
+     ],
+     "priciest": [
+      {
+       "cc": "CO",
+       "country": "Colombia",
+       "usd": 30.86
+      },
+      {
+       "cc": "HU",
+       "country": "Hungary",
+       "usd": 27.5
+      },
+      {
+       "cc": "DK",
+       "country": "Denmark",
+       "usd": 26.78
+      },
+      {
+       "cc": "GB",
+       "country": "United Kingdom",
+       "usd": 26.42
+      },
+      {
+       "cc": "NO",
+       "country": "Norway",
+       "usd": 26.0
+      }
+     ]
+    }
+   }
+  },
+  {
+   "app": "claude",
+   "name": "Claude",
+   "category": "AI assistants",
+   "collected": "2026-10-08",
+   "sold_in": 165,
+   "plans": 4,
+   "headline": {
+    "key": "claude-pro",
+    "name": "Claude Pro - Monthly",
+    "period": "month",
+    "stores": 165,
+    "stats": {
+     "us": 20.0,
+     "min": 17.68,
+     "max": 30.86,
+     "median": 20.54,
+     "spread": 1.75,
+     "cheapest": [
+      {
+       "cc": "PK",
+       "country": "Pakistan",
+       "usd": 17.68
+      },
+      {
+       "cc": "JP",
+       "country": "Japan",
+       "usd": 18.98
+      },
+      {
+       "cc": "EG",
+       "country": "Egypt",
+       "usd": 19.09
+      },
+      {
+       "cc": "QA",
+       "country": "Qatar",
+       "usd": 19.23
+      },
+      {
+       "cc": "ID",
+       "country": "Indonesia",
+       "usd": 19.52
+      }
+     ],
+     "priciest": [
+      {
+       "cc": "CO",
+       "country": "Colombia",
+       "usd": 30.86
+      },
+      {
+       "cc": "HU",
+       "country": "Hungary",
+       "usd": 27.5
+      },
+      {
+       "cc": "KZ",
+       "country": "Kazakhstan",
+       "usd": 26.81
+      },
+      {
+       "cc": "DK",
+       "country": "Denmark",
+       "usd": 26.78
+      },
+      {
+       "cc": "GB",
+       "country": "United Kingdom",
+       "usd": 26.44
+      }
+     ]
+    }
+   }
+  },
+  {
+   "app": "gemini",
+   "name": "Google Gemini",
+   "category": "AI assistants",
+   "collected": "2026-10-08",
+   "sold_in": 168,
+   "plans": 14,
+   "headline": {
+    "key": "google-ai-pro-5-tb",
+    "name": "Google AI Pro (5 TB)",
+    "period": "month",
+    "stores": 166,
+    "stats": {
+     "us": 19.99,
+     "min": 17.29,
+     "max": 27.05,
+     "median": 19.99,
+     "spread": 1.56,
+     "cheapest": [
+      {
+       "cc": "ID",
+       "country": "Indonesia",
+       "usd": 17.29
+      },
+      {
+       "cc": "PH",
+       "country": "Philippines",
+       "usd": 17.51
+      },
+      {
+       "cc": "EG",
+       "country": "Egypt",
+       "usd": 17.94
+      },
+      {
+       "cc": "JP",
+       "country": "Japan",
+       "usd": 18.34
+      },
+      {
+       "cc": "VN",
+       "country": "Vietnam",
+       "usd": 18.84
+      }
+     ],
+     "priciest": [
+      {
+       "cc": "NO",
+       "country": "Norway",
+       "usd": 27.05
+      },
+      {
+       "cc": "HU",
+       "country": "Hungary",
+       "usd": 26.89
+      },
+      {
+       "cc": "ZA",
+       "country": "South Africa",
+       "usd": 25.84
+      },
+      {
+       "cc": "XK",
+       "country": "Kosovo",
+       "usd": 25.75
+      },
+      {
+       "cc": "HR",
+       "country": "Croatia",
+       "usd": 25.75
+      }
+     ]
+    }
+   }
+  },
+  {
+   "app": "perplexity",
+   "name": "Perplexity",
+   "category": "AI assistants",
+   "collected": "2026-10-08",
+   "sold_in": 173,
+   "plans": 3,
+   "headline": {
+    "key": "perplexity-pro",
+    "name": "Perplexity Pro",
+    "period": "month",
+    "stores": 163,
+    "stats": {
+     "us": 20.0,
+     "min": 17.55,
+     "max": 30.86,
+     "median": 20.0,
+     "spread": 1.76,
+     "cheapest": [
+      {
+       "cc": "CA",
+       "country": "Canada",
+       "usd": 17.55
+      },
+      {
+       "cc": "PK",
+       "country": "Pakistan",
+       "usd": 17.68
+      },
+      {
+       "cc": "HK",
+       "country": "Hong Kong",
+       "usd": 18.86
+      },
+      {
+       "cc": "JP",
+       "country": "Japan",
+       "usd": 18.98
+      },
+      {
+       "cc": "EG",
+       "country": "Egypt",
+       "usd": 19.09
+      }
+     ],
+     "priciest": [
+      {
+       "cc": "CO",
+       "country": "Colombia",
+       "usd": 30.86
+      },
+      {
+       "cc": "HU",
+       "country": "Hungary",
+       "usd": 27.5
+      },
+      {
+       "cc": "DK",
+       "country": "Denmark",
+       "usd": 26.78
+      },
+      {
+       "cc": "GB",
+       "country": "United Kingdom",
+       "usd": 26.44
+      },
+      {
+       "cc": "NO",
+       "country": "Norway",
+       "usd": 26.0
+      }
+     ]
+    }
+   }
+  },
+  {
+   "app": "grok",
+   "name": "Grok",
+   "category": "AI assistants",
+   "collected": "2026-10-08",
+   "sold_in": 160,
+   "plans": 7,
+   "headline": {
+    "key": "supergrok",
+    "name": "SuperGrok",
+    "period": "month",
+    "stores": 155,
+    "stats": {
+     "us": 30.0,
+     "min": 26.41,
+     "max": 41.67,
+     "median": 30.0,
+     "spread": 1.58,
+     "cheapest": [
+      {
+       "cc": "TR",
+       "country": "Turkey",
+       "usd": 26.41
+      },
+      {
+       "cc": "QA",
+       "country": "Qatar",
+       "usd": 27.47
+      },
+      {
+       "cc": "ID",
+       "country": "Indonesia",
+       "usd": 27.91
+      },
+      {
+       "cc": "NZ",
+       "country": "New Zealand",
+       "usd": 28.0
+      },
+      {
+       "cc": "CA",
+       "country": "Canada",
+       "usd": 28.08
+      }
+     ],
+     "priciest": [
+      {
+       "cc": "NO",
+       "country": "Norway",
+       "usd": 41.67
+      },
+      {
+       "cc": "CO",
+       "country": "Colombia",
+       "usd": 40.13
+      },
+      {
+       "cc": "ZM",
+       "country": "Zambia",
+       "usd": 40.0
+      },
+      {
+       "cc": "UG",
+       "country": "Uganda",
+       "usd": 40.0
+      },
+      {
+       "cc": "UA",
+       "country": "Ukraine",
+       "usd": 40.0
+      }
+     ]
+    }
+   }
+  },
+  {
+   "app": "copilot",
+   "name": "Microsoft Copilot",
+   "category": "AI assistants",
+   "collected": "2026-10-08",
+   "sold_in": 169,
+   "plans": 7,
+   "headline": {
+    "key": "microsoft-365-premium",
+    "name": "Microsoft 365 Premium Monthly",
+    "period": "month",
+    "stores": 165,
+    "stats": {
+     "us": 19.99,
+     "min": 12.78,
+     "max": 27.05,
+     "median": 19.99,
+     "spread": 2.12,
+     "cheapest": [
+      {
+       "cc": "NG",
+       "country": "Nigeria",
+       "usd": 12.78
+      },
+      {
+       "cc": "EG",
+       "country": "Egypt",
+       "usd": 13.34
+      },
+      {
+       "cc": "TR",
+       "country": "Turkey",
+       "usd": 14.63
+      },
+      {
+       "cc": "PH",
+       "country": "Philippines",
+       "usd": 17.35
+      },
+      {
+       "cc": "ID",
+       "country": "Indonesia",
+       "usd": 18.46
+      }
+     ],
+     "priciest": [
+      {
+       "cc": "NO",
+       "country": "Norway",
+       "usd": 27.05
+      },
+      {
+       "cc": "HU",
+       "country": "Hungary",
+       "usd": 26.89
+      },
+      {
+       "cc": "CO",
+       "country": "Colombia",
+       "usd": 26.23
+      },
+      {
+       "cc": "ZA",
+       "country": "South Africa",
+       "usd": 25.78
+      },
+      {
+       "cc": "HR",
+       "country": "Croatia",
+       "usd": 25.76
+      }
+     ]
+    }
+   }
+  },
+  {
+   "app": "le-chat",
+   "name": "Le Chat (Vibe by Mistral)",
+   "category": "AI assistants",
+   "collected": "2026-10-08",
+   "sold_in": 174,
+   "plans": 2,
+   "headline": {
+    "key": "vibe-pro",
+    "name": "Vibe Pro",
+    "period": "month",
+    "stores": 174,
+    "stats": {
+     "us": 14.99,
+     "min": 12.72,
+     "max": 21.6,
+     "median": 14.99,
+     "spread": 1.7,
+     "cheapest": [
+      {
+       "cc": "PH",
+       "country": "Philippines",
+       "usd": 12.72
+      },
+      {
+       "cc": "QA",
+       "country": "Qatar",
+       "usd": 13.73
+      },
+      {
+       "cc": "ID",
+       "country": "Indonesia",
+       "usd": 13.93
+      },
+      {
+       "cc": "CA",
+       "country": "Canada",
+       "usd": 14.03
+      },
+      {
+       "cc": "PK",
+       "country": "Pakistan",
+       "usd": 14.08
+      }
+     ],
+     "priciest": [
+      {
+       "cc": "CO",
+       "country": "Colombia",
+       "usd": 21.6
+      },
+      {
+       "cc": "HU",
+       "country": "Hungary",
+       "usd": 21.38
+      },
+      {
+       "cc": "NO",
+       "country": "Norway",
+       "usd": 20.78
+      },
+      {
+       "cc": "PL",
+       "country": "Poland",
+       "usd": 20.45
+      },
+      {
+       "cc": "PE",
+       "country": "Peru",
+       "usd": 20.3
+      }
+     ]
+    }
+   }
+  },
+  {
+   "app": "character-ai",
+   "name": "Character.AI",
+   "category": "AI assistants",
+   "collected": "2026-10-08",
+   "sold_in": 172,
+   "plans": 2,
+   "headline": {
+    "key": "character-ai+",
+    "name": "Character.AI+",
+    "period": "month",
+    "stores": 152,
+    "stats": {
+     "us": 9.99,
+     "min": 5.73,
+     "max": 18.51,
+     "median": 9.99,
+     "spread": 3.23,
+     "cheapest": [
+      {
+       "cc": "EG",
+       "country": "Egypt",
+       "usd": 5.73
+      },
+      {
+       "cc": "PH",
+       "country": "Philippines",
+       "usd": 7.94
+      },
+      {
+       "cc": "TZ",
+       "country": "Tanzania",
+       "usd": 8.68
+      },
+      {
+       "cc": "CA",
+       "country": "Canada",
+       "usd": 9.12
+      },
+      {
+       "cc": "ID",
+       "country": "Indonesia",
+       "usd": 9.45
+      }
+     ],
+     "priciest": [
+      {
+       "cc": "CO",
+       "country": "Colombia",
+       "usd": 18.51
+      },
+      {
+       "cc": "HU",
+       "country": "Hungary",
+       "usd": 13.73
+      },
+      {
+       "cc": "NO",
+       "country": "Norway",
+       "usd": 13.47
+      },
+      {
+       "cc": "DK",
+       "country": "Denmark",
+       "usd": 13.32
+      },
+      {
+       "cc": "GB",
+       "country": "United Kingdom",
+       "usd": 13.2
+      }
+     ]
+    }
+   }
+  },
+  {
+   "app": "youtube",
+   "name": "YouTube Premium",
+   "category": "Video and music",
+   "collected": "2026-10-08",
+   "sold_in": 133,
+   "plans": 41,
+   "headline": {
+    "key": "youtube-premium",
+    "name": "YouTube Premium",
+    "period": "month",
+    "stores": 112,
+    "stats": {
+     "us": 20.99,
+     "min": 2.01,
+     "max": 31.27,
+     "median": 10.99,
+     "spread": 15.56,
+     "cheapest": [
+      {
+       "cc": "IN",
+       "country": "India",
+       "usd": 2.01
+      },
+      {
+       "cc": "EG",
+       "country": "Egypt",
+       "usd": 2.2
+      },
+      {
+       "cc": "PK",
+       "country": "Pakistan",
+       "usd": 2.34
+      },
+      {
+       "cc": "GH",
+       "country": "Ghana",
+       "usd": 2.69
+      },
+      {
+       "cc": "TR",
+       "country": "Turkey",
+       "usd": 3.25
+      }
+     ],
+     "priciest": [
+      {
+       "cc": "DK",
+       "country": "Denmark",
+       "usd": 31.27
+      },
+      {
+       "cc": "CH",
+       "country": "Switzerland",
+       "usd": 28.69
+      },
+      {
+       "cc": "LU",
+       "country": "Luxembourg",
+       "usd": 24.63
+      },
+      {
+       "cc": "FI",
+       "country": "Finland",
+       "usd": 24.63
+      },
+      {
+       "cc": "NL",
+       "country": "Netherlands",
+       "usd": 23.51
+      }
+     ]
+    }
+   }
+  },
+  {
+   "app": "hbo-max",
+   "name": "HBO Max",
+   "category": "Video and music",
+   "collected": "2026-10-08",
+   "sold_in": 97,
+   "plans": 14,
+   "headline": {
+    "key": "standard",
+    "name": "Standard",
+    "period": "month",
+    "stores": 90,
+    "stats": {
+     "us": 18.49,
+     "min": 2.89,
+     "max": 20.29,
+     "median": 9.09,
+     "spread": 7.02,
+     "cheapest": [
+      {
+       "cc": "PK",
+       "country": "Pakistan",
+       "usd": 2.89
+      },
+      {
+       "cc": "TR",
+       "country": "Turkey",
+       "usd": 4.67
+      },
+      {
+       "cc": "KH",
+       "country": "Cambodia",
+       "usd": 4.99
+      },
+      {
+       "cc": "LA",
+       "country": "Laos",
+       "usd": 4.99
+      },
+      {
+       "cc": "LK",
+       "country": "Sri Lanka",
+       "usd": 4.99
+      }
+     ],
+     "priciest": [
+      {
+       "cc": "CH",
+       "country": "Switzerland",
+       "usd": 20.29
+      },
+      {
+       "cc": "DK",
+       "country": "Denmark",
+       "usd": 19.3
+      },
+      {
+       "cc": "US",
+       "country": "United States",
+       "usd": 18.49
+      },
+      {
+       "cc": "IL",
+       "country": "Israel",
+       "usd": 16.27
+      },
+      {
+       "cc": "NO",
+       "country": "Norway",
+       "usd": 15.56
+      }
+     ]
+    }
+   }
+  },
+  {
+   "app": "crunchyroll",
+   "name": "Crunchyroll",
+   "category": "Video and music",
+   "collected": "2026-10-08",
+   "sold_in": 169,
+   "plans": 10,
+   "headline": {
+    "key": "fan",
+    "name": "Fan",
+    "period": "month",
+    "stores": 169,
+    "stats": {
+     "us": 9.99,
+     "min": 1.01,
+     "max": 10.68,
+     "median": 6.71,
+     "spread": 10.57,
+     "cheapest": [
+      {
+       "cc": "PK",
+       "country": "Pakistan",
+       "usd": 1.01
+      },
+      {
+       "cc": "IN",
+       "country": "India",
+       "usd": 1.02
+      },
+      {
+       "cc": "TR",
+       "country": "Turkey",
+       "usd": 1.42
+      },
+      {
+       "cc": "PH",
+       "country": "Philippines",
+       "usd": 1.58
+      },
+      {
+       "cc": "VN",
+       "country": "Vietnam",
+       "usd": 1.73
+      }
+     ],
+     "priciest": [
+      {
+       "cc": "CH",
+       "country": "Switzerland",
+       "usd": 10.68
+      },
+      {
+       "cc": "DE",
+       "country": "Germany",
+       "usd": 10.07
+      },
+      {
+       "cc": "AT",
+       "country": "Austria",
+       "usd": 10.07
+      },
+      {
+       "cc": "US",
+       "country": "United States",
+       "usd": 9.99
+      },
+      {
+       "cc": "DK",
+       "country": "Denmark",
+       "usd": 9.73
+      }
+     ]
+    }
+   }
+  },
+  {
+   "app": "telegram",
+   "name": "Telegram Premium",
+   "category": "Social and chat",
+   "collected": "2026-10-08",
+   "sold_in": 173,
+   "plans": 17,
+   "headline": {
+    "key": "telegram-premium",
+    "name": "Telegram Premium",
+    "period": "month",
+    "stores": 170,
+    "stats": {
+     "us": 4.99,
+     "min": 3.28,
+     "max": 7.0,
+     "median": 4.99,
+     "spread": 2.13,
+     "cheapest": [
+      {
+       "cc": "CL",
+       "country": "Chile",
+       "usd": 3.28
+      },
+      {
+       "cc": "IN",
+       "country": "India",
+       "usd": 3.29
+      },
+      {
+       "cc": "ID",
+       "country": "Indonesia",
+       "usd": 3.3
+      },
+      {
+       "cc": "PK",
+       "country": "Pakistan",
+       "usd": 3.32
+      },
+      {
+       "cc": "PH",
+       "country": "Philippines",
+       "usd": 3.42
+      }
+     ],
+     "priciest": [
+      {
+       "cc": "HU",
+       "country": "Hungary",
+       "usd": 7.0
+      },
+      {
+       "cc": "DK",
+       "country": "Denmark",
+       "usd": 6.73
+      },
+      {
+       "cc": "SI",
+       "country": "Slovenia",
+       "usd": 6.71
+      },
+      {
+       "cc": "PT",
+       "country": "Portugal",
+       "usd": 6.71
+      },
+      {
+       "cc": "IE",
+       "country": "Ireland",
+       "usd": 6.71
+      }
+     ]
+    }
+   }
+  },
+  {
+   "app": "x",
+   "name": "X Premium",
+   "category": "Social and chat",
+   "collected": "2026-10-08",
+   "sold_in": 174,
+   "plans": 176,
+   "headline": {
+    "key": "x-premium",
+    "name": "X Premium (Monthly)",
+    "period": "month",
+    "stores": 170,
+    "stats": {
+     "us": 11.0,
+     "min": 4.06,
+     "max": 14.54,
+     "median": 6.0,
+     "spread": 3.58,
+     "cheapest": [
+      {
+       "cc": "TR",
+       "country": "Turkey",
+       "usd": 4.06
+      },
+      {
+       "cc": "ID",
+       "country": "Indonesia",
+       "usd": 4.76
+      },
+      {
+       "cc": "EG",
+       "country": "Egypt",
+       "usd": 4.77
+      },
+      {
+       "cc": "IN",
+       "country": "India",
+       "usd": 4.85
+      },
+      {
+       "cc": "AF",
+       "country": "Afghanistan",
+       "usd": 5.0
+      }
+     ],
+     "priciest": [
+      {
+       "cc": "GB",
+       "country": "United Kingdom",
+       "usd": 14.54
+      },
+      {
+       "cc": "NL",
+       "country": "Netherlands",
+       "usd": 12.32
+      },
+      {
+       "cc": "MT",
+       "country": "Malta",
+       "usd": 12.32
+      },
+      {
+       "cc": "LV",
+       "country": "Latvia",
+       "usd": 12.32
+      },
+      {
+       "cc": "LU",
+       "country": "Luxembourg",
+       "usd": 12.32
+      }
+     ]
+    }
+   }
+  },
+  {
+   "app": "notion",
+   "name": "Notion",
+   "category": "Learning and work",
+   "collected": "2026-10-08",
+   "sold_in": 173,
+   "plans": 4,
+   "headline": {
+    "key": "notion-plus",
+    "name": "Notion – Plus Monthly",
+    "period": "month",
+    "stores": 173,
+    "stats": {
+     "us": 11.99,
+     "min": 10.16,
+     "max": 18.51,
+     "median": 11.99,
+     "spread": 1.82,
+     "cheapest": [
+      {
+       "cc": "TR",
+       "country": "Turkey",
+       "usd": 10.16
+      },
+      {
+       "cc": "CA",
+       "country": "Canada",
+       "usd": 10.52
+      },
+      {
+       "cc": "QA",
+       "country": "Qatar",
+       "usd": 10.99
+      },
+      {
+       "cc": "ID",
+       "country": "Indonesia",
+       "usd": 11.13
+      },
+      {
+       "cc": "PH",
+       "country": "Philippines",
+       "usd": 11.13
+      }
+     ],
+     "priciest": [
+      {
+       "cc": "CO",
+       "country": "Colombia",
+       "usd": 18.51
+      },
+      {
+       "cc": "PL",
+       "country": "Poland",
+       "usd": 17.9
+      },
+      {
+       "cc": "GB",
+       "country": "United Kingdom",
+       "usd": 15.85
+      },
+      {
+       "cc": "NO",
+       "country": "Norway",
+       "usd": 15.56
+      },
+      {
+       "cc": "HU",
+       "country": "Hungary",
+       "usd": 15.26
+      }
+     ]
+    }
+   }
+  },
+  {
+   "app": "capcut",
+   "name": "CapCut",
+   "category": "Creative",
+   "collected": "2026-10-08",
+   "sold_in": 171,
+   "plans": 9,
+   "headline": {
+    "key": "pro",
+    "name": "Pro Monthly Subscription",
+    "period": "month",
+    "stores": 165,
+    "stats": {
+     "us": 19.99,
+     "min": 7.64,
+     "max": 38.35,
+     "median": 13.99,
+     "spread": 5.02,
+     "cheapest": [
+      {
+       "cc": "PH",
+       "country": "Philippines",
+       "usd": 7.64
+      },
+      {
+       "cc": "PK",
+       "country": "Pakistan",
+       "usd": 7.94
+      },
+      {
+       "cc": "ID",
+       "country": "Indonesia",
+       "usd": 8.06
+      },
+      {
+       "cc": "TR",
+       "country": "Turkey",
+       "usd": 8.13
+      },
+      {
+       "cc": "VN",
+       "country": "Vietnam",
+       "usd": 8.55
+      }
+     ],
+     "priciest": [
+      {
+       "cc": "PL",
+       "country": "Poland",
+       "usd": 38.35
+      },
+      {
+       "cc": "HU",
+       "country": "Hungary",
+       "usd": 36.67
+      },
+      {
+       "cc": "NO",
+       "country": "Norway",
+       "usd": 36.45
+      },
+      {
+       "cc": "SE",
+       "country": "Sweden",
+       "usd": 34.86
+      },
+      {
+       "cc": "DK",
+       "country": "Denmark",
+       "usd": 34.27
+      }
+     ]
+    }
+   }
+  },
+  {
+   "app": "google-one",
+   "name": "Google One",
+   "category": "Privacy and storage",
+   "collected": "2026-10-08",
+   "sold_in": 144,
+   "plans": 15,
+   "headline": {
+    "key": "100-gb",
+    "name": "100 GB Month",
+    "period": "month",
+    "stores": 137,
+    "stats": {
+     "us": 1.99,
+     "min": 1.51,
+     "max": 2.75,
+     "median": 1.99,
+     "spread": 1.82,
+     "cheapest": [
+      {
+       "cc": "RU",
+       "country": "Russia",
+       "usd": 1.51
+      },
+      {
+       "cc": "IN",
+       "country": "India",
+       "usd": 1.54
+      },
+      {
+       "cc": "TR",
+       "country": "Turkey",
+       "usd": 1.73
+      },
+      {
+       "cc": "VN",
+       "country": "Vietnam",
+       "usd": 1.73
+      },
+      {
+       "cc": "ID",
+       "country": "Indonesia",
+       "usd": 1.79
+      }
+     ],
+     "priciest": [
+      {
+       "cc": "CO",
+       "country": "Colombia",
+       "usd": 2.75
+      },
+      {
+       "cc": "CZ",
+       "country": "Czechia",
+       "usd": 2.71
+      },
+      {
+       "cc": "IL",
+       "country": "Israel",
+       "usd": 2.58
+      },
+      {
+       "cc": "DK",
+       "country": "Denmark",
+       "usd": 2.54
+      },
+      {
+       "cc": "NO",
+       "country": "Norway",
+       "usd": 2.51
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "countries": [
+  {
+   "cc": "AE",
+   "name": "United Arab Emirates",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "income": "High income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 4.9
+  },
+  {
+   "cc": "AF",
+   "name": "Afghanistan",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "income": "Low income",
+   "currency": null,
+   "apps": 9,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "AG",
+   "name": "Antigua and Barbuda",
+   "region": "Latin America & Caribbean",
+   "income": "High income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "AI",
+   "name": "Anguilla",
+   "region": null,
+   "income": null,
+   "currency": null,
+   "apps": 13,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "AL",
+   "name": "Albania",
+   "region": "Europe & Central Asia",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 20.0
+  },
+  {
+   "cc": "AM",
+   "name": "Armenia",
+   "region": "Europe & Central Asia",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 7.5
+  },
+  {
+   "cc": "AO",
+   "name": "Angola",
+   "region": "Sub-Saharan Africa",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 13,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "AR",
+   "name": "Argentina",
+   "region": "Latin America & Caribbean",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "AT",
+   "name": "Austria",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 23.2
+  },
+  {
+   "cc": "AU",
+   "name": "Australia",
+   "region": "East Asia & Pacific",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 4.5
+  },
+  {
+   "cc": "AZ",
+   "name": "Azerbaijan",
+   "region": "Europe & Central Asia",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 13,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "BA",
+   "name": "Bosnia and Herzegovina",
+   "region": "Europe & Central Asia",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 12.1
+  },
+  {
+   "cc": "BB",
+   "name": "Barbados",
+   "region": "Latin America & Caribbean",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 17.5
+  },
+  {
+   "cc": "BE",
+   "name": "Belgium",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 23.2
+  },
+  {
+   "cc": "BF",
+   "name": "Burkina Faso",
+   "region": "Sub-Saharan Africa",
+   "income": "Low income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "BG",
+   "name": "Bulgaria",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 12.0
+  },
+  {
+   "cc": "BH",
+   "name": "Bahrain",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "income": "High income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "BJ",
+   "name": "Benin",
+   "region": "Sub-Saharan Africa",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "BM",
+   "name": "Bermuda",
+   "region": "North America",
+   "income": "High income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "BN",
+   "name": "Brunei",
+   "region": "East Asia & Pacific",
+   "income": "High income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "BO",
+   "name": "Bolivia",
+   "region": "Latin America & Caribbean",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "BR",
+   "name": "Brazil",
+   "region": "Latin America & Caribbean",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": -0.2
+  },
+  {
+   "cc": "BS",
+   "name": "Bahamas",
+   "region": "Latin America & Caribbean",
+   "income": "High income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "BT",
+   "name": "Bhutan",
+   "region": "South Asia",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 13,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "BW",
+   "name": "Botswana",
+   "region": "Sub-Saharan Africa",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "BY",
+   "name": "Belarus",
+   "region": "Europe & Central Asia",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 9,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "BZ",
+   "name": "Belize",
+   "region": "Latin America & Caribbean",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "CA",
+   "name": "Canada",
+   "region": "North America",
+   "income": "High income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": -8.6
+  },
+  {
+   "cc": "CD",
+   "name": "DR Congo",
+   "region": "Sub-Saharan Africa",
+   "income": "Low income",
+   "currency": null,
+   "apps": 11,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "CG",
+   "name": "Republic of the Congo",
+   "region": "Sub-Saharan Africa",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 13,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "CH",
+   "name": "Switzerland",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 20.1
+  },
+  {
+   "cc": "CI",
+   "name": "Côte d'Ivoire",
+   "region": "Sub-Saharan Africa",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 13,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "CL",
+   "name": "Chile",
+   "region": "Latin America & Caribbean",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 6.5
+  },
+  {
+   "cc": "CM",
+   "name": "Cameroon",
+   "region": "Sub-Saharan Africa",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 13,
+   "median_vs_us_pct": 15.0
+  },
+  {
+   "cc": "CN",
+   "name": "China",
+   "region": "East Asia & Pacific",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 3,
+   "median_vs_us_pct": -2.6
+  },
+  {
+   "cc": "CO",
+   "name": "Colombia",
+   "region": "Latin America & Caribbean",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 32.5
+  },
+  {
+   "cc": "CR",
+   "name": "Costa Rica",
+   "region": "Latin America & Caribbean",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "CV",
+   "name": "Cape Verde",
+   "region": "Sub-Saharan Africa",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 13,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "CY",
+   "name": "Cyprus",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 22.3
+  },
+  {
+   "cc": "CZ",
+   "name": "Czechia",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 14.4
+  },
+  {
+   "cc": "DE",
+   "name": "Germany",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 23.2
+  },
+  {
+   "cc": "DK",
+   "name": "Denmark",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 28.2
+  },
+  {
+   "cc": "DM",
+   "name": "Dominica",
+   "region": "Latin America & Caribbean",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 13,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "DO",
+   "name": "Dominican Republic",
+   "region": "Latin America & Caribbean",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "DZ",
+   "name": "Algeria",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "EC",
+   "name": "Ecuador",
+   "region": "Latin America & Caribbean",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "EE",
+   "name": "Estonia",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 23.2
+  },
+  {
+   "cc": "EG",
+   "name": "Egypt",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": -10.3
+  },
+  {
+   "cc": "ES",
+   "name": "Spain",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 22.3
+  },
+  {
+   "cc": "FI",
+   "name": "Finland",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 23.2
+  },
+  {
+   "cc": "FJ",
+   "name": "Fiji",
+   "region": "East Asia & Pacific",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "FM",
+   "name": "Micronesia",
+   "region": "East Asia & Pacific",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 9,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "FR",
+   "name": "France",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 23.2
+  },
+  {
+   "cc": "GA",
+   "name": "Gabon",
+   "region": "Sub-Saharan Africa",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "GB",
+   "name": "United Kingdom",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 32.2
+  },
+  {
+   "cc": "GD",
+   "name": "Grenada",
+   "region": "Latin America & Caribbean",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 12,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "GE",
+   "name": "Georgia",
+   "region": "Europe & Central Asia",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 17.5
+  },
+  {
+   "cc": "GH",
+   "name": "Ghana",
+   "region": "Sub-Saharan Africa",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "GM",
+   "name": "Gambia",
+   "region": "Sub-Saharan Africa",
+   "income": "Low income",
+   "currency": null,
+   "apps": 12,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "GR",
+   "name": "Greece",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 23.2
+  },
+  {
+   "cc": "GT",
+   "name": "Guatemala",
+   "region": "Latin America & Caribbean",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "GW",
+   "name": "Guinea-Bissau",
+   "region": "Sub-Saharan Africa",
+   "income": "Low income",
+   "currency": null,
+   "apps": 12,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "GY",
+   "name": "Guyana",
+   "region": "Latin America & Caribbean",
+   "income": "High income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "HK",
+   "name": "Hong Kong",
+   "region": "East Asia & Pacific",
+   "income": "High income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": -4.8
+  },
+  {
+   "cc": "HN",
+   "name": "Honduras",
+   "region": "Latin America & Caribbean",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "HR",
+   "name": "Croatia",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": 26.0
+  },
+  {
+   "cc": "HU",
+   "name": "Hungary",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 34.5
+  },
+  {
+   "cc": "ID",
+   "name": "Indonesia",
+   "region": "East Asia & Pacific",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": -7.7
+  },
+  {
+   "cc": "IE",
+   "name": "Ireland",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 23.2
+  },
+  {
+   "cc": "IL",
+   "name": "Israel",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 8.5
+  },
+  {
+   "cc": "IN",
+   "name": "India",
+   "region": "South Asia",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": 2.0
+  },
+  {
+   "cc": "IQ",
+   "name": "Iraq",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "IS",
+   "name": "Iceland",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 20.0
+  },
+  {
+   "cc": "IT",
+   "name": "Italy",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 22.3
+  },
+  {
+   "cc": "JM",
+   "name": "Jamaica",
+   "region": "Latin America & Caribbean",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "JO",
+   "name": "Jordan",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "JP",
+   "name": "Japan",
+   "region": "East Asia & Pacific",
+   "income": "High income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": -5.1
+  },
+  {
+   "cc": "KE",
+   "name": "Kenya",
+   "region": "Sub-Saharan Africa",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 15.0
+  },
+  {
+   "cc": "KG",
+   "name": "Kyrgyzstan",
+   "region": "Europe & Central Asia",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "KH",
+   "name": "Cambodia",
+   "region": "East Asia & Pacific",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "KN",
+   "name": "Saint Kitts and Nevis",
+   "region": "Latin America & Caribbean",
+   "income": "High income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "KR",
+   "name": "South Korea",
+   "region": "East Asia & Pacific",
+   "income": "High income",
+   "currency": null,
+   "apps": 13,
+   "median_vs_us_pct": 5.9
+  },
+  {
+   "cc": "KW",
+   "name": "Kuwait",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "income": "High income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "KY",
+   "name": "Cayman Islands",
+   "region": "Latin America & Caribbean",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "KZ",
+   "name": "Kazakhstan",
+   "region": "Europe & Central Asia",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": 11.7
+  },
+  {
+   "cc": "LA",
+   "name": "Laos",
+   "region": "East Asia & Pacific",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "LB",
+   "name": "Lebanon",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 13,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "LC",
+   "name": "Saint Lucia",
+   "region": "Latin America & Caribbean",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "LK",
+   "name": "Sri Lanka",
+   "region": "South Asia",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "LR",
+   "name": "Liberia",
+   "region": "Sub-Saharan Africa",
+   "income": "Low income",
+   "currency": null,
+   "apps": 12,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "LT",
+   "name": "Lithuania",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 23.2
+  },
+  {
+   "cc": "LU",
+   "name": "Luxembourg",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 19.5
+  },
+  {
+   "cc": "LV",
+   "name": "Latvia",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 23.2
+  },
+  {
+   "cc": "LY",
+   "name": "Libya",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 12,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "MA",
+   "name": "Morocco",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "MD",
+   "name": "Moldova",
+   "region": "Europe & Central Asia",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 17.5
+  },
+  {
+   "cc": "ME",
+   "name": "Montenegro",
+   "region": "Europe & Central Asia",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 12.0
+  },
+  {
+   "cc": "MG",
+   "name": "Madagascar",
+   "region": "Sub-Saharan Africa",
+   "income": "Low income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "MK",
+   "name": "North Macedonia",
+   "region": "Europe & Central Asia",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "ML",
+   "name": "Mali",
+   "region": "Sub-Saharan Africa",
+   "income": "Low income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "MM",
+   "name": "Myanmar",
+   "region": "East Asia & Pacific",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 11,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "MN",
+   "name": "Mongolia",
+   "region": "East Asia & Pacific",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "MO",
+   "name": "Macau",
+   "region": "East Asia & Pacific",
+   "income": "High income",
+   "currency": null,
+   "apps": 11,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "MR",
+   "name": "Mauritania",
+   "region": "Sub-Saharan Africa",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 12,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "MS",
+   "name": "Montserrat",
+   "region": null,
+   "income": null,
+   "currency": null,
+   "apps": 8,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "MT",
+   "name": "Malta",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 22.3
+  },
+  {
+   "cc": "MU",
+   "name": "Mauritius",
+   "region": "Sub-Saharan Africa",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 13,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "MV",
+   "name": "Maldives",
+   "region": "South Asia",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "MW",
+   "name": "Malawi",
+   "region": "Sub-Saharan Africa",
+   "income": "Low income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "MX",
+   "name": "Mexico",
+   "region": "Latin America & Caribbean",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 9.4
+  },
+  {
+   "cc": "MY",
+   "name": "Malaysia",
+   "region": "East Asia & Pacific",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 14.1
+  },
+  {
+   "cc": "MZ",
+   "name": "Mozambique",
+   "region": "Sub-Saharan Africa",
+   "income": "Low income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "NA",
+   "name": "Namibia",
+   "region": "Sub-Saharan Africa",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "NG",
+   "name": "Nigeria",
+   "region": "Sub-Saharan Africa",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 13,
+   "median_vs_us_pct": 11.6
+  },
+  {
+   "cc": "NI",
+   "name": "Nicaragua",
+   "region": "Latin America & Caribbean",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "NL",
+   "name": "Netherlands",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 23.2
+  },
+  {
+   "cc": "NO",
+   "name": "Norway",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 30.0
+  },
+  {
+   "cc": "NP",
+   "name": "Nepal",
+   "region": "South Asia",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "NR",
+   "name": "Nauru",
+   "region": "East Asia & Pacific",
+   "income": "High income",
+   "currency": null,
+   "apps": 13,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "NZ",
+   "name": "New Zealand",
+   "region": "East Asia & Pacific",
+   "income": "High income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 3.6
+  },
+  {
+   "cc": "OM",
+   "name": "Oman",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "income": "High income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "PA",
+   "name": "Panama",
+   "region": "Latin America & Caribbean",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "PE",
+   "name": "Peru",
+   "region": "Latin America & Caribbean",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": 8.2
+  },
+  {
+   "cc": "PG",
+   "name": "Papua New Guinea",
+   "region": "East Asia & Pacific",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "PH",
+   "name": "Philippines",
+   "region": "East Asia & Pacific",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 13,
+   "median_vs_us_pct": -15.1
+  },
+  {
+   "cc": "PK",
+   "name": "Pakistan",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": -11.6
+  },
+  {
+   "cc": "PL",
+   "name": "Poland",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 26.6
+  },
+  {
+   "cc": "PT",
+   "name": "Portugal",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 23.2
+  },
+  {
+   "cc": "PW",
+   "name": "Palau",
+   "region": "East Asia & Pacific",
+   "income": "High income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "PY",
+   "name": "Paraguay",
+   "region": "Latin America & Caribbean",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "QA",
+   "name": "Qatar",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "income": "High income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": -3.8
+  },
+  {
+   "cc": "RO",
+   "name": "Romania",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 4.7
+  },
+  {
+   "cc": "RS",
+   "name": "Serbia",
+   "region": "Europe & Central Asia",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 21.4
+  },
+  {
+   "cc": "RU",
+   "name": "Russia",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 7,
+   "median_vs_us_pct": 0.7
+  },
+  {
+   "cc": "RW",
+   "name": "Rwanda",
+   "region": "Sub-Saharan Africa",
+   "income": "Low income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "SA",
+   "name": "Saudi Arabia",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "income": "High income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 11.2
+  },
+  {
+   "cc": "SB",
+   "name": "Solomon Islands",
+   "region": "East Asia & Pacific",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 12,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "SC",
+   "name": "Seychelles",
+   "region": "Sub-Saharan Africa",
+   "income": "High income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "SE",
+   "name": "Sweden",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 24.4
+  },
+  {
+   "cc": "SG",
+   "name": "Singapore",
+   "region": "East Asia & Pacific",
+   "income": "High income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 13.3
+  },
+  {
+   "cc": "SI",
+   "name": "Slovenia",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 23.2
+  },
+  {
+   "cc": "SK",
+   "name": "Slovakia",
+   "region": "Europe & Central Asia",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 23.2
+  },
+  {
+   "cc": "SL",
+   "name": "Sierra Leone",
+   "region": "Sub-Saharan Africa",
+   "income": "Low income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "SN",
+   "name": "Senegal",
+   "region": "Sub-Saharan Africa",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "SR",
+   "name": "Suriname",
+   "region": "Latin America & Caribbean",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 13,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "ST",
+   "name": "São Tomé and Príncipe",
+   "region": "Sub-Saharan Africa",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 8,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "SV",
+   "name": "El Salvador",
+   "region": "Latin America & Caribbean",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "SZ",
+   "name": "Eswatini",
+   "region": "Sub-Saharan Africa",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 13,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "TC",
+   "name": "Turks and Caicos Islands",
+   "region": "Latin America & Caribbean",
+   "income": "High income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "TD",
+   "name": "Chad",
+   "region": "Sub-Saharan Africa",
+   "income": "Low income",
+   "currency": null,
+   "apps": 13,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "TH",
+   "name": "Thailand",
+   "region": "East Asia & Pacific",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 3.0
+  },
+  {
+   "cc": "TJ",
+   "name": "Tajikistan",
+   "region": "Europe & Central Asia",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "TM",
+   "name": "Turkmenistan",
+   "region": "Europe & Central Asia",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 12,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "TN",
+   "name": "Tunisia",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "TO",
+   "name": "Tonga",
+   "region": "East Asia & Pacific",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 13,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "TR",
+   "name": "Turkey",
+   "region": "Europe & Central Asia",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": -15.3
+  },
+  {
+   "cc": "TT",
+   "name": "Trinidad and Tobago",
+   "region": "Latin America & Caribbean",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "TW",
+   "name": "Taiwan",
+   "region": null,
+   "income": null,
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": 2.1
+  },
+  {
+   "cc": "TZ",
+   "name": "Tanzania",
+   "region": "Sub-Saharan Africa",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": -5.2
+  },
+  {
+   "cc": "UA",
+   "name": "Ukraine",
+   "region": "Europe & Central Asia",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 15.0
+  },
+  {
+   "cc": "UG",
+   "name": "Uganda",
+   "region": "Sub-Saharan Africa",
+   "income": "Low income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": 20.0
+  },
+  {
+   "cc": "US",
+   "name": "United States",
+   "region": "North America",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "UY",
+   "name": "Uruguay",
+   "region": "Latin America & Caribbean",
+   "income": "High income",
+   "currency": null,
+   "apps": 16,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "UZ",
+   "name": "Uzbekistan",
+   "region": "Europe & Central Asia",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "VC",
+   "name": "Saint Vincent and the Grenadines",
+   "region": "Latin America & Caribbean",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "VE",
+   "name": "Venezuela",
+   "region": "Latin America & Caribbean",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 12,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "VG",
+   "name": "British Virgin Islands",
+   "region": "Latin America & Caribbean",
+   "income": "High income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "VN",
+   "name": "Vietnam",
+   "region": "East Asia & Pacific",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": -4.9
+  },
+  {
+   "cc": "VU",
+   "name": "Vanuatu",
+   "region": "East Asia & Pacific",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 12,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "XK",
+   "name": "Kosovo",
+   "region": "Europe & Central Asia",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 12,
+   "median_vs_us_pct": 23.2
+  },
+  {
+   "cc": "YE",
+   "name": "Yemen",
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "income": "Low income",
+   "currency": null,
+   "apps": 13,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "ZA",
+   "name": "South Africa",
+   "region": "Sub-Saharan Africa",
+   "income": "Upper middle income",
+   "currency": null,
+   "apps": 15,
+   "median_vs_us_pct": 20.2
+  },
+  {
+   "cc": "ZM",
+   "name": "Zambia",
+   "region": "Sub-Saharan Africa",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": 0.0
+  },
+  {
+   "cc": "ZW",
+   "name": "Zimbabwe",
+   "region": "Sub-Saharan Africa",
+   "income": "Lower middle income",
+   "currency": null,
+   "apps": 14,
+   "median_vs_us_pct": 7.5
+  }
+ ],
+ "changes_logged": 0,
+ "held_back": [
+  {
+   "app": "disney-plus",
+   "name": "Disney+",
+   "category": "Video and music",
+   "main_plan": "disney+-premium",
+   "muddled_share": 0.18,
+   "why": "Its main plan shows several different prices in the same country in 18% of stores, so no single price can be given."
+  },
+  {
+   "app": "snapchat",
+   "name": "Snapchat+",
+   "category": "Social and chat",
+   "main_plan": "snapchat+",
+   "muddled_share": 0.4,
+   "why": "Its main plan shows several different prices in the same country in 40% of stores, so no single price can be given."
+  },
+  {
+   "app": "discord",
+   "name": "Discord Nitro",
+   "category": "Social and chat",
+   "main_plan": "nitro-basic",
+   "muddled_share": 0.35,
+   "why": "Its main plan shows several different prices in the same country in 35% of stores, so no single price can be given."
+  },
+  {
+   "app": "linkedin",
+   "name": "LinkedIn Premium",
+   "category": "Social and chat",
+   "main_plan": "premium-career",
+   "muddled_share": 0.46,
+   "why": "Its main plan shows several different prices in the same country in 46% of stores, so no single price can be given."
+  },
+  {
+   "app": "tinder",
+   "name": "Tinder",
+   "category": "Social and chat",
+   "main_plan": "tinder-gold",
+   "muddled_share": 0.99,
+   "why": "Its main plan shows several different prices in the same country in 99% of stores, so no single price can be given."
+  },
+  {
+   "app": "bumble",
+   "name": "Bumble",
+   "category": "Social and chat",
+   "main_plan": "bumble-premium",
+   "muddled_share": 0.94,
+   "why": "Its main plan shows several different prices in the same country in 94% of stores, so no single price can be given."
+  },
+  {
+   "app": "duolingo",
+   "name": "Duolingo",
+   "category": "Learning and work",
+   "main_plan": "super-duolingo",
+   "muddled_share": 0.99,
+   "why": "Its main plan shows several different prices in the same country in 99% of stores, so no single price can be given."
+  },
+  {
+   "app": "canva",
+   "name": "Canva",
+   "category": "Creative",
+   "main_plan": "canva-pro",
+   "muddled_share": 0.86,
+   "why": "Its main plan shows several different prices in the same country in 86% of stores, so no single price can be given."
+  },
+  {
+   "app": "strava",
+   "name": "Strava",
+   "category": "Health and fitness",
+   "main_plan": "plan",
+   "muddled_share": 0.32,
+   "why": "Its main plan shows several different prices in the same country in 32% of stores, so no single price can be given."
+  },
+  {
+   "app": "calm",
+   "name": "Calm",
+   "category": "Health and fitness",
+   "main_plan": "calm-premium",
+   "muddled_share": 1.0,
+   "why": "Its main plan shows several different prices in the same country in 100% of stores, so no single price can be given."
+  },
+  {
+   "app": "headspace",
+   "name": "Headspace",
+   "category": "Health and fitness",
+   "main_plan": "plan",
+   "muddled_share": 0.17,
+   "why": "Its main plan shows several different prices in the same country in 17% of stores, so no single price can be given."
+  },
+  {
+   "app": "nordvpn",
+   "name": "NordVPN",
+   "category": "Privacy and storage",
+   "main_plan": "nordvpn",
+   "muddled_share": 0.92,
+   "why": "Its main plan shows several different prices in the same country in 92% of stores, so no single price can be given."
+  },
+  {
+   "app": "expressvpn",
+   "name": "ExpressVPN",
+   "category": "Privacy and storage",
+   "main_plan": "plan",
+   "muddled_share": 0.99,
+   "why": "Its main plan shows several different prices in the same country in 99% of stores, so no single price can be given."
+  }
+ ],
+ "sources": {
+  "prices": "Apple App Store app pages (apps.apple.com), In-App Purchases list, one page per app per country",
+  "fx": "ExchangeRate-API open access (https://www.exchangerate-api.com)",
+  "price_levels": "World Bank PA.NUS.PPPC.RF (CC BY 4.0)"
+ },
+ "license": "Data: CC BY 4.0, credit \"Puley Price Index (puley.com/prices)\" with a link. Code: MIT."
+}

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this data, please credit it as below and link to https://puley.com/prices."
+title: "Puley Price Index: subscription prices in every App Store country"
+type: dataset
+authors:
+  - name: "Puley"
+    website: "https://puley.com"
+url: "https://puley.com/prices"
+repository-code: "https://github.com/cventuresza-tech/puley-price-index"
+license: CC-BY-4.0
+keywords:
+  - subscription prices
+  - app store
+  - price by country
+  - chatgpt
+  - purchasing power
+  - open data
+date-released: "2026-10-08"
