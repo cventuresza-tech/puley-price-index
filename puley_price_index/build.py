@@ -245,7 +245,7 @@ def build(data: Path, day: str | None = None, log=print) -> dict:
 
     changes = _log_changes(data, all_rows, log)
     with (latest / "prices.csv").open("w", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=PRICE_FIELDS, extrasaction="ignore")
+        w = csv.DictWriter(f, fieldnames=PRICE_FIELDS, extrasaction="ignore", lineterminator="\n")
         w.writeheader()
         w.writerows(sorted(all_rows, key=lambda r: (r["app"], r["plan"], r["period"], r["cc"])))
     index = {"name": "Puley Price Index", "url": "https://puley.com/prices", "updated": day, "fx_date": fx["date"],
@@ -306,7 +306,7 @@ def _log_changes(data: Path, rows: list[dict], log) -> int:
     if new:
         exists = hist.exists()
         with hist.open("a", newline="") as f:
-            w = csv.DictWriter(f, fieldnames=list(new[0]))
+            w = csv.DictWriter(f, fieldnames=list(new[0]), lineterminator="\n")
             if not exists:
                 w.writeheader()
             w.writerows(new)
