@@ -4,7 +4,7 @@
 # that this machine can push to.
 set -eu
 cd /index
-python -m puley_price_index daily --workers 6
+python -m puley_price_index daily --workers 2  # direct reads from one address: two at a time keeps Apple answering
 git add -A data README.md assets 2>/dev/null || git add -A data README.md
 if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
 git -c user.name="Puley Price Index" -c user.email="hello@puley.com" commit -q -m "Prices for $(date -u +%F)"

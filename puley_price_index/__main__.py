@@ -64,11 +64,12 @@ def main(argv: list[str]) -> int:
         def run(app):
             f = make_fetcher(log=lambda m: log(f"[{app.slug}] {m}"))
             collect_app(app, stores, DATA, f, log=log)
-            return f.requests, f.throttled
+            return f.requests, f.throttled, getattr(f, "fallbacks", 0)
 
         with ThreadPoolExecutor(max_workers=workers) as pool:
             done = list(pool.map(run, chosen))
-        log(f"collected {len(chosen)} apps; {sum(d[0] for d in done)} requests, {sum(d[1] for d in done)} retried")
+        log(f"collected {len(chosen)} apps; {sum(d[0] for d in done)} requests, {sum(d[1] for d in done)} retried, "
+            f"{sum(d[2] for d in done)} pages needed the paid residential network")
         if cmd == "collect":
             return 0
     if cmd in ("rates", "daily"):

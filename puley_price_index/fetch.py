@@ -96,26 +96,32 @@ class Fetcher:
 
 
 class EngineFetcher:
-    """Reads pages through a web-reading engine with Skryp's API (POST /v1/scrape, raw HTML), which picks a working route
-    (direct, or a residential connection when a site throttles) and retries on its own. Puley's daily run uses Skryp
-    (https://skryp.dev); without an engine, Fetcher reads apps.apple.com directly at a polite pace."""
+    """Reads pages through a web-reading engine with Skryp's API (POST /v1/scrape, raw HTML). Puley's daily run uses
+    Skryp (https://skryp.dev); without an engine, Fetcher reads apps.apple.com directly at a polite pace.
 
-    def __init__(self, base: str, token: str, delay: float = 0.4, network: str | None = None, log=print):
-        self.base, self.token, self.delay, self.log = base.rstrip("/"), token, delay, log
-        # Apple throttles any one address quickly; residential spreads the reads the way people's own phones would
-        self.network = network or os.environ.get("PULEY_ENGINE_NETWORK", "residential")
-        self.requests = self.throttled = 0
+    Reads go out directly first and wait out Apple's 429s; only a page still throttled after `direct_tries` goes out
+    through the paid residential network. Measured 9 Oct 2026: 36 of 45 direct reads 1.5 s apart answered, and an
+    App Store page is ~63 KB on the wire, so forcing every read through residential paid for traffic it did not need."""
+
+    def __init__(self, base: str, token: str, delay: float | None = None, network: str | None = None, log=print):
+        self.base, self.token, self.log = base.rstrip("/"), token, log
+        self.delay = delay if delay is not None else float(os.environ.get("PULEY_ENGINE_DELAY", "2.0"))
+        self.network = network or os.environ.get("PULEY_ENGINE_NETWORK", "direct")
+        self.fallback = os.environ.get("PULEY_ENGINE_FALLBACK", "residential")  # "" never pays for residential
+        self.direct_tries = int(os.environ.get("PULEY_ENGINE_DIRECT_TRIES", "3"))
+        self.requests = self.throttled = self.fallbacks = 0
         self._last = 0.0
 
     def get(self, url: str, tries: int = 6) -> Response | None:
         for attempt in range(1, tries + 1):
+            network = self.fallback if (self.fallback and attempt > self.direct_tries) else self.network
             gap = self.delay - (time.monotonic() - self._last)
             if gap > 0:
                 time.sleep(gap)
             self._last = time.monotonic()
             self.requests += 1
             body = json.dumps({"url": url, "formats": ["raw_html"], "main_content": False, "render": "never", "max_age_s": 0,
-                               "network": self.network}).encode()
+                               "network": network}).encode()
             req = urllib.request.Request(self.base + "/v1/scrape", data=body, method="POST", headers={
                 "authorization": f"Bearer {self.token}", "content-type": "application/json", "user-agent": USER_AGENT})
             try:
@@ -130,12 +136,16 @@ class EngineFetcher:
             if status == 404 or re.search(r"\b404\b|not found", str(d.get("error") or ""), re.I):
                 return None
             if html and "serialized-server-data" in html:
+                self.fallbacks += network != self.network
                 return Response(200, (d.get("metadata") or {}).get("url") or url, html)
             self.throttled += 1
             err = str(d.get("error") or "no page")
             if attempt > 2:
-                self.log(f"  engine: {err[:120]} (try {attempt}/{tries})")
-            time.sleep(3 if "429" in err else min(60, 10 * attempt))  # a 429 on one exit: the next try goes out through another
+                self.log(f"  engine: {err[:120]} (try {attempt}/{tries}, {network})")
+            if network == self.network and network != self.fallback:
+                time.sleep(min(30, 4 * 2 ** (attempt - 1)))  # direct: wait out Apple's rate window (4, 8, 16 s)
+            else:
+                time.sleep(3 if "429" in err else min(60, 10 * attempt))  # a 429 on one exit: the next try goes out through another
         raise RuntimeError(f"engine gave up on {url}")
 
     def close(self) -> None:
