@@ -1,0 +1,6 @@
+date,app,plan,period,cc,country,currency,old_price,new_price,change_pct
+2026-10-09,gemini,Google AI Plus (400 GB),month,ME,Montenegro,EUR,4.99,49.99,901.8
+2026-10-09,gemini,Google AI Ultra (30 TB),month,CV,Cape Verde,USD,149.99,199.99,33.3
+2026-10-09,gemini,Google AI Ultra (30 TB),month,TD,Chad,USD,149.99,199.99,33.3
+2026-10-09,gemini,Google AI Plus (2 TB),month,SV,El Salvador,USD,99.99,9.99,-90.0
+2026-10-09,gemini,Google AI Plus (2 TB),month,ME,Montenegro,EUR,98.99,9.99,-89.9

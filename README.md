@@ -12,26 +12,26 @@ Browse it at **[puley.com/prices](https://puley.com/prices)**: a world map per a
 [![Dependencies: none](https://img.shields.io/badge/dependencies-none-23252a)](pyproject.toml)
 
 <!-- index:start -->
-**Updated 2026-10-08** · 12,200 prices · 16 apps · 174 countries · US dollars at 2026-10-08 exchange rates
+**Updated 2026-10-09** · 12,200 prices · 16 apps · 174 countries · US dollars at 2026-10-09 exchange rates
 
 | App | Main plan | In the US | Cheapest | Dearest | Countries |
 | --- | --- | ---: | --- | --- | ---: |
-| [Character.AI](https://puley.com/prices/character-ai) | Character.AI+ | $9.99 | 🇪🇬 Egypt $5.73 | 🇨🇴 Colombia $18.51 | 152 |
-| [ChatGPT](https://puley.com/prices/chatgpt) | ChatGPT Plus | $19.99 | 🇵🇭 Philippines $15.91 | 🇨🇴 Colombia $30.86 | 168 |
-| [Claude](https://puley.com/prices/claude) | Claude Pro - Monthly | $20.00 | 🇵🇰 Pakistan $17.68 | 🇨🇴 Colombia $30.86 | 165 |
-| [Google Gemini](https://puley.com/prices/gemini) | Google AI Pro (5 TB) | $19.99 | 🇮🇩 Indonesia $17.29 | 🇳🇴 Norway $27.05 | 166 |
-| [Grok](https://puley.com/prices/grok) | SuperGrok | $30.00 | 🇹🇷 Turkey $26.41 | 🇳🇴 Norway $41.67 | 155 |
-| [Le Chat (Vibe by Mistral)](https://puley.com/prices/le-chat) | Vibe Pro | $14.99 | 🇵🇭 Philippines $12.72 | 🇨🇴 Colombia $21.60 | 174 |
-| [Microsoft Copilot](https://puley.com/prices/copilot) | Microsoft 365 Premium Monthly | $19.99 | 🇳🇬 Nigeria $12.78 | 🇳🇴 Norway $27.05 | 165 |
-| [Perplexity](https://puley.com/prices/perplexity) | Perplexity Pro | $20.00 | 🇨🇦 Canada $17.55 | 🇨🇴 Colombia $30.86 | 163 |
-| [CapCut](https://puley.com/prices/capcut) | Pro Monthly Subscription | $19.99 | 🇵🇭 Philippines $7.64 | 🇵🇱 Poland $38.35 | 165 |
-| [Crunchyroll](https://puley.com/prices/crunchyroll) | Fan | $9.99 | 🇵🇰 Pakistan $1.01 | 🇨🇭 Switzerland $10.68 | 169 |
+| [Character.AI](https://puley.com/prices/character-ai) | Character.AI+ | $9.99 | 🇪🇬 Egypt $5.73 | 🇨🇴 Colombia $18.51 | 153 |
+| [ChatGPT](https://puley.com/prices/chatgpt) | ChatGPT Plus | $19.99 | 🇵🇭 Philippines $15.86 | 🇨🇴 Colombia $30.87 | 168 |
+| [Claude](https://puley.com/prices/claude) | Claude Pro - Monthly | $20.00 | 🇵🇰 Pakistan $17.69 | 🇨🇴 Colombia $30.87 | 165 |
+| [Google Gemini](https://puley.com/prices/gemini) | Google AI Pro (5 TB) | $19.99 | 🇮🇩 Indonesia $17.27 | 🇳🇴 Norway $27.07 | 167 |
+| [Grok](https://puley.com/prices/grok) | SuperGrok | $30.00 | 🇹🇷 Turkey $26.38 | 🇳🇴 Norway $41.70 | 155 |
+| [Le Chat (Vibe by Mistral)](https://puley.com/prices/le-chat) | Vibe Pro | $14.99 | 🇵🇭 Philippines $12.68 | 🇨🇴 Colombia $21.60 | 174 |
+| [Microsoft Copilot](https://puley.com/prices/copilot) | Microsoft 365 Premium Monthly | $19.99 | 🇳🇬 Nigeria $12.77 | 🇳🇴 Norway $27.07 | 165 |
+| [Perplexity](https://puley.com/prices/perplexity) | Perplexity Pro | $20.00 | 🇨🇦 Canada $17.57 | 🇨🇴 Colombia $30.87 | 163 |
+| [CapCut](https://puley.com/prices/capcut) | Pro Monthly Subscription | $19.99 | 🇵🇭 Philippines $7.62 | 🇵🇱 Poland $38.37 | 165 |
+| [Crunchyroll](https://puley.com/prices/crunchyroll) | Fan | $9.99 | 🇵🇰 Pakistan $1.01 | 🇨🇭 Switzerland $10.69 | 169 |
 | [Google One](https://puley.com/prices/google-one) | 100 GB Month | $1.99 | 🇷🇺 Russia $1.51 | 🇨🇴 Colombia $2.75 | 137 |
-| [HBO Max](https://puley.com/prices/hbo-max) | Standard | $18.49 | 🇵🇰 Pakistan $2.89 | 🇨🇭 Switzerland $20.29 | 90 |
-| [Notion](https://puley.com/prices/notion) | Notion – Plus Monthly | $11.99 | 🇹🇷 Turkey $10.16 | 🇨🇴 Colombia $18.51 | 173 |
-| [Telegram Premium](https://puley.com/prices/telegram) | Telegram Premium | $4.99 | 🇨🇱 Chile $3.28 | 🇭🇺 Hungary $7.00 | 170 |
+| [HBO Max](https://puley.com/prices/hbo-max) | Standard | $18.49 | 🇵🇰 Pakistan $2.89 | 🇨🇭 Switzerland $20.30 | 90 |
+| [Notion](https://puley.com/prices/notion) | Notion – Plus Monthly | $11.99 | 🇹🇷 Turkey $10.15 | 🇨🇴 Colombia $18.51 | 173 |
+| [Telegram Premium](https://puley.com/prices/telegram) | Telegram Premium | $4.99 | 🇨🇱 Chile $3.27 | 🇭🇺 Hungary $7.01 | 170 |
 | [X Premium](https://puley.com/prices/x) | X Premium (Monthly) | $11.00 | 🇹🇷 Turkey $4.06 | 🇬🇧 United Kingdom $14.54 | 170 |
-| [YouTube Premium](https://puley.com/prices/youtube) | YouTube Premium | $20.99 | 🇮🇳 India $2.01 | 🇩🇰 Denmark $31.27 | 112 |
+| [YouTube Premium](https://puley.com/prices/youtube) | YouTube Premium | $20.99 | 🇮🇳 India $2.01 | 🇩🇰 Denmark $31.29 | 112 |
 <!-- index:end -->
 
 ## What's in it
