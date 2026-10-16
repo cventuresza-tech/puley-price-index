@@ -80,3 +80,11 @@ date,app,plan,period,cc,country,currency,old_price,new_price,change_pct
 2026-10-15,gemini,Google AI Plus (2 TB),month,JO,Jordan,USD,99.99,9.99,-90.0
 2026-10-15,gemini,Google AI Plus (2 TB),month,SI,Slovenia,EUR,9.99,99.99,900.9
 2026-10-15,gemini,200 GB,month,IS,Iceland,USD,30.99,3.09,-90.0
+2026-10-16,gemini,Google AI Ultra (30 TB),month,CV,Cape Verde,USD,199.99,149.99,-25.0
+2026-10-16,gemini,Google AI Ultra (30 TB),month,VE,Venezuela,USD,199.99,149.99,-25.0
+2026-10-16,gemini,Google AI Ultra (30 TB),month,GR,Greece,EUR,229.99,149.99,-34.8
+2026-10-16,gemini,Google AI Ultra (30 TB),month,GM,Gambia,USD,149.99,199.99,33.3
+2026-10-16,gemini,Google AI Ultra (30 TB),month,SZ,Eswatini,USD,149.99,199.99,33.3
+2026-10-16,gemini,Google AI Ultra (30 TB),month,VG,British Virgin Islands,USD,149.99,199.99,33.3
+2026-10-16,gemini,Google AI Ultra (30 TB),month,SI,Slovenia,EUR,149.99,219.99,46.7
+2026-10-16,gemini,Google AI Plus (2 TB),month,SI,Slovenia,EUR,99.99,9.99,-90.0
