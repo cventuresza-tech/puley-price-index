@@ -12,11 +12,13 @@ Browse it at **[puley.com/prices](https://puley.com/prices)**: a world map per a
 [![Dependencies: none](https://img.shields.io/badge/dependencies-none-23252a)](pyproject.toml)
 
 <!-- index:start -->
-**Updated 2026-10-27** · 9,601 prices · 13 apps · 174 countries · US dollars at 2026-10-27 exchange rates
+**Updated 2026-10-27** · 11,269 prices · 15 apps · 174 countries · US dollars at 2026-10-27 exchange rates
 
 | App | Main plan | In the US | Cheapest | Dearest | Countries |
 | --- | --- | ---: | --- | --- | ---: |
 | [Character.AI](https://puley.com/prices/character-ai) | Character.AI+ | $9.99 | 🇪🇬 Egypt $5.33 | 🇨🇴 Colombia $18.98 | 152 |
+| [ChatGPT](https://puley.com/prices/chatgpt) | ChatGPT Plus | $19.99 | 🇵🇭 Philippines $15.62 | 🇨🇴 Colombia $31.66 | 168 |
+| [Claude](https://puley.com/prices/claude) | Claude Pro - Monthly | $20.00 | 🇵🇰 Pakistan $17.70 | 🇨🇴 Colombia $31.66 | 165 |
 | [Google Gemini](https://puley.com/prices/gemini) | Google AI Pro (5 TB) | $19.99 | 🇵🇭 Philippines $17.20 | 🇳🇴 Norway $27.78 | 99 |
 | [Grok](https://puley.com/prices/grok) | SuperGrok | $30.00 | 🇹🇷 Turkey $26.11 | 🇳🇴 Norway $42.80 | 155 |
 | [Le Chat (Vibe by Mistral)](https://puley.com/prices/le-chat) | Vibe Pro | $14.99 | 🇵🇭 Philippines $12.49 | 🇨🇴 Colombia $22.15 | 174 |

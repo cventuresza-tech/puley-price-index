@@ -718,6 +718,1674 @@ date,app,plan,plan_name,period,period_inferred,cc,country,currency,price,price_t
 2026-10-27,character-ai,character-ai+,Character.AI+,year,True,VU,Vanuatu,USD,94.99,USD 94.99,94.99,7.92,0.0,104.78
 2026-10-27,character-ai,character-ai+,Character.AI+,year,True,XK,Kosovo,EUR,99.99,"99,99 €",111.85,9.32,17.7,273.41
 2026-10-27,character-ai,character-ai+,Character.AI+,year,True,ZA,South Africa,ZAR,1999.99,"R1,999.99",120.22,10.02,26.6,289.84
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,AE,United Arab Emirates,AED,29.99,AED 29.99,8.17,8.17,2.1,12.89
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,AF,Afghanistan,USD,5.0,USD 5.00,5.0,5.0,-37.5,25.05
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,AG,Antigua and Barbuda,USD,8.0,USD 8.00,8.0,8.0,0.0,11.55
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,AI,Anguilla,USD,8.0,USD 8.00,8.0,8.0,0.0,
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,AL,Albania,USD,6.99,USD 6.99,6.99,6.99,-12.6,16.41
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,AM,Armenia,USD,6.99,USD 6.99,6.99,6.99,-12.6,18.26
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,AO,Angola,USD,4.99,USD 4.99,4.99,4.99,-37.6,14.09
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,AR,Argentina,USD,5.99,USD 5.99,5.99,5.99,-25.1,13.1
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,AT,Austria,EUR,7.99,"7,99 €",8.94,8.94,11.7,10.91
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,AU,Australia,AUD,13.0,$13.00,9.13,9.13,14.1,10.12
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,AZ,Azerbaijan,USD,5.99,USD 5.99,5.99,5.99,-25.1,21.11
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,BA,Bosnia and Herzegovina,EUR,5.99,"5,99 €",6.7,6.7,-16.2,16.67
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,BB,Barbados,USD,8.0,USD 8.00,8.0,8.0,0.0,7.3
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,BE,Belgium,EUR,7.99,"7,99 €",8.94,8.94,11.7,10.99
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,BF,Burkina Faso,USD,4.99,USD 4.99,4.99,4.99,-37.6,13.36
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,BG,Bulgaria,EUR,6.49,"6,49 €",7.26,7.26,-9.3,15.88
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,BH,Bahrain,USD,7.99,$7.99,7.99,7.99,-0.1,18.54
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,BJ,Benin,USD,5.99,USD 5.99,5.99,5.99,-25.1,17.4
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,BM,Bermuda,USD,7.99,USD 7.99,7.99,7.99,-0.1,6.67
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,BN,Brunei,USD,5.99,USD 5.99,5.99,5.99,-25.1,17.18
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,BO,Bolivia,USD,4.99,USD 4.99,4.99,4.99,-37.6,12.48
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,BR,Brazil,BRL,39.9,"R$ 39,90",7.35,7.35,-8.1,16.07
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,BS,Bahamas,USD,7.99,USD 7.99,7.99,7.99,-0.1,8.36
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,BT,Bhutan,USD,5.0,USD 5.00,5.0,5.0,-37.5,21.81
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,BW,Botswana,USD,5.99,USD 5.99,5.99,5.99,-25.1,15.94
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,BZ,Belize,USD,5.99,USD 5.99,5.99,5.99,-25.1,11.4
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,CA,Canada,CAD,12.99,$12.99,9.27,9.27,15.9,11.11
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,CD,DR Congo,USD,4.99,USD 4.99,4.99,4.99,-37.6,11.95
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,CG,Republic of the Congo,USD,4.99,USD 4.99,4.99,4.99,-37.6,14.38
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,CH,Switzerland,CHF,7.0,CHF 7.00,8.46,8.46,5.8,7.56
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,CI,Côte d'Ivoire,USD,6.0,$6.00,6.0,6.0,-25.0,16.15
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,CL,Chile,CLP,7990.0,$7.990,8.02,8.02,0.2,16.84
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,CM,Cameroon,USD,5.99,US$5.99,5.99,5.99,-25.1,17.58
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,CO,Colombia,COP,24900.0,"$ 24.900,00",7.89,7.89,-1.4,20.87
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,CR,Costa Rica,USD,5.99,USD 5.99,5.99,5.99,-25.1,10.14
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,CV,Cape Verde,USD,7.99,USD 7.99,7.99,7.99,-0.1,16.77
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,CY,Cyprus,EUR,7.99,"7,99 €",8.94,8.94,11.7,13.81
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,CZ,Czechia,CZK,200.0,"200,00 Kč",9.18,9.18,14.7,15.46
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,DE,Germany,EUR,7.99,"7,99 €",8.94,8.94,11.7,11.14
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,DK,Denmark,DKK,64.0,"64,00 kr",9.58,9.58,19.8,10.36
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,DM,Dominica,USD,7.0,USD 7.00,7.0,7.0,-12.5,14.47
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,DO,Dominican Republic,USD,5.99,USD 5.99,5.99,5.99,-25.1,15.55
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,DZ,Algeria,USD,4.99,$4.99,4.99,4.99,-37.6,15.33
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,EC,Ecuador,USD,5.99,USD 5.99,5.99,5.99,-25.1,14.09
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,EE,Estonia,EUR,7.99,"7,99 €",8.94,8.94,11.7,13.53
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,EG,Egypt,EGP,249.99,EGP 249.99,4.44,4.44,-44.5,28.83
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,ES,Spain,EUR,7.99,"7,99 €",8.94,8.94,11.7,13.85
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,FI,Finland,EUR,7.99,"7,99 €",8.94,8.94,11.7,10.49
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,FJ,Fiji,USD,5.99,USD 5.99,5.99,5.99,-25.1,14.74
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,FM,Micronesia,USD,5.0,USD 5.00,5.0,5.0,-37.5,5.22
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,FR,France,EUR,7.99,"7,99 €",8.94,8.94,11.7,11.67
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,GA,Gabon,USD,5.99,USD 5.99,5.99,5.99,-25.1,16.11
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,GB,United Kingdom,GBP,6.99,£6.99,9.33,9.33,16.6,10.46
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,GD,Grenada,USD,8.0,USD 8.00,8.0,8.0,0.0,14.1
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,GE,Georgia,USD,6.99,USD 6.99,6.99,6.99,-12.6,21.22
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,GH,Ghana,USD,5.99,USD 5.99,5.99,5.99,-25.1,15.83
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,GM,Gambia,USD,4.99,USD 4.99,4.99,4.99,-37.6,19.99
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,GR,Greece,EUR,7.99,"7,99 €",8.94,8.94,11.7,15.01
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,GT,Guatemala,USD,5.99,USD 5.99,5.99,5.99,-25.1,13.8
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,GW,Guinea-Bissau,USD,4.99,USD 4.99,4.99,4.99,-37.6,14.62
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,GY,Guyana,USD,5.99,USD 5.99,5.99,5.99,-25.1,18.09
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,HN,Honduras,USD,4.99,USD 4.99,4.99,4.99,-37.6,10.92
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,HR,Croatia,EUR,7.99,"7,99 €",8.94,8.94,11.7,16.8
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,HU,Hungary,HUF,2990.0,"HUF2,990.00",9.1,9.1,13.7,17.51
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,ID,Indonesia,IDR,75000.0,Rp 75ribu,4.13,4.13,-48.4,14.42
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,IE,Ireland,EUR,7.99,€7.99,8.94,8.94,11.7,10.53
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,IL,Israel,ILS,25.0,₪25.00,8.12,8.12,1.5,8.04
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,IN,India,INR,399.0,₹ 399,4.19,4.19,-47.6,18.17
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,IQ,Iraq,USD,4.99,$4.99,4.99,4.99,-37.6,11.9
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,IS,Iceland,USD,9.99,USD 9.99,9.99,9.99,24.9,8.48
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,IT,Italy,EUR,7.99,"7,99 €",8.94,8.94,11.7,12.96
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,JM,Jamaica,USD,5.99,USD 5.99,5.99,5.99,-25.1,9.95
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,JO,Jordan,USD,4.99,$4.99,4.99,4.99,-37.6,11.79
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,JP,Japan,JPY,1400.0,"¥1,400",8.89,8.89,11.1,13.71
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,KE,Kenya,USD,5.99,USD 5.99,5.99,5.99,-25.1,17.79
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,KG,Kyrgyzstan,USD,5.99,USD 5.99,5.99,5.99,-25.1,19.55
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,KH,Cambodia,USD,5.49,USD 5.49,5.49,5.49,-31.4,16.33
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,KN,Saint Kitts and Nevis,USD,8.0,USD 8.00,8.0,8.0,0.0,11.67
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,KR,South Korea,KRW,13000.0,"￦13,000",9.81,9.81,22.6,17.09
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,KW,Kuwait,USD,7.99,$7.99,7.99,7.99,-0.1,13.96
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,KY,Cayman Islands,USD,7.99,USD 7.99,7.99,7.99,-0.1,7.06
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,KZ,Kazakhstan,KZT,3390.0,"3,390.00₸",7.51,7.51,-6.1,22.65
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,LA,Laos,USD,5.49,USD 5.49,5.49,5.49,-31.4,25.3
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,LB,Lebanon,USD,5.99,$5.99,5.99,5.99,-25.1,
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,LC,Saint Lucia,USD,7.0,USD 7.00,7.0,7.0,-12.5,13.61
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,LK,Sri Lanka,USD,5.0,USD 5.00,5.0,5.0,-37.5,19.02
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,LR,Liberia,USD,4.99,USD 4.99,4.99,4.99,-37.6,
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,LT,Lithuania,EUR,7.99,"7,99 €",8.94,8.94,11.7,15.41
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,LU,Luxembourg,EUR,7.99,"7,99 €",8.94,8.94,11.7,9.5
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,LV,Latvia,EUR,7.99,"7,99 €",8.94,8.94,11.7,15.67
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,LY,Libya,USD,5.99,$5.99,5.99,5.99,-25.1,15.34
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,MA,Morocco,USD,5.99,$5.99,5.99,5.99,-25.1,14.24
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,MD,Moldova,USD,6.99,USD 6.99,6.99,6.99,-12.6,16.22
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,ME,Montenegro,EUR,7.0,"7,00 €",7.83,7.83,-2.1,18.76
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,MG,Madagascar,USD,4.99,USD 4.99,4.99,4.99,-37.6,16.26
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,MK,North Macedonia,USD,5.99,USD 5.99,5.99,5.99,-25.1,16.01
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,ML,Mali,USD,4.99,USD 4.99,4.99,4.99,-37.6,14.65
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,MM,Myanmar,USD,5.0,USD 5.00,5.0,5.0,-37.5,19.49
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,MN,Mongolia,USD,4.99,USD 4.99,4.99,4.99,-37.6,14.6
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,MR,Mauritania,USD,4.99,$4.99,4.99,4.99,-37.6,16.29
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,MS,Montserrat,USD,8.0,USD 8.00,8.0,8.0,0.0,
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,MT,Malta,EUR,7.99,"7,99 €",8.94,8.94,11.7,13.47
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,MU,Mauritius,USD,5.99,USD 5.99,5.99,5.99,-25.1,15.52
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,MV,Maldives,USD,5.99,USD 5.99,5.99,5.99,-25.1,11.7
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,MW,Malawi,USD,4.99,USD 4.99,4.99,4.99,-37.6,14.44
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,MX,Mexico,MXN,129.0,$129.00,6.94,6.94,-13.2,12.92
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,MY,Malaysia,MYR,23.99,RM23.99,5.87,5.87,-26.6,18.56
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,MZ,Mozambique,USD,4.99,USD 4.99,4.99,4.99,-37.6,12.97
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,NA,Namibia,USD,5.99,USD 5.99,5.99,5.99,-25.1,14.72
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,NG,Nigeria,NGN,6900.0,"₦ 6,900.00",5.07,5.07,-36.6,39.52
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,NI,Nicaragua,USD,4.99,USD 4.99,4.99,4.99,-37.6,14.6
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,NL,Netherlands,EUR,7.99,"€ 7,99",8.94,8.94,11.7,10.59
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,NO,Norway,NOK,99.0,"99,00 kr",10.62,10.62,32.7,11.68
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,NP,Nepal,USD,5.69,USD 5.69,5.69,5.69,-28.9,23.35
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,NR,Nauru,USD,8.0,USD 8.00,8.0,8.0,0.0,7.79
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,NZ,New Zealand,NZD,13.99,$13.99,7.95,7.95,-0.6,9.29
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,OM,Oman,USD,7.99,$7.99,7.99,7.99,-0.1,16.94
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,PA,Panama,USD,7.99,USD 7.99,7.99,7.99,-0.1,17.72
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,PE,Peru,PEN,19.9,S/ 19.90,5.78,5.78,-27.7,11.24
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,PG,Papua New Guinea,USD,4.99,USD 4.99,4.99,4.99,-37.6,8.62
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,PH,Philippines,PHP,300.0,₱ 300.00,4.69,4.69,-41.4,14.14
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,PK,Pakistan,PKR,1400.0,"Rs 1,400.00",5.06,5.06,-36.8,20.96
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,PL,Poland,PLN,34.99,"34,99 zł",8.89,8.89,11.1,16.97
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,PT,Portugal,EUR,7.99,"7,99 €",8.94,8.94,11.7,14.81
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,PW,Palau,USD,8.0,USD 8.00,8.0,8.0,0.0,9.44
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,PY,Paraguay,USD,5.99,USD 5.99,5.99,5.99,-25.1,17.2
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,QA,Qatar,QAR,29.99,QAR 29.99,8.24,8.24,3.0,14.64
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,RO,Romania,RON,29.99,"29,99 lei",6.28,6.28,-21.5,14.17
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,RS,Serbia,EUR,5.99,"5,99 €",6.7,6.7,-16.2,14.89
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,RW,Rwanda,USD,4.99,USD 4.99,4.99,4.99,-37.6,18.5
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,SA,Saudi Arabia,SAR,35.0,SAR 35.00,9.33,9.33,16.6,19.94
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,SB,Solomon Islands,USD,5.0,USD 5.00,5.0,5.0,-37.5,6.68
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,SC,Seychelles,USD,7.99,USD 7.99,7.99,7.99,-0.1,14.73
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,SE,Sweden,SEK,85.0,"85,00 kr",8.54,8.54,6.7,9.81
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,SG,Singapore,SGD,10.98,S$ 10.98,8.57,8.57,7.1,14.17
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,SI,Slovenia,EUR,7.99,"7,99 €",8.94,8.94,11.7,14.17
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,SK,Slovakia,EUR,7.99,"7,99 €",8.94,8.94,11.7,15.44
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,SL,Sierra Leone,USD,4.99,USD 4.99,4.99,4.99,-37.6,22.18
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,SN,Senegal,USD,5.99,USD 5.99,5.99,5.99,-25.1,16.74
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,SR,Suriname,USD,4.99,USD 4.99,4.99,4.99,-37.6,15.99
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,ST,São Tomé and Príncipe,USD,4.99,USD 4.99,4.99,4.99,-37.6,8.87
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,SV,El Salvador,USD,4.99,USD 4.99,4.99,4.99,-37.6,12.2
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,SZ,Eswatini,USD,4.99,USD 4.99,4.99,4.99,-37.6,15.22
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,TC,Turks and Caicos Islands,USD,8.0,USD 8.00,8.0,8.0,0.0,8.11
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,TD,Chad,USD,4.99,USD 4.99,4.99,4.99,-37.6,14.17
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,TH,Thailand,THB,259.0,฿259.00,7.67,7.67,-4.1,24.98
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,TJ,Tajikistan,USD,5.99,USD 5.99,5.99,5.99,-25.1,21.67
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,TM,Turkmenistan,USD,7.99,USD 7.99,7.99,7.99,-0.1,
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,TN,Tunisia,USD,4.99,$4.99,4.99,4.99,-37.6,17.33
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,TO,Tonga,USD,7.0,USD 7.00,7.0,7.0,-12.5,9.33
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,TR,Turkey,TRY,249.99,"₺249,99",5.02,5.02,-37.3,12.23
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,TT,Trinidad and Tobago,USD,8.0,USD 8.00,8.0,8.0,0.0,15.66
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,TW,Taiwan,TWD,270.0,NT$270.00,8.28,8.28,3.5,
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,TZ,Tanzania,TZS,14900.0,"14,900.00 TZS",5.64,5.64,-29.5,19.99
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,UA,Ukraine,USD,6.99,"6,99 USD",6.99,6.99,-12.6,22.53
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,UG,Uganda,USD,5.99,USD 5.99,5.99,5.99,-25.1,16.97
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,US,United States,USD,8.0,$8.00,8.0,8.0,0.0,8.0
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,UY,Uruguay,USD,8.99,USD 8.99,8.99,8.99,12.4,13.66
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,UZ,Uzbekistan,USD,5.99,USD 5.99,5.99,5.99,-25.1,20.53
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,VC,Saint Vincent and the Grenadines,USD,7.0,USD 7.00,7.0,7.0,-12.5,12.7
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,VG,British Virgin Islands,USD,8.0,USD 8.00,8.0,8.0,0.0,
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,VN,Vietnam,VND,132000.0,132.000đ,5.11,5.11,-36.1,17.76
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,VU,Vanuatu,USD,5.0,USD 5.00,5.0,5.0,-37.5,5.52
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,XK,Kosovo,EUR,7.0,"7,00 €",7.83,7.83,-2.1,19.14
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,YE,Yemen,USD,4.99,$4.99,4.99,4.99,-37.6,
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,ZA,South Africa,ZAR,149.99,R149.99,9.02,9.02,12.7,21.74
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,ZM,Zambia,USD,5.99,USD 5.99,5.99,5.99,-25.1,20.02
+2026-10-27,chatgpt,chatgpt-go,ChatGPT Go,month,True,ZW,Zimbabwe,USD,5.99,USD 5.99,5.99,5.99,-25.1,
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,AE,United Arab Emirates,AED,79.99,AED 79.99,21.78,21.78,9.0,34.38
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,AF,Afghanistan,USD,19.99,USD 19.99,19.99,19.99,0.0,100.15
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,AG,Antigua and Barbuda,USD,19.99,USD 19.99,19.99,19.99,0.0,28.86
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,AI,Anguilla,USD,19.99,USD 19.99,19.99,19.99,0.0,
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,AL,Albania,USD,22.99,USD 22.99,22.99,22.99,15.0,53.97
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,AM,Armenia,USD,22.99,USD 22.99,22.99,22.99,15.0,60.07
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,AO,Angola,USD,19.99,USD 19.99,19.99,19.99,0.0,56.45
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,AR,Argentina,USD,19.99,USD 19.99,19.99,19.99,0.0,43.72
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,AT,Austria,EUR,22.99,"22,99 €",25.72,25.72,28.7,31.38
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,AU,Australia,AUD,29.99,$29.99,21.05,21.05,5.3,23.35
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,AZ,Azerbaijan,USD,19.99,USD 19.99,19.99,19.99,0.0,70.44
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,BA,Bosnia and Herzegovina,EUR,22.99,"22,99 €",25.72,25.72,28.7,63.99
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,BB,Barbados,USD,22.99,USD 22.99,22.99,22.99,15.0,20.99
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,BE,Belgium,EUR,22.99,"22,99 €",25.72,25.72,28.7,31.61
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,BF,Burkina Faso,USD,19.99,USD 19.99,19.99,19.99,0.0,53.51
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,BG,Bulgaria,EUR,19.99,"19,99 €",22.36,22.36,11.9,48.9
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,BH,Bahrain,USD,19.99,$19.99,19.99,19.99,0.0,46.38
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,BJ,Benin,USD,19.99,USD 19.99,19.99,19.99,0.0,58.06
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,BM,Bermuda,USD,19.99,USD 19.99,19.99,19.99,0.0,16.68
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,BN,Brunei,USD,19.99,USD 19.99,19.99,19.99,0.0,57.33
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,BO,Bolivia,USD,19.99,USD 19.99,19.99,19.99,0.0,49.99
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,BR,Brazil,BRL,99.9,"R$ 99,90",18.39,18.39,-8.0,40.23
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,BS,Bahamas,USD,19.99,USD 19.99,19.99,19.99,0.0,20.9
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,BT,Bhutan,USD,19.99,USD 19.99,19.99,19.99,0.0,87.18
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,BW,Botswana,USD,19.99,USD 19.99,19.99,19.99,0.0,53.19
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,BZ,Belize,USD,19.99,USD 19.99,19.99,19.99,0.0,38.03
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,CA,Canada,CAD,24.99,$24.99,17.83,17.83,-10.8,21.37
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,CD,DR Congo,USD,19.99,USD 19.99,19.99,19.99,0.0,47.86
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,CG,Republic of the Congo,USD,19.99,USD 19.99,19.99,19.99,0.0,57.62
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,CH,Switzerland,CHF,20.0,CHF 20.00,24.18,24.18,21.0,21.6
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,CI,Côte d'Ivoire,USD,19.99,$19.99,19.99,19.99,0.0,53.79
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,CL,Chile,CLP,19990.0,$19.990,20.07,20.07,0.4,42.14
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,CM,Cameroon,USD,22.99,US$22.99,22.99,22.99,15.0,67.46
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,CO,Colombia,COP,99900.0,"$ 99.900,00",31.66,31.66,58.4,83.72
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,CR,Costa Rica,USD,19.99,USD 19.99,19.99,19.99,0.0,33.85
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,CV,Cape Verde,USD,19.99,USD 19.99,19.99,19.99,0.0,41.95
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,CY,Cyprus,EUR,22.99,"22,99 €",25.72,25.72,28.7,39.74
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,CZ,Czechia,CZK,499.0,"499,00 Kč",22.91,22.91,14.6,38.58
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,DE,Germany,EUR,22.99,"22,99 €",25.72,25.72,28.7,32.06
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,DK,Denmark,DKK,179.0,"179,00 kr",26.79,26.79,34.0,28.97
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,DM,Dominica,USD,19.99,USD 19.99,19.99,19.99,0.0,41.32
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,DO,Dominican Republic,USD,19.99,USD 19.99,19.99,19.99,0.0,51.91
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,DZ,Algeria,USD,19.99,$19.99,19.99,19.99,0.0,61.39
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,EC,Ecuador,USD,19.99,USD 19.99,19.99,19.99,0.0,47.01
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,EE,Estonia,EUR,22.99,"22,99 €",25.72,25.72,28.7,38.94
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,EG,Egypt,EGP,999.99,EGP 999.99,17.77,17.77,-11.1,115.32
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,ES,Spain,EUR,22.99,"22,99 €",25.72,25.72,28.7,39.86
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,FI,Finland,EUR,22.99,"22,99 €",25.72,25.72,28.7,30.18
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,FJ,Fiji,USD,19.99,USD 19.99,19.99,19.99,0.0,49.18
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,FM,Micronesia,USD,19.99,USD 19.99,19.99,19.99,0.0,20.85
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,FR,France,EUR,22.99,"22,99 €",25.72,25.72,28.7,33.59
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,GA,Gabon,USD,19.99,USD 19.99,19.99,19.99,0.0,53.75
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,GB,United Kingdom,GBP,19.99,£19.99,26.68,26.68,33.5,29.92
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,GD,Grenada,USD,19.99,USD 19.99,19.99,19.99,0.0,35.24
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,GE,Georgia,USD,22.99,USD 22.99,22.99,22.99,15.0,69.79
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,GH,Ghana,USD,22.99,USD 22.99,22.99,22.99,15.0,60.77
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,GM,Gambia,USD,19.99,USD 19.99,19.99,19.99,0.0,80.09
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,GR,Greece,EUR,22.99,"22,99 €",25.72,25.72,28.7,43.19
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,GT,Guatemala,USD,19.99,USD 19.99,19.99,19.99,0.0,46.04
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,GW,Guinea-Bissau,USD,19.99,USD 19.99,19.99,19.99,0.0,58.59
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,GY,Guyana,USD,19.99,USD 19.99,19.99,19.99,0.0,60.37
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,HN,Honduras,USD,19.99,USD 19.99,19.99,19.99,0.0,43.73
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,HR,Croatia,EUR,22.99,"22,99 €",25.72,25.72,28.7,48.34
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,HU,Hungary,HUF,8990.0,"HUF8,990.00",27.37,27.37,36.9,52.66
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,ID,Indonesia,IDR,349000.0,Rp 349ribu,19.23,19.23,-3.8,67.12
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,IE,Ireland,EUR,22.99,€22.99,25.72,25.72,28.7,30.31
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,IL,Israel,ILS,69.9,₪69.90,22.7,22.7,13.6,22.47
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,IN,India,INR,1999.0,"₹ 1,999",20.98,20.98,5.0,91.03
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,IQ,Iraq,USD,19.99,$19.99,19.99,19.99,0.0,47.67
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,IS,Iceland,USD,22.99,USD 22.99,22.99,22.99,15.0,19.51
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,IT,Italy,EUR,22.99,"22,99 €",25.72,25.72,28.7,37.29
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,JM,Jamaica,USD,19.99,USD 19.99,19.99,19.99,0.0,33.2
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,JO,Jordan,USD,19.99,$19.99,19.99,19.99,0.0,47.21
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,JP,Japan,JPY,3000.0,"¥3,000",19.06,19.06,-4.7,29.37
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,KE,Kenya,USD,22.99,USD 22.99,22.99,22.99,15.0,68.26
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,KG,Kyrgyzstan,USD,19.99,USD 19.99,19.99,19.99,0.0,65.24
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,KH,Cambodia,USD,19.99,USD 19.99,19.99,19.99,0.0,59.46
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,KN,Saint Kitts and Nevis,USD,19.99,USD 19.99,19.99,19.99,0.0,29.15
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,KR,South Korea,KRW,29000.0,"￦29,000",21.88,21.88,9.5,38.13
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,KW,Kuwait,USD,19.99,$19.99,19.99,19.99,0.0,34.94
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,KY,Cayman Islands,USD,19.99,USD 19.99,19.99,19.99,0.0,17.67
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,KZ,Kazakhstan,KZT,9990.0,"9,990.00₸",22.14,22.14,10.8,66.73
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,LA,Laos,USD,19.99,USD 19.99,19.99,19.99,0.0,92.12
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,LB,Lebanon,USD,19.99,$19.99,19.99,19.99,0.0,
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,LC,Saint Lucia,USD,19.99,USD 19.99,19.99,19.99,0.0,38.87
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,LK,Sri Lanka,USD,19.99,USD 19.99,19.99,19.99,0.0,76.04
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,LR,Liberia,USD,19.99,USD 19.99,19.99,19.99,0.0,
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,LT,Lithuania,EUR,22.99,"22,99 €",25.72,25.72,28.7,44.35
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,LU,Luxembourg,EUR,22.99,"22,99 €",25.72,25.72,28.7,27.34
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,LV,Latvia,EUR,22.99,"22,99 €",25.72,25.72,28.7,45.1
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,LY,Libya,USD,19.99,$19.99,19.99,19.99,0.0,51.19
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,MA,Morocco,USD,19.99,$19.99,19.99,19.99,0.0,47.54
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,MD,Moldova,USD,22.99,USD 22.99,22.99,22.99,15.0,53.34
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,ME,Montenegro,EUR,19.99,"19,99 €",22.36,22.36,11.9,53.59
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,MG,Madagascar,USD,19.99,USD 19.99,19.99,19.99,0.0,65.14
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,MK,North Macedonia,USD,19.99,USD 19.99,19.99,19.99,0.0,53.42
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,ML,Mali,USD,19.99,USD 19.99,19.99,19.99,0.0,58.67
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,MM,Myanmar,USD,19.99,USD 19.99,19.99,19.99,0.0,77.9
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,MN,Mongolia,USD,19.99,USD 19.99,19.99,19.99,0.0,58.48
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,MR,Mauritania,USD,19.99,$19.99,19.99,19.99,0.0,65.24
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,MS,Montserrat,USD,19.99,USD 19.99,19.99,19.99,0.0,
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,MT,Malta,EUR,22.99,"22,99 €",25.72,25.72,28.7,38.77
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,MU,Mauritius,USD,19.99,USD 19.99,19.99,19.99,0.0,51.8
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,MV,Maldives,USD,19.99,USD 19.99,19.99,19.99,0.0,39.06
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,MW,Malawi,USD,19.99,USD 19.99,19.99,19.99,0.0,57.84
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,MX,Mexico,MXN,399.0,$399.00,21.46,21.46,7.4,39.97
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,MY,Malaysia,MYR,99.9,RM99.90,24.44,24.44,22.3,77.27
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,MZ,Mozambique,USD,19.99,USD 19.99,19.99,19.99,0.0,51.98
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,NA,Namibia,USD,19.99,USD 19.99,19.99,19.99,0.0,49.14
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,NG,Nigeria,NGN,31500.0,"₦ 31,500.00",23.16,23.16,15.9,180.4
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,NI,Nicaragua,USD,19.99,USD 19.99,19.99,19.99,0.0,58.48
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,NL,Netherlands,EUR,22.99,"€ 22,99",25.72,25.72,28.7,30.48
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,NO,Norway,NOK,249.0,"249,00 kr",26.71,26.71,33.6,29.38
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,NP,Nepal,USD,19.99,USD 19.99,19.99,19.99,0.0,82.03
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,NR,Nauru,USD,19.99,USD 19.99,19.99,19.99,0.0,19.48
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,NZ,New Zealand,NZD,39.99,$39.99,22.74,22.74,13.8,26.55
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,OM,Oman,USD,19.99,$19.99,19.99,19.99,0.0,42.39
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,PA,Panama,USD,19.99,USD 19.99,19.99,19.99,0.0,44.34
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,PE,Peru,PEN,79.9,S/ 79.90,23.23,23.23,16.2,45.13
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,PG,Papua New Guinea,USD,19.99,USD 19.99,19.99,19.99,0.0,34.53
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,PH,Philippines,PHP,999.0,₱ 999.00,15.62,15.62,-21.9,47.1
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,PK,Pakistan,PKR,4900.0,"Rs 4,900.00",17.7,17.7,-11.5,73.36
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,PL,Poland,PLN,99.99,"99,99 zł",25.39,25.39,27.0,48.48
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,PT,Portugal,EUR,22.99,"22,99 €",25.72,25.72,28.7,42.6
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,PW,Palau,USD,19.99,USD 19.99,19.99,19.99,0.0,23.59
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,PY,Paraguay,USD,19.99,USD 19.99,19.99,19.99,0.0,57.41
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,QA,Qatar,QAR,69.99,QAR 69.99,19.23,19.23,-3.8,34.17
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,RO,Romania,RON,99.99,"99,99 lei",20.93,20.93,4.7,47.26
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,RS,Serbia,EUR,22.99,"22,99 €",25.72,25.72,28.7,57.14
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,RW,Rwanda,USD,19.99,USD 19.99,19.99,19.99,0.0,74.09
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,SA,Saudi Arabia,SAR,89.99,SAR 89.99,24.0,24.0,20.1,51.27
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,SB,Solomon Islands,USD,19.99,USD 19.99,19.99,19.99,0.0,26.71
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,SC,Seychelles,USD,19.99,USD 19.99,19.99,19.99,0.0,36.85
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,SE,Sweden,SEK,249.0,"249,00 kr",25.02,25.02,25.2,28.74
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,SG,Singapore,SGD,29.98,S$ 29.98,23.41,23.41,17.1,38.7
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,SI,Slovenia,EUR,22.99,"22,99 €",25.72,25.72,28.7,40.76
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,SK,Slovakia,EUR,22.99,"22,99 €",25.72,25.72,28.7,44.43
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,SL,Sierra Leone,USD,19.99,USD 19.99,19.99,19.99,0.0,88.84
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,SN,Senegal,USD,19.99,USD 19.99,19.99,19.99,0.0,55.87
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,SR,Suriname,USD,19.99,USD 19.99,19.99,19.99,0.0,64.05
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,ST,São Tomé and Príncipe,USD,19.99,USD 19.99,19.99,19.99,0.0,35.54
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,SV,El Salvador,USD,19.99,USD 19.99,19.99,19.99,0.0,48.88
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,SZ,Eswatini,USD,19.99,USD 19.99,19.99,19.99,0.0,60.96
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,TC,Turks and Caicos Islands,USD,19.99,USD 19.99,19.99,19.99,0.0,20.26
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,TD,Chad,USD,19.99,USD 19.99,19.99,19.99,0.0,56.76
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,TH,Thailand,THB,699.0,฿699.00,20.69,20.69,3.5,67.41
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,TJ,Tajikistan,USD,22.99,USD 22.99,22.99,22.99,15.0,83.18
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,TM,Turkmenistan,USD,19.99,USD 19.99,19.99,19.99,0.0,
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,TN,Tunisia,USD,19.99,$19.99,19.99,19.99,0.0,69.41
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,TO,Tonga,USD,19.99,USD 19.99,19.99,19.99,0.0,26.65
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,TR,Turkey,TRY,999.99,"₺999,99",20.08,20.08,0.5,48.9
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,TT,Trinidad and Tobago,USD,19.99,USD 19.99,19.99,19.99,0.0,39.12
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,TW,Taiwan,TWD,690.0,NT$690.00,21.17,21.17,5.9,
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,TZ,Tanzania,TZS,49900.0,"49,900.00 TZS",18.88,18.88,-5.6,66.94
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,UA,Ukraine,USD,22.99,"22,99 USD",22.99,22.99,15.0,74.09
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,UG,Uganda,USD,22.99,USD 22.99,22.99,22.99,15.0,65.15
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,US,United States,USD,19.99,$19.99,19.99,19.99,0.0,19.99
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,UY,Uruguay,USD,19.99,USD 19.99,19.99,19.99,0.0,30.38
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,UZ,Uzbekistan,USD,19.99,USD 19.99,19.99,19.99,0.0,68.51
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,VC,Saint Vincent and the Grenadines,USD,19.99,USD 19.99,19.99,19.99,0.0,36.28
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,VG,British Virgin Islands,USD,19.99,USD 19.99,19.99,19.99,0.0,
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,VN,Vietnam,VND,499000.0,499.000đ,19.32,19.32,-3.4,67.12
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,VU,Vanuatu,USD,19.99,USD 19.99,19.99,19.99,0.0,22.05
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,XK,Kosovo,EUR,22.99,"22,99 €",25.72,25.72,28.7,62.86
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,YE,Yemen,USD,19.99,$19.99,19.99,19.99,0.0,
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,ZA,South Africa,ZAR,399.99,R399.99,24.04,24.04,20.3,57.97
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,ZM,Zambia,USD,19.99,USD 19.99,19.99,19.99,0.0,66.81
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,month,True,ZW,Zimbabwe,USD,22.99,USD 22.99,22.99,22.99,15.0,
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,AE,United Arab Emirates,AED,799.99,AED 799.99,217.83,18.15,8.9,343.8
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,AF,Afghanistan,USD,200.0,USD 200.00,200.0,16.67,0.0,1002.0
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,AG,Antigua and Barbuda,USD,200.0,USD 200.00,200.0,16.67,0.0,288.77
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,AI,Anguilla,USD,200.0,USD 200.00,200.0,16.67,0.0,
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,AL,Albania,USD,250.0,USD 250.00,250.0,20.83,25.0,586.85
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,AM,Armenia,USD,250.0,USD 250.00,250.0,20.83,25.0,653.25
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,AO,Angola,USD,200.0,USD 200.00,200.0,16.67,0.0,564.81
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,AR,Argentina,USD,200.0,USD 200.00,200.0,16.67,0.0,437.45
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,AT,Austria,EUR,229.0,"229,00 €",256.17,21.35,28.1,312.56
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,AU,Australia,AUD,300.0,$300.00,210.59,17.55,5.3,233.63
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,AZ,Azerbaijan,USD,250.0,USD 250.00,250.0,20.83,25.0,880.9
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,BA,Bosnia and Herzegovina,EUR,229.0,"229,00 €",256.17,21.35,28.1,637.4
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,BB,Barbados,USD,250.0,USD 250.00,250.0,20.83,25.0,228.23
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,BE,Belgium,EUR,229.0,"229,00 €",256.17,21.35,28.1,314.9
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,BF,Burkina Faso,USD,200.0,USD 200.00,200.0,16.67,0.0,535.33
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,BG,Bulgaria,EUR,199.99,"199,99 €",223.72,18.64,11.9,489.22
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,BH,Bahrain,USD,200.0,$200.00,200.0,16.67,0.0,464.04
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,BJ,Benin,USD,250.0,USD 250.00,250.0,20.83,25.0,726.11
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,BM,Bermuda,USD,200.0,USD 200.00,200.0,16.67,0.0,166.93
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,BN,Brunei,USD,200.0,USD 200.00,200.0,16.67,0.0,573.56
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,BO,Bolivia,USD,200.0,USD 200.00,200.0,16.67,0.0,500.13
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,BR,Brazil,BRL,999.9,"R$ 999,90",184.08,15.34,-8.0,402.63
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,BS,Bahamas,USD,200.0,USD 200.00,200.0,16.67,0.0,209.14
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,BT,Bhutan,USD,200.0,USD 200.00,200.0,16.67,0.0,872.22
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,BW,Botswana,USD,200.0,USD 200.00,200.0,16.67,0.0,532.2
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,BZ,Belize,USD,200.0,USD 200.00,200.0,16.67,0.0,380.52
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,CA,Canada,CAD,249.0,$249.00,177.66,14.8,-11.2,212.89
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,CD,DR Congo,USD,200.0,USD 200.00,200.0,16.67,0.0,478.81
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,CG,Republic of the Congo,USD,200.0,USD 200.00,200.0,16.67,0.0,576.54
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,CH,Switzerland,CHF,200.0,CHF 200.00,241.82,20.15,20.9,215.99
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,CI,Côte d'Ivoire,USD,250.0,$250.00,250.0,20.83,25.0,672.77
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,CL,Chile,CLP,229990.0,$229.990,230.95,19.25,15.5,484.78
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,CM,Cameroon,USD,250.0,US$250.00,250.0,20.83,25.0,733.57
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,CO,Colombia,COP,999900.0,"$ 999.900,00",316.91,26.41,58.5,837.93
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,CR,Costa Rica,USD,200.0,USD 200.00,200.0,16.67,0.0,338.64
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,CV,Cape Verde,USD,200.0,USD 200.00,200.0,16.67,0.0,419.73
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,CY,Cyprus,EUR,229.0,"229,00 €",256.17,21.35,28.1,395.88
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,CZ,Czechia,CZK,4990.0,"4 990,00 Kč",229.1,19.09,14.5,385.83
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,DE,Germany,EUR,229.0,"229,00 €",256.17,21.35,28.1,319.3
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,DK,Denmark,DKK,1799.0,"1.799,00 kr",269.29,22.44,34.6,291.15
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,DM,Dominica,USD,200.0,USD 200.00,200.0,16.67,0.0,413.39
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,DO,Dominican Republic,USD,200.0,USD 200.00,200.0,16.67,0.0,519.35
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,DZ,Algeria,USD,200.0,$200.00,200.0,16.67,0.0,614.25
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,EC,Ecuador,USD,200.0,USD 200.00,200.0,16.67,0.0,470.37
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,EE,Estonia,EUR,229.0,"229,00 €",256.17,21.35,28.1,387.84
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,EG,Egypt,EGP,9999.99,"EGP 9,999.99",177.71,14.81,-11.1,1153.24
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,ES,Spain,EUR,229.0,"229,00 €",256.17,21.35,28.1,397.04
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,FI,Finland,EUR,229.0,"229,00 €",256.17,21.35,28.1,300.6
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,FJ,Fiji,USD,200.0,USD 200.00,200.0,16.67,0.0,492.0
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,FM,Micronesia,USD,200.0,USD 200.00,200.0,16.67,0.0,208.62
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,FR,France,EUR,229.0,"229,00 €",256.17,21.35,28.1,334.56
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,GA,Gabon,USD,200.0,USD 200.00,200.0,16.67,0.0,537.78
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,GB,United Kingdom,GBP,200.0,£200.00,266.94,22.25,33.5,299.4
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,GD,Grenada,USD,200.0,USD 200.00,200.0,16.67,0.0,352.61
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,GE,Georgia,USD,250.0,USD 250.00,250.0,20.83,25.0,758.96
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,GH,Ghana,USD,250.0,USD 250.00,250.0,20.83,25.0,660.85
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,GM,Gambia,USD,200.0,USD 200.00,200.0,16.67,0.0,801.28
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,GR,Greece,EUR,229.0,"229,00 €",256.17,21.35,28.1,430.25
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,GT,Guatemala,USD,200.0,USD 200.00,200.0,16.67,0.0,460.62
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,GW,Guinea-Bissau,USD,200.0,USD 200.00,200.0,16.67,0.0,586.17
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,GY,Guyana,USD,200.0,USD 200.00,200.0,16.67,0.0,604.05
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,HN,Honduras,USD,200.0,USD 200.00,200.0,16.67,0.0,437.54
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,HR,Croatia,EUR,229.0,"229,00 €",256.17,21.35,28.1,481.52
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,HU,Hungary,HUF,89990.0,"HUF89,990.00",274.0,22.83,37.0,527.13
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,ID,Indonesia,IDR,3499000.0,"Rp 3,499juta",192.8,16.07,-3.6,672.93
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,IE,Ireland,EUR,229.0,€229.00,256.17,21.35,28.1,301.91
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,IL,Israel,ILS,699.9,₪699.90,227.29,18.94,13.6,224.95
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,IN,India,INR,19900.0,"₹ 19,900",208.88,17.41,4.4,906.21
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,IQ,Iraq,USD,200.0,$200.00,200.0,16.67,0.0,476.99
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,IS,Iceland,USD,250.0,USD 250.00,250.0,20.83,25.0,212.13
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,IT,Italy,EUR,229.0,"229,00 €",256.17,21.35,28.1,371.48
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,JM,Jamaica,USD,200.0,USD 200.00,200.0,16.67,0.0,332.17
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,JO,Jordan,USD,200.0,$200.00,200.0,16.67,0.0,472.37
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,JP,Japan,JPY,30000.0,"¥30,000",190.55,15.88,-4.7,293.74
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,KE,Kenya,USD,250.0,USD 250.00,250.0,20.83,25.0,742.28
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,KG,Kyrgyzstan,USD,200.0,USD 200.00,200.0,16.67,0.0,652.74
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,KH,Cambodia,USD,200.0,USD 200.00,200.0,16.67,0.0,594.88
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,KN,Saint Kitts and Nevis,USD,200.0,USD 200.00,200.0,16.67,0.0,291.63
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,KR,South Korea,KRW,299000.0,"￦299,000",225.63,18.8,12.8,393.15
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,KW,Kuwait,USD,200.0,$200.00,200.0,16.67,0.0,349.53
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,KY,Cayman Islands,USD,200.0,USD 200.00,200.0,16.67,0.0,176.82
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,KZ,Kazakhstan,KZT,99990.0,"99,990.00₸",221.56,18.46,10.8,667.95
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,LA,Laos,USD,200.0,USD 200.00,200.0,16.67,0.0,921.66
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,LB,Lebanon,USD,200.0,$200.00,200.0,16.67,0.0,
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,LC,Saint Lucia,USD,200.0,USD 200.00,200.0,16.67,0.0,388.88
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,LK,Sri Lanka,USD,200.0,USD 200.00,200.0,16.67,0.0,760.75
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,LR,Liberia,USD,200.0,USD 200.00,200.0,16.67,0.0,
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,LT,Lithuania,EUR,229.0,"229,00 €",256.17,21.35,28.1,441.75
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,LU,Luxembourg,EUR,229.0,"229,00 €",256.17,21.35,28.1,272.32
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,LV,Latvia,EUR,229.0,"229,00 €",256.17,21.35,28.1,449.19
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,LY,Libya,USD,200.0,$200.00,200.0,16.67,0.0,512.16
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,MA,Morocco,USD,200.0,$200.00,200.0,16.67,0.0,475.62
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,MD,Moldova,USD,250.0,USD 250.00,250.0,20.83,25.0,580.05
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,ME,Montenegro,EUR,200.0,"200,00 €",223.73,18.64,11.9,536.14
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,MG,Madagascar,USD,200.0,USD 200.00,200.0,16.67,0.0,651.68
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,MK,North Macedonia,USD,200.0,USD 200.00,200.0,16.67,0.0,534.47
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,ML,Mali,USD,200.0,USD 200.00,200.0,16.67,0.0,587.03
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,MM,Myanmar,USD,200.0,USD 200.00,200.0,16.67,0.0,779.42
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,MN,Mongolia,USD,200.0,USD 200.00,200.0,16.67,0.0,585.14
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,MR,Mauritania,USD,200.0,$200.00,200.0,16.67,0.0,652.74
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,MS,Montserrat,USD,200.0,USD 200.00,200.0,16.67,0.0,
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,MT,Malta,EUR,229.0,"229,00 €",256.17,21.35,28.1,386.15
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,MU,Mauritius,USD,200.0,USD 200.00,200.0,16.67,0.0,518.27
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,MV,Maldives,USD,200.0,USD 200.00,200.0,16.67,0.0,390.78
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,MW,Malawi,USD,200.0,USD 200.00,200.0,16.67,0.0,578.7
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,MX,Mexico,MXN,3999.0,"$3,999.00",215.1,17.93,7.5,400.64
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,MY,Malaysia,MYR,999.9,RM999.90,244.63,20.39,22.3,773.43
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,MZ,Mozambique,USD,200.0,USD 200.00,200.0,16.67,0.0,520.02
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,NA,Namibia,USD,200.0,USD 200.00,200.0,16.67,0.0,491.64
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,NG,Nigeria,NGN,299900.0,"₦ 299,900.00",220.53,18.38,10.3,1717.52
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,NI,Nicaragua,USD,200.0,USD 200.00,200.0,16.67,0.0,585.14
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,NL,Netherlands,EUR,229.0,"€ 229,00",256.17,21.35,28.1,303.59
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,NO,Norway,NOK,2490.0,"2.490,00 kr",267.08,22.26,33.5,293.75
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,NP,Nepal,USD,250.0,USD 250.00,250.0,20.83,25.0,1025.85
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,NR,Nauru,USD,200.0,USD 200.00,200.0,16.67,0.0,194.87
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,NZ,New Zealand,NZD,400.0,$400.00,227.44,18.95,13.7,265.61
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,OM,Oman,USD,200.0,$200.00,200.0,16.67,0.0,424.09
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,PA,Panama,USD,200.0,USD 200.00,200.0,16.67,0.0,443.66
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,PE,Peru,PEN,899.9,S/ 899.90,261.6,21.8,30.8,508.26
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,PG,Papua New Guinea,USD,200.0,USD 200.00,200.0,16.67,0.0,345.42
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,PH,Philippines,PHP,9990.0,"₱ 9,990.00",156.19,13.02,-21.9,471.02
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,PK,Pakistan,PKR,49900.0,"Rs 49,900.00",180.27,15.02,-9.9,747.06
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,PL,Poland,PLN,999.99,"999,99 zł",253.93,21.16,27.0,484.89
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,PT,Portugal,EUR,229.0,"229,00 €",256.17,21.35,28.1,424.33
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,PW,Palau,USD,200.0,USD 200.00,200.0,16.67,0.0,236.04
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,PY,Paraguay,USD,200.0,USD 200.00,200.0,16.67,0.0,574.38
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,QA,Qatar,QAR,699.99,QAR 699.99,192.3,16.03,-3.8,341.75
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,RO,Romania,RON,999.99,"999,99 lei",209.28,17.44,4.6,472.64
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,RS,Serbia,EUR,229.0,"229,00 €",256.17,21.35,28.1,569.14
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,RW,Rwanda,USD,200.0,USD 200.00,200.0,16.67,0.0,741.29
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,SA,Saudi Arabia,SAR,899.99,SAR 899.99,240.0,20.0,20.0,512.71
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,SB,Solomon Islands,USD,200.0,USD 200.00,200.0,16.67,0.0,267.24
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,SC,Seychelles,USD,200.0,USD 200.00,200.0,16.67,0.0,368.66
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,SE,Sweden,SEK,2495.0,"2 495,00 kr",250.68,20.89,25.3,287.98
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,SG,Singapore,SGD,299.98,S$ 299.98,234.23,19.52,17.1,387.22
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,SI,Slovenia,EUR,229.0,"229,00 €",256.17,21.35,28.1,406.04
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,SK,Slovakia,EUR,229.0,"229,00 €",256.17,21.35,28.1,442.51
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,SL,Sierra Leone,USD,200.0,USD 200.00,200.0,16.67,0.0,888.89
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,SN,Senegal,USD,250.0,USD 250.00,250.0,20.83,25.0,698.71
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,SR,Suriname,USD,200.0,USD 200.00,200.0,16.67,0.0,640.82
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,ST,São Tomé and Príncipe,USD,200.0,USD 200.00,200.0,16.67,0.0,355.62
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,SV,El Salvador,USD,200.0,USD 200.00,200.0,16.67,0.0,489.0
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,SZ,Eswatini,USD,200.0,USD 200.00,200.0,16.67,0.0,609.94
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,TC,Turks and Caicos Islands,USD,200.0,USD 200.00,200.0,16.67,0.0,202.68
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,TD,Chad,USD,200.0,USD 200.00,200.0,16.67,0.0,567.86
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,TH,Thailand,THB,6990.0,"฿6,990.00",206.88,17.24,3.4,674.11
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,TJ,Tajikistan,USD,200.0,USD 200.00,200.0,16.67,0.0,723.59
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,TM,Turkmenistan,USD,200.0,USD 200.00,200.0,16.67,0.0,
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,TN,Tunisia,USD,200.0,$200.00,200.0,16.67,0.0,694.44
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,TO,Tonga,USD,200.0,USD 200.00,200.0,16.67,0.0,266.67
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,TR,Turkey,TRY,9999.99,"₺9.999,99",200.84,16.74,0.4,489.03
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,TT,Trinidad and Tobago,USD,200.0,USD 200.00,200.0,16.67,0.0,391.39
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,TW,Taiwan,TWD,6990.0,"NT$6,990.00",214.47,17.87,7.2,
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,TZ,Tanzania,TZS,599900.0,"599,900.00 TZS",227.01,18.92,13.5,804.72
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,UA,Ukraine,USD,250.0,"250,00 USD",250.0,20.83,25.0,805.67
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,UG,Uganda,USD,250.0,USD 250.00,250.0,20.83,25.0,708.42
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,US,United States,USD,200.0,$200.00,200.0,16.67,0.0,200.0
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,UY,Uruguay,USD,200.0,USD 200.00,200.0,16.67,0.0,303.91
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,UZ,Uzbekistan,USD,200.0,USD 200.00,200.0,16.67,0.0,685.4
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,VC,Saint Vincent and the Grenadines,USD,200.0,USD 200.00,200.0,16.67,0.0,362.98
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,VG,British Virgin Islands,USD,200.0,USD 200.00,200.0,16.67,0.0,
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,VN,Vietnam,VND,4999000.0,4.999.000đ,193.52,16.13,-3.2,672.42
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,VU,Vanuatu,USD,200.0,USD 200.00,200.0,16.67,0.0,220.6
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,XK,Kosovo,EUR,229.0,"229,00 €",256.17,21.35,28.1,626.18
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,YE,Yemen,USD,200.0,$200.00,200.0,16.67,0.0,
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,ZA,South Africa,ZAR,3999.99,"R3,999.99",240.45,20.04,20.2,579.67
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,ZM,Zambia,USD,250.0,USD 250.00,250.0,20.83,25.0,835.56
+2026-10-27,chatgpt,chatgpt-plus,ChatGPT Plus,year,True,ZW,Zimbabwe,USD,250.0,USD 250.00,250.0,20.83,25.0,
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,AE,United Arab Emirates,AED,384.99,AED 384.99,104.83,104.83,4.8,165.45
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,AF,Afghanistan,USD,100.0,USD 100.00,100.0,100.0,0.0,501.0
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,AG,Antigua and Barbuda,USD,100.0,USD 100.00,100.0,100.0,0.0,144.38
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,AI,Anguilla,USD,100.0,USD 100.00,100.0,100.0,0.0,
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,AL,Albania,USD,119.99,USD 119.99,119.99,119.99,20.0,281.67
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,AM,Armenia,USD,119.99,USD 119.99,119.99,119.99,20.0,313.54
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,AO,Angola,USD,100.0,USD 100.00,100.0,100.0,0.0,282.41
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,AR,Argentina,USD,100.0,USD 100.00,100.0,100.0,0.0,218.72
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,AT,Austria,EUR,102.99,"102,99 €",115.21,115.21,15.2,140.57
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,AU,Australia,AUD,154.99,$154.99,108.8,108.8,8.8,120.7
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,AZ,Azerbaijan,USD,117.99,USD 117.99,117.99,117.99,18.0,415.75
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,BA,Bosnia and Herzegovina,EUR,102.99,"102,99 €",115.21,115.21,15.2,286.66
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,BB,Barbados,USD,119.0,USD 119.00,119.0,119.0,19.0,108.64
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,BE,Belgium,EUR,102.99,"102,99 €",115.21,115.21,15.2,141.62
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,BF,Burkina Faso,USD,100.0,USD 100.00,100.0,100.0,0.0,267.67
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,BG,Bulgaria,EUR,102.99,"102,99 €",115.21,115.21,15.2,251.93
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,BH,Bahrain,USD,109.0,$109.00,109.0,109.0,9.0,252.9
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,BJ,Benin,USD,117.99,USD 117.99,117.99,117.99,18.0,342.7
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,BM,Bermuda,USD,100.0,USD 100.00,100.0,100.0,0.0,83.47
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,BN,Brunei,USD,100.0,USD 100.00,100.0,100.0,0.0,286.78
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,BO,Bolivia,USD,100.0,USD 100.00,100.0,100.0,0.0,250.06
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,BR,Brazil,BRL,524.9,"R$ 524,90",96.63,96.63,-3.4,211.36
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,BS,Bahamas,USD,109.99,USD 109.99,109.99,109.99,10.0,115.02
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,BT,Bhutan,USD,100.0,USD 100.00,100.0,100.0,0.0,436.11
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,BW,Botswana,USD,100.0,USD 100.00,100.0,100.0,0.0,266.1
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,BZ,Belize,USD,100.0,USD 100.00,100.0,100.0,0.0,190.26
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,CA,Canada,CAD,152.99,$152.99,109.15,109.15,9.2,130.8
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,CD,DR Congo,USD,100.0,USD 100.00,100.0,100.0,0.0,239.41
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,CG,Republic of the Congo,USD,100.0,USD 100.00,100.0,100.0,0.0,288.27
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,CH,Switzerland,CHF,83.0,CHF 83.00,100.35,100.35,0.3,89.63
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,CI,Côte d'Ivoire,USD,117.99,$117.99,117.99,117.99,18.0,317.52
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,CL,Chile,CLP,102990.0,$102.990,103.42,103.42,3.4,217.09
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,CM,Cameroon,USD,118.99,US$118.99,118.99,118.99,19.0,349.15
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,CO,Colombia,COP,364900.0,"$ 364.900,00",115.65,115.65,15.7,305.79
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,CR,Costa Rica,USD,100.0,USD 100.00,100.0,100.0,0.0,169.32
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,CV,Cape Verde,USD,100.0,USD 100.00,100.0,100.0,0.0,209.86
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,CY,Cyprus,EUR,102.99,"102,99 €",115.21,115.21,15.2,178.04
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,CZ,Czechia,CZK,2490.0,"2 490,00 Kč",114.32,114.32,14.3,192.53
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,DE,Germany,EUR,102.99,"102,99 €",115.21,115.21,15.2,143.6
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,DK,Denmark,DKK,789.0,"789,00 kr",118.1,118.1,18.1,127.69
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,DM,Dominica,USD,100.0,USD 100.00,100.0,100.0,0.0,206.7
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,DO,Dominican Republic,USD,100.0,USD 100.00,100.0,100.0,0.0,259.67
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,DZ,Algeria,USD,100.0,$100.00,100.0,100.0,0.0,307.13
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,EC,Ecuador,USD,100.0,USD 100.00,100.0,100.0,0.0,235.18
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,EE,Estonia,EUR,102.99,"102,99 €",115.21,115.21,15.2,174.43
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,EG,Egypt,EGP,5399.99,"EGP 5,399.99",95.97,95.97,-4.0,622.75
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,ES,Spain,EUR,102.99,"102,99 €",115.21,115.21,15.2,178.56
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,FI,Finland,EUR,102.99,"102,99 €",115.21,115.21,15.2,135.19
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,FJ,Fiji,USD,100.0,USD 100.00,100.0,100.0,0.0,246.0
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,FM,Micronesia,USD,100.0,USD 100.00,100.0,100.0,0.0,104.31
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,FR,France,EUR,102.99,"102,99 €",115.21,115.21,15.2,150.46
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,GA,Gabon,USD,100.0,USD 100.00,100.0,100.0,0.0,268.89
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,GB,United Kingdom,GBP,88.9,£88.90,118.66,118.66,18.7,133.08
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,GD,Grenada,USD,100.0,USD 100.00,100.0,100.0,0.0,176.3
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,GE,Georgia,USD,117.99,USD 117.99,117.99,117.99,18.0,358.2
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,GH,Ghana,USD,114.99,USD 114.99,114.99,114.99,15.0,303.97
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,GM,Gambia,USD,100.0,USD 100.00,100.0,100.0,0.0,400.64
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,GR,Greece,EUR,102.99,"102,99 €",115.21,115.21,15.2,193.5
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,GT,Guatemala,USD,100.0,USD 100.00,100.0,100.0,0.0,230.31
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,GW,Guinea-Bissau,USD,100.0,USD 100.00,100.0,100.0,0.0,293.08
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,GY,Guyana,USD,100.0,USD 100.00,100.0,100.0,0.0,302.02
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,HN,Honduras,USD,100.0,USD 100.00,100.0,100.0,0.0,218.77
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,HR,Croatia,EUR,102.99,"102,99 €",115.21,115.21,15.2,216.56
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,HU,Hungary,HUF,40490.0,"HUF40,490.00",123.28,123.28,23.3,237.18
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,ID,Indonesia,IDR,1889000.0,"Rp 1,889juta",104.08,104.08,4.1,363.29
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,IE,Ireland,EUR,102.99,€102.99,115.21,115.21,15.2,135.78
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,IL,Israel,ILS,309.9,₪309.90,100.64,100.64,0.6,99.6
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,IN,India,INR,10699.0,"₹ 10,699",112.3,112.3,12.3,487.21
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,IQ,Iraq,USD,100.0,$100.00,100.0,100.0,0.0,238.49
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,IS,Iceland,USD,123.99,USD 123.99,123.99,123.99,24.0,105.21
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,IT,Italy,EUR,102.99,"102,99 €",115.21,115.21,15.2,167.07
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,JM,Jamaica,USD,100.0,USD 100.00,100.0,100.0,0.0,166.09
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,JO,Jordan,USD,100.0,$100.00,100.0,100.0,0.0,236.18
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,JP,Japan,JPY,16800.0,"¥16,800",106.71,106.71,6.7,164.5
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,KE,Kenya,USD,115.99,USD 115.99,115.99,115.99,16.0,344.39
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,KG,Kyrgyzstan,USD,100.0,USD 100.00,100.0,100.0,0.0,326.37
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,KH,Cambodia,USD,109.99,USD 109.99,109.99,109.99,10.0,327.16
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,KN,Saint Kitts and Nevis,USD,100.0,USD 100.00,100.0,100.0,0.0,145.82
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,KR,South Korea,KRW,159000.0,"￦159,000",119.98,119.98,20.0,209.07
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,KW,Kuwait,USD,100.0,$100.00,100.0,100.0,0.0,174.76
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,KY,Cayman Islands,USD,100.0,USD 100.00,100.0,100.0,0.0,88.41
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,KZ,Kazakhstan,KZT,54990.0,"54,990.00₸",121.85,121.85,21.8,367.34
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,LA,Laos,USD,109.99,USD 109.99,109.99,109.99,10.0,506.87
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,LB,Lebanon,USD,100.0,$100.00,100.0,100.0,0.0,
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,LC,Saint Lucia,USD,100.0,USD 100.00,100.0,100.0,0.0,194.44
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,LK,Sri Lanka,USD,100.0,USD 100.00,100.0,100.0,0.0,380.37
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,LR,Liberia,USD,100.0,USD 100.00,100.0,100.0,0.0,
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,LT,Lithuania,EUR,102.99,"102,99 €",115.21,115.21,15.2,198.67
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,LU,Luxembourg,EUR,102.99,"102,99 €",115.21,115.21,15.2,122.47
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,LV,Latvia,EUR,102.99,"102,99 €",115.21,115.21,15.2,202.02
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,LY,Libya,USD,100.0,$100.00,100.0,100.0,0.0,256.08
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,MA,Morocco,USD,100.0,$100.00,100.0,100.0,0.0,237.81
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,MD,Moldova,USD,119.99,USD 119.99,119.99,119.99,20.0,278.4
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,ME,Montenegro,EUR,84.99,"84,99 €",95.07,95.07,-4.9,227.83
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,MG,Madagascar,USD,100.0,USD 100.00,100.0,100.0,0.0,325.84
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,MK,North Macedonia,USD,100.0,USD 100.00,100.0,100.0,0.0,267.24
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,ML,Mali,USD,100.0,USD 100.00,100.0,100.0,0.0,293.51
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,MM,Myanmar,USD,100.0,USD 100.00,100.0,100.0,0.0,389.71
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,MN,Mongolia,USD,100.0,USD 100.00,100.0,100.0,0.0,292.57
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,MR,Mauritania,USD,100.0,$100.00,100.0,100.0,0.0,326.37
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,MS,Montserrat,USD,100.0,USD 100.00,100.0,100.0,0.0,
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,MT,Malta,EUR,102.99,"102,99 €",115.21,115.21,15.2,173.67
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,MU,Mauritius,USD,100.0,USD 100.00,100.0,100.0,0.0,259.13
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,MV,Maldives,USD,100.0,USD 100.00,100.0,100.0,0.0,195.39
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,MW,Malawi,USD,100.0,USD 100.00,100.0,100.0,0.0,289.35
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,MX,Mexico,MXN,1989.0,"$1,989.00",106.99,106.99,7.0,199.27
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,MY,Malaysia,MYR,419.9,RM419.90,102.73,102.73,2.7,324.79
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,MZ,Mozambique,USD,100.0,USD 100.00,100.0,100.0,0.0,260.01
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,NA,Namibia,USD,100.0,USD 100.00,100.0,100.0,0.0,245.82
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,NG,Nigeria,NGN,144900.0,"₦ 144,900.00",106.55,106.55,6.5,829.84
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,NI,Nicaragua,USD,100.0,USD 100.00,100.0,100.0,0.0,292.57
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,NL,Netherlands,EUR,102.99,"€ 102,99",115.21,115.21,15.2,136.54
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,NO,Norway,NOK,1190.0,"1.190,00 kr",127.64,127.64,27.6,140.39
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,NP,Nepal,USD,112.99,USD 112.99,112.99,112.99,13.0,463.64
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,NR,Nauru,USD,100.0,USD 100.00,100.0,100.0,0.0,97.44
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,NZ,New Zealand,NZD,190.0,$190.00,108.04,108.04,8.0,126.17
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,OM,Oman,USD,104.99,$104.99,104.99,104.99,5.0,222.63
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,PA,Panama,USD,100.0,USD 100.00,100.0,100.0,0.0,221.83
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,PE,Peru,PEN,394.9,S/ 394.90,114.8,114.8,14.8,223.04
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,PG,Papua New Guinea,USD,100.0,USD 100.00,100.0,100.0,0.0,172.71
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,PH,Philippines,PHP,6490.0,"₱ 6,490.00",101.47,101.47,1.5,306.0
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,PK,Pakistan,PKR,27999.0,"Rs 27,999.00",101.15,101.15,1.2,419.18
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,PL,Poland,PLN,439.0,"439,00 zł",111.48,111.48,11.5,212.87
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,PT,Portugal,EUR,102.99,"102,99 €",115.21,115.21,15.2,190.84
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,PW,Palau,USD,100.0,USD 100.00,100.0,100.0,0.0,118.02
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,PY,Paraguay,USD,100.0,USD 100.00,100.0,100.0,0.0,287.19
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,QA,Qatar,QAR,364.99,QAR 364.99,100.27,100.27,0.3,178.2
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,RO,Romania,RON,519.99,"519,99 lei",108.83,108.83,8.8,245.77
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,RS,Serbia,EUR,102.99,"102,99 €",115.21,115.21,15.2,255.96
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,RW,Rwanda,USD,100.0,USD 100.00,100.0,100.0,0.0,370.64
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,SA,Saudi Arabia,SAR,429.99,SAR 429.99,114.66,114.66,14.7,244.96
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,SB,Solomon Islands,USD,100.0,USD 100.00,100.0,100.0,0.0,133.62
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,SC,Seychelles,USD,100.0,USD 100.00,100.0,100.0,0.0,184.33
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,SE,Sweden,SEK,1120.0,"1 120,00 kr",112.53,112.53,12.5,129.27
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,SG,Singapore,SGD,137.98,S$ 137.98,107.74,107.74,7.7,178.11
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,SI,Slovenia,EUR,102.99,"102,99 €",115.21,115.21,15.2,182.61
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,SK,Slovakia,EUR,102.99,"102,99 €",115.21,115.21,15.2,199.01
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,SL,Sierra Leone,USD,100.0,USD 100.00,100.0,100.0,0.0,444.44
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,SN,Senegal,USD,117.99,USD 117.99,117.99,117.99,18.0,329.77
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,SR,Suriname,USD,109.99,USD 109.99,109.99,109.99,10.0,352.42
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,ST,São Tomé and Príncipe,USD,100.0,USD 100.00,100.0,100.0,0.0,177.81
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,SV,El Salvador,USD,100.0,USD 100.00,100.0,100.0,0.0,244.5
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,SZ,Eswatini,USD,100.0,USD 100.00,100.0,100.0,0.0,304.97
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,TC,Turks and Caicos Islands,USD,100.0,USD 100.00,100.0,100.0,0.0,101.34
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,TD,Chad,USD,100.0,USD 100.00,100.0,100.0,0.0,283.93
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,TH,Thailand,THB,3350.0,"฿3,350.00",99.15,99.15,-0.8,323.07
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,TJ,Tajikistan,USD,100.0,USD 100.00,100.0,100.0,0.0,361.79
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,TM,Turkmenistan,USD,100.0,USD 100.00,100.0,100.0,0.0,
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,TN,Tunisia,USD,100.0,$100.00,100.0,100.0,0.0,347.22
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,TO,Tonga,USD,100.0,USD 100.00,100.0,100.0,0.0,133.33
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,TR,Turkey,TRY,5299.99,"₺5.299,99",106.45,106.45,6.5,259.18
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,TT,Trinidad and Tobago,USD,100.0,USD 100.00,100.0,100.0,0.0,195.69
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,TW,Taiwan,TWD,3300.0,"NT$3,300.00",101.25,101.25,1.2,
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,TZ,Tanzania,TZS,304900.0,"304,900.00 TZS",115.38,115.38,15.4,409.0
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,UA,Ukraine,USD,119.0,"119,00 USD",119.0,119.0,19.0,383.5
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,UG,Uganda,USD,117.99,USD 117.99,117.99,117.99,18.0,334.34
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,US,United States,USD,100.0,$100.00,100.0,100.0,0.0,100.0
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,UY,Uruguay,USD,121.99,USD 121.99,121.99,121.99,22.0,185.37
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,UZ,Uzbekistan,USD,111.99,USD 111.99,111.99,111.99,12.0,383.79
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,VC,Saint Vincent and the Grenadines,USD,100.0,USD 100.00,100.0,100.0,0.0,181.49
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,VG,British Virgin Islands,USD,100.0,USD 100.00,100.0,100.0,0.0,
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,VN,Vietnam,VND,2849000.0,2.849.000đ,110.29,110.29,10.3,383.22
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,VU,Vanuatu,USD,100.0,USD 100.00,100.0,100.0,0.0,110.3
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,XK,Kosovo,EUR,84.99,"84,99 €",95.07,95.07,-4.9,232.4
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,YE,Yemen,USD,100.0,$100.00,100.0,100.0,0.0,
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,ZA,South Africa,ZAR,1839.0,"R1,839.00",110.55,110.55,10.5,266.51
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,ZM,Zambia,USD,115.99,USD 115.99,115.99,115.99,16.0,387.67
+2026-10-27,chatgpt,chatgpt-pro-100,ChatGPT Pro 100,month,True,ZW,Zimbabwe,USD,114.99,USD 114.99,114.99,114.99,15.0,
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,AE,United Arab Emirates,AED,799.99,AED 799.99,217.83,217.83,8.9,343.8
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,AF,Afghanistan,USD,200.0,USD 200.00,200.0,200.0,0.0,1002.0
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,AG,Antigua and Barbuda,USD,200.0,USD 200.00,200.0,200.0,0.0,288.77
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,AI,Anguilla,USD,200.0,USD 200.00,200.0,200.0,0.0,
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,AL,Albania,USD,250.0,USD 250.00,250.0,250.0,25.0,586.85
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,AM,Armenia,USD,250.0,USD 250.00,250.0,250.0,25.0,653.25
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,AO,Angola,USD,200.0,USD 200.00,200.0,200.0,0.0,564.81
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,AR,Argentina,USD,200.0,USD 200.00,200.0,200.0,0.0,437.45
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,AT,Austria,EUR,229.0,"229,00 €",256.17,256.17,28.1,312.56
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,AU,Australia,AUD,300.0,$300.00,210.59,210.59,5.3,233.63
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,AZ,Azerbaijan,USD,200.0,USD 200.00,200.0,200.0,0.0,704.72
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,BA,Bosnia and Herzegovina,EUR,229.0,"229,00 €",256.17,256.17,28.1,637.4
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,BB,Barbados,USD,250.0,USD 250.00,250.0,250.0,25.0,228.23
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,BE,Belgium,EUR,229.0,"229,00 €",256.17,256.17,28.1,314.9
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,BF,Burkina Faso,USD,200.0,USD 200.00,200.0,200.0,0.0,535.33
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,BG,Bulgaria,EUR,199.99,"199,99 €",223.72,223.72,11.9,489.22
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,BH,Bahrain,USD,200.0,$200.00,200.0,200.0,0.0,464.04
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,BJ,Benin,USD,250.0,USD 250.00,250.0,250.0,25.0,726.11
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,BM,Bermuda,USD,200.0,USD 200.00,200.0,200.0,0.0,166.93
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,BN,Brunei,USD,200.0,USD 200.00,200.0,200.0,0.0,573.56
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,BO,Bolivia,USD,200.0,USD 200.00,200.0,200.0,0.0,500.13
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,BR,Brazil,BRL,999.9,"R$ 999,90",184.08,184.08,-8.0,402.63
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,BS,Bahamas,USD,200.0,USD 200.00,200.0,200.0,0.0,209.14
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,BT,Bhutan,USD,200.0,USD 200.00,200.0,200.0,0.0,872.22
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,BW,Botswana,USD,200.0,USD 200.00,200.0,200.0,0.0,532.2
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,BZ,Belize,USD,200.0,USD 200.00,200.0,200.0,0.0,380.52
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,CA,Canada,CAD,249.0,$249.00,177.66,177.66,-11.2,212.89
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,CD,DR Congo,USD,200.0,USD 200.00,200.0,200.0,0.0,478.81
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,CG,Republic of the Congo,USD,200.0,USD 200.00,200.0,200.0,0.0,576.54
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,CH,Switzerland,CHF,200.0,CHF 200.00,241.82,241.82,20.9,215.99
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,CI,Côte d'Ivoire,USD,250.0,$250.00,250.0,250.0,25.0,672.77
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,CL,Chile,CLP,199990.0,$199.990,200.82,200.82,0.4,421.54
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,CM,Cameroon,USD,250.0,US$250.00,250.0,250.0,25.0,733.57
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,CO,Colombia,COP,999900.0,"$ 999.900,00",316.91,316.91,58.5,837.93
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,CR,Costa Rica,USD,200.0,USD 200.00,200.0,200.0,0.0,338.64
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,CV,Cape Verde,USD,200.0,USD 200.00,200.0,200.0,0.0,419.73
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,CY,Cyprus,EUR,229.0,"229,00 €",256.17,256.17,28.1,395.88
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,CZ,Czechia,CZK,4990.0,"4 990,00 Kč",229.1,229.1,14.5,385.83
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,DE,Germany,EUR,229.0,"229,00 €",256.17,256.17,28.1,319.3
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,DK,Denmark,DKK,1799.0,"1.799,00 kr",269.29,269.29,34.6,291.15
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,DM,Dominica,USD,200.0,USD 200.00,200.0,200.0,0.0,413.39
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,DO,Dominican Republic,USD,200.0,USD 200.00,200.0,200.0,0.0,519.35
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,DZ,Algeria,USD,200.0,$200.00,200.0,200.0,0.0,614.25
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,EC,Ecuador,USD,200.0,USD 200.00,200.0,200.0,0.0,470.37
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,EE,Estonia,EUR,229.0,"229,00 €",256.17,256.17,28.1,387.84
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,EG,Egypt,EGP,9999.99,"EGP 9,999.99",177.71,177.71,-11.1,1153.24
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,ES,Spain,EUR,229.0,"229,00 €",256.17,256.17,28.1,397.04
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,FI,Finland,EUR,229.0,"229,00 €",256.17,256.17,28.1,300.6
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,FJ,Fiji,USD,200.0,USD 200.00,200.0,200.0,0.0,492.0
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,FM,Micronesia,USD,200.0,USD 200.00,200.0,200.0,0.0,208.62
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,FR,France,EUR,229.0,"229,00 €",256.17,256.17,28.1,334.56
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,GA,Gabon,USD,200.0,USD 200.00,200.0,200.0,0.0,537.78
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,GB,United Kingdom,GBP,200.0,£200.00,266.94,266.94,33.5,299.4
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,GD,Grenada,USD,200.0,USD 200.00,200.0,200.0,0.0,352.61
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,GE,Georgia,USD,250.0,USD 250.00,250.0,250.0,25.0,758.96
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,GH,Ghana,USD,250.0,USD 250.00,250.0,250.0,25.0,660.85
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,GM,Gambia,USD,200.0,USD 200.00,200.0,200.0,0.0,801.28
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,GR,Greece,EUR,229.0,"229,00 €",256.17,256.17,28.1,430.25
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,GT,Guatemala,USD,200.0,USD 200.00,200.0,200.0,0.0,460.62
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,GW,Guinea-Bissau,USD,200.0,USD 200.00,200.0,200.0,0.0,586.17
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,GY,Guyana,USD,200.0,USD 200.00,200.0,200.0,0.0,604.05
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,HN,Honduras,USD,200.0,USD 200.00,200.0,200.0,0.0,437.54
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,HR,Croatia,EUR,229.0,"229,00 €",256.17,256.17,28.1,481.52
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,HU,Hungary,HUF,89990.0,"HUF89,990.00",274.0,274.0,37.0,527.13
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,ID,Indonesia,IDR,3499000.0,"Rp 3,499juta",192.8,192.8,-3.6,672.93
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,IE,Ireland,EUR,229.0,€229.00,256.17,256.17,28.1,301.91
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,IL,Israel,ILS,699.9,₪699.90,227.29,227.29,13.6,224.95
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,IN,India,INR,19900.0,"₹ 19,900",208.88,208.88,4.4,906.21
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,IQ,Iraq,USD,200.0,$200.00,200.0,200.0,0.0,476.99
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,IS,Iceland,USD,250.0,USD 250.00,250.0,250.0,25.0,212.13
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,IT,Italy,EUR,229.0,"229,00 €",256.17,256.17,28.1,371.48
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,JM,Jamaica,USD,200.0,USD 200.00,200.0,200.0,0.0,332.17
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,JO,Jordan,USD,200.0,$200.00,200.0,200.0,0.0,472.37
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,JP,Japan,JPY,30000.0,"¥30,000",190.55,190.55,-4.7,293.74
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,KE,Kenya,USD,250.0,USD 250.00,250.0,250.0,25.0,742.28
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,KG,Kyrgyzstan,USD,200.0,USD 200.00,200.0,200.0,0.0,652.74
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,KH,Cambodia,USD,200.0,USD 200.00,200.0,200.0,0.0,594.88
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,KN,Saint Kitts and Nevis,USD,200.0,USD 200.00,200.0,200.0,0.0,291.63
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,KR,South Korea,KRW,299000.0,"￦299,000",225.63,225.63,12.8,393.15
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,KW,Kuwait,USD,200.0,$200.00,200.0,200.0,0.0,349.53
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,KY,Cayman Islands,USD,200.0,USD 200.00,200.0,200.0,0.0,176.82
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,KZ,Kazakhstan,KZT,99990.0,"99,990.00₸",221.56,221.56,10.8,667.95
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,LA,Laos,USD,200.0,USD 200.00,200.0,200.0,0.0,921.66
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,LB,Lebanon,USD,200.0,$200.00,200.0,200.0,0.0,
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,LC,Saint Lucia,USD,200.0,USD 200.00,200.0,200.0,0.0,388.88
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,LK,Sri Lanka,USD,200.0,USD 200.00,200.0,200.0,0.0,760.75
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,LR,Liberia,USD,200.0,USD 200.00,200.0,200.0,0.0,
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,LT,Lithuania,EUR,229.0,"229,00 €",256.17,256.17,28.1,441.75
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,LU,Luxembourg,EUR,229.0,"229,00 €",256.17,256.17,28.1,272.32
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,LV,Latvia,EUR,229.0,"229,00 €",256.17,256.17,28.1,449.19
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,LY,Libya,USD,200.0,$200.00,200.0,200.0,0.0,512.16
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,MA,Morocco,USD,200.0,$200.00,200.0,200.0,0.0,475.62
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,MD,Moldova,USD,250.0,USD 250.00,250.0,250.0,25.0,580.05
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,ME,Montenegro,EUR,200.0,"200,00 €",223.73,223.73,11.9,536.14
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,MG,Madagascar,USD,200.0,USD 200.00,200.0,200.0,0.0,651.68
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,MK,North Macedonia,USD,200.0,USD 200.00,200.0,200.0,0.0,534.47
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,ML,Mali,USD,200.0,USD 200.00,200.0,200.0,0.0,587.03
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,MM,Myanmar,USD,200.0,USD 200.00,200.0,200.0,0.0,779.42
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,MN,Mongolia,USD,200.0,USD 200.00,200.0,200.0,0.0,585.14
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,MR,Mauritania,USD,200.0,$200.00,200.0,200.0,0.0,652.74
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,MS,Montserrat,USD,200.0,USD 200.00,200.0,200.0,0.0,
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,MT,Malta,EUR,229.0,"229,00 €",256.17,256.17,28.1,386.15
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,MU,Mauritius,USD,200.0,USD 200.00,200.0,200.0,0.0,518.27
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,MV,Maldives,USD,200.0,USD 200.00,200.0,200.0,0.0,390.78
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,MW,Malawi,USD,200.0,USD 200.00,200.0,200.0,0.0,578.7
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,MX,Mexico,MXN,3999.0,"$3,999.00",215.1,215.1,7.5,400.64
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,MY,Malaysia,MYR,999.9,RM999.90,244.63,244.63,22.3,773.43
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,MZ,Mozambique,USD,200.0,USD 200.00,200.0,200.0,0.0,520.02
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,NA,Namibia,USD,200.0,USD 200.00,200.0,200.0,0.0,491.64
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,NG,Nigeria,NGN,299900.0,"₦ 299,900.00",220.53,220.53,10.3,1717.52
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,NI,Nicaragua,USD,200.0,USD 200.00,200.0,200.0,0.0,585.14
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,NL,Netherlands,EUR,229.0,"€ 229,00",256.17,256.17,28.1,303.59
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,NO,Norway,NOK,2490.0,"2.490,00 kr",267.08,267.08,33.5,293.75
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,NP,Nepal,USD,250.0,USD 250.00,250.0,250.0,25.0,1025.85
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,NR,Nauru,USD,200.0,USD 200.00,200.0,200.0,0.0,194.87
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,NZ,New Zealand,NZD,400.0,$400.00,227.44,227.44,13.7,265.61
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,OM,Oman,USD,200.0,$200.00,200.0,200.0,0.0,424.09
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,PA,Panama,USD,200.0,USD 200.00,200.0,200.0,0.0,443.66
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,PE,Peru,PEN,799.9,S/ 799.90,232.53,232.53,16.3,451.78
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,PG,Papua New Guinea,USD,200.0,USD 200.00,200.0,200.0,0.0,345.42
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,PH,Philippines,PHP,9990.0,"₱ 9,990.00",156.19,156.19,-21.9,471.02
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,PK,Pakistan,PKR,49900.0,"Rs 49,900.00",180.27,180.27,-9.9,747.06
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,PL,Poland,PLN,999.99,"999,99 zł",253.93,253.93,27.0,484.89
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,PT,Portugal,EUR,229.0,"229,00 €",256.17,256.17,28.1,424.33
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,PW,Palau,USD,200.0,USD 200.00,200.0,200.0,0.0,236.04
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,PY,Paraguay,USD,200.0,USD 200.00,200.0,200.0,0.0,574.38
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,QA,Qatar,QAR,699.99,QAR 699.99,192.3,192.3,-3.8,341.75
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,RO,Romania,RON,999.99,"999,99 lei",209.28,209.28,4.6,472.64
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,RS,Serbia,EUR,229.0,"229,00 €",256.17,256.17,28.1,569.14
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,RW,Rwanda,USD,200.0,USD 200.00,200.0,200.0,0.0,741.29
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,SA,Saudi Arabia,SAR,899.99,SAR 899.99,240.0,240.0,20.0,512.71
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,SB,Solomon Islands,USD,200.0,USD 200.00,200.0,200.0,0.0,267.24
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,SC,Seychelles,USD,200.0,USD 200.00,200.0,200.0,0.0,368.66
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,SE,Sweden,SEK,2495.0,"2 495,00 kr",250.68,250.68,25.3,287.98
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,SG,Singapore,SGD,299.98,S$ 299.98,234.23,234.23,17.1,387.22
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,SI,Slovenia,EUR,229.0,"229,00 €",256.17,256.17,28.1,406.04
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,SK,Slovakia,EUR,229.0,"229,00 €",256.17,256.17,28.1,442.51
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,SL,Sierra Leone,USD,200.0,USD 200.00,200.0,200.0,0.0,888.89
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,SN,Senegal,USD,200.0,USD 200.00,200.0,200.0,0.0,558.97
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,SR,Suriname,USD,200.0,USD 200.00,200.0,200.0,0.0,640.82
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,ST,São Tomé and Príncipe,USD,200.0,USD 200.00,200.0,200.0,0.0,355.62
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,SV,El Salvador,USD,200.0,USD 200.00,200.0,200.0,0.0,489.0
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,SZ,Eswatini,USD,200.0,USD 200.00,200.0,200.0,0.0,609.94
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,TC,Turks and Caicos Islands,USD,200.0,USD 200.00,200.0,200.0,0.0,202.68
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,TD,Chad,USD,200.0,USD 200.00,200.0,200.0,0.0,567.86
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,TH,Thailand,THB,6990.0,"฿6,990.00",206.88,206.88,3.4,674.11
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,TJ,Tajikistan,USD,200.0,USD 200.00,200.0,200.0,0.0,723.59
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,TM,Turkmenistan,USD,200.0,USD 200.00,200.0,200.0,0.0,
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,TN,Tunisia,USD,200.0,$200.00,200.0,200.0,0.0,694.44
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,TO,Tonga,USD,200.0,USD 200.00,200.0,200.0,0.0,266.67
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,TR,Turkey,TRY,9999.99,"₺9.999,99",200.84,200.84,0.4,489.03
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,TT,Trinidad and Tobago,USD,200.0,USD 200.00,200.0,200.0,0.0,391.39
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,TW,Taiwan,TWD,6990.0,"NT$6,990.00",214.47,214.47,7.2,
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,TZ,Tanzania,TZS,599900.0,"599,900.00 TZS",227.01,227.01,13.5,804.72
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,UA,Ukraine,USD,250.0,"250,00 USD",250.0,250.0,25.0,805.67
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,UG,Uganda,USD,250.0,USD 250.00,250.0,250.0,25.0,708.42
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,US,United States,USD,200.0,$200.00,200.0,200.0,0.0,200.0
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,UY,Uruguay,USD,200.0,USD 200.00,200.0,200.0,0.0,303.91
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,UZ,Uzbekistan,USD,200.0,USD 200.00,200.0,200.0,0.0,685.4
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,VC,Saint Vincent and the Grenadines,USD,200.0,USD 200.00,200.0,200.0,0.0,362.98
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,VG,British Virgin Islands,USD,200.0,USD 200.00,200.0,200.0,0.0,
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,VN,Vietnam,VND,4999000.0,4.999.000đ,193.52,193.52,-3.2,672.42
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,VU,Vanuatu,USD,200.0,USD 200.00,200.0,200.0,0.0,220.6
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,XK,Kosovo,EUR,229.0,"229,00 €",256.17,256.17,28.1,626.18
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,YE,Yemen,USD,200.0,$200.00,200.0,200.0,0.0,
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,ZA,South Africa,ZAR,3999.99,"R3,999.99",240.45,240.45,20.2,579.67
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,ZM,Zambia,USD,250.0,USD 250.00,250.0,250.0,25.0,835.56
+2026-10-27,chatgpt,chatgpt-pro-200,ChatGPT Pro 200,month,True,ZW,Zimbabwe,USD,250.0,USD 250.00,250.0,250.0,25.0,
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,AE,United Arab Emirates,AED,1919.99,"AED 1,919.99",522.8,522.8,4.6,825.13
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,AF,Afghanistan,USD,500.0,USD 500.00,500.0,500.0,0.0,2505.01
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,AG,Antigua and Barbuda,USD,500.0,USD 500.00,500.0,500.0,0.0,721.92
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,AI,Anguilla,USD,500.0,USD 500.00,500.0,500.0,0.0,
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,AL,Albania,USD,599.99,USD 599.99,599.99,599.99,20.0,1408.43
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,AM,Armenia,USD,599.99,USD 599.99,599.99,599.99,20.0,1567.78
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,AO,Angola,USD,500.0,USD 500.00,500.0,500.0,0.0,1412.03
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,AR,Argentina,USD,500.0,USD 500.00,500.0,500.0,0.0,1093.61
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,AT,Austria,EUR,509.99,"509,99 €",570.5,570.5,14.1,696.07
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,AU,Australia,AUD,769.99,$769.99,540.51,540.51,8.1,599.63
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,AZ,Azerbaijan,USD,589.99,USD 589.99,589.99,589.99,18.0,2078.89
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,BA,Bosnia and Herzegovina,EUR,509.99,"509,99 €",570.5,570.5,14.1,1419.51
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,BB,Barbados,USD,590.0,USD 590.00,590.0,590.0,18.0,538.62
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,BE,Belgium,EUR,509.99,"509,99 €",570.5,570.5,14.1,701.29
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,BF,Burkina Faso,USD,500.0,USD 500.00,500.0,500.0,0.0,1338.33
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,BG,Bulgaria,EUR,509.99,"509,99 €",570.5,570.5,14.1,1247.54
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,BH,Bahrain,USD,549.99,$549.99,549.99,549.99,10.0,1276.08
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,BJ,Benin,USD,589.99,USD 589.99,589.99,589.99,18.0,1713.59
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,BM,Bermuda,USD,500.0,USD 500.00,500.0,500.0,0.0,417.33
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,BN,Brunei,USD,500.0,USD 500.00,500.0,500.0,0.0,1433.9
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,BO,Bolivia,USD,500.0,USD 500.00,500.0,500.0,0.0,1250.31
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,BR,Brazil,BRL,2599.9,"R$ 2.599,90",478.64,478.64,-4.3,1046.89
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,BS,Bahamas,USD,549.99,USD 549.99,549.99,549.99,10.0,575.12
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,BT,Bhutan,USD,500.0,USD 500.00,500.0,500.0,0.0,2180.55
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,BW,Botswana,USD,500.0,USD 500.00,500.0,500.0,0.0,1330.49
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,BZ,Belize,USD,500.0,USD 500.00,500.0,500.0,0.0,951.29
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,CA,Canada,CAD,759.99,$759.99,542.23,542.23,8.4,649.77
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,CD,DR Congo,USD,500.0,USD 500.00,500.0,500.0,0.0,1197.03
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,CG,Republic of the Congo,USD,500.0,USD 500.00,500.0,500.0,0.0,1441.34
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,CH,Switzerland,CHF,415.0,CHF 415.00,501.77,501.77,0.4,448.17
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,CI,Côte d'Ivoire,USD,589.99,$589.99,589.99,589.99,18.0,1587.7
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,CL,Chile,CLP,509990.0,$509.990,512.12,512.12,2.4,1074.97
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,CM,Cameroon,USD,590.0,US$590.00,590.0,590.0,18.0,1731.22
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,CO,Colombia,COP,1819900.0,"$ 1.819.900,00",576.79,576.79,15.4,1525.1
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,CR,Costa Rica,USD,500.0,USD 500.00,500.0,500.0,0.0,846.6
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,CV,Cape Verde,USD,500.0,USD 500.00,500.0,500.0,0.0,1049.32
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,CY,Cyprus,EUR,509.99,"509,99 €",570.5,570.5,14.1,881.63
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,CZ,Czechia,CZK,12390.0,"12 390,00 Kč",568.86,568.86,13.8,957.99
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,DE,Germany,EUR,509.99,"509,99 €",570.5,570.5,14.1,711.08
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,DK,Denmark,DKK,3899.0,"3.899,00 kr",583.63,583.63,16.7,631.02
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,DM,Dominica,USD,500.0,USD 500.00,500.0,500.0,0.0,1033.48
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,DO,Dominican Republic,USD,500.0,USD 500.00,500.0,500.0,0.0,1298.36
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,DZ,Algeria,USD,500.0,$500.00,500.0,500.0,0.0,1535.63
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,EC,Ecuador,USD,500.0,USD 500.00,500.0,500.0,0.0,1175.92
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,EE,Estonia,EUR,509.99,"509,99 €",570.5,570.5,14.1,863.74
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,EG,Egypt,EGP,26999.99,"EGP 26,999.99",479.83,479.83,-4.0,3113.76
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,ES,Spain,EUR,509.99,"509,99 €",570.5,570.5,14.1,884.22
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,FI,Finland,EUR,509.99,"509,99 €",570.5,570.5,14.1,669.44
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,FJ,Fiji,USD,500.0,USD 500.00,500.0,500.0,0.0,1230.01
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,FM,Micronesia,USD,500.0,USD 500.00,500.0,500.0,0.0,521.54
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,FR,France,EUR,509.99,"509,99 €",570.5,570.5,14.1,745.07
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,GA,Gabon,USD,500.0,USD 500.00,500.0,500.0,0.0,1344.45
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,GB,United Kingdom,GBP,444.99,£444.99,593.93,593.93,18.8,666.14
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,GD,Grenada,USD,500.0,USD 500.00,500.0,500.0,0.0,881.52
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,GE,Georgia,USD,589.99,USD 589.99,589.99,589.99,18.0,1791.11
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,GH,Ghana,USD,569.99,USD 569.99,569.99,569.99,14.0,1506.71
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,GM,Gambia,USD,500.0,USD 500.00,500.0,500.0,0.0,2003.21
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,GR,Greece,EUR,509.99,"509,99 €",570.5,570.5,14.1,958.18
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,GT,Guatemala,USD,500.0,USD 500.00,500.0,500.0,0.0,1151.54
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,GW,Guinea-Bissau,USD,500.0,USD 500.00,500.0,500.0,0.0,1465.42
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,GY,Guyana,USD,500.0,USD 500.00,500.0,500.0,0.0,1510.12
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,HN,Honduras,USD,500.0,USD 500.00,500.0,500.0,0.0,1093.85
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,HR,Croatia,EUR,509.99,"509,99 €",570.5,570.5,14.1,1072.37
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,HU,Hungary,HUF,199990.0,"HUF199,990.00",608.93,608.93,21.8,1171.47
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,ID,Indonesia,IDR,9399000.0,"Rp 9,399juta",517.89,517.89,3.6,1807.63
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,IE,Ireland,EUR,509.99,€509.99,570.5,570.5,14.1,672.36
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,IL,Israel,ILS,1549.9,"₪1,549.90",503.33,503.33,0.7,498.15
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,IN,India,INR,52900.0,"₹ 52,900",555.27,555.27,11.1,2408.98
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,IQ,Iraq,USD,500.0,$500.00,500.0,500.0,0.0,1192.46
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,IS,Iceland,USD,619.99,USD 619.99,619.99,619.99,24.0,526.08
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,IT,Italy,EUR,509.99,"509,99 €",570.5,570.5,14.1,827.29
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,JM,Jamaica,USD,500.0,USD 500.00,500.0,500.0,0.0,830.43
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,JO,Jordan,USD,500.0,$500.00,500.0,500.0,0.0,1180.92
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,JP,Japan,JPY,84000.0,"¥84,000",533.55,533.55,6.7,822.48
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,KE,Kenya,USD,579.99,USD 579.99,579.99,579.99,16.0,1722.06
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,KG,Kyrgyzstan,USD,500.0,USD 500.00,500.0,500.0,0.0,1631.85
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,KH,Cambodia,USD,549.99,USD 549.99,549.99,549.99,10.0,1635.9
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,KN,Saint Kitts and Nevis,USD,500.0,USD 500.00,500.0,500.0,0.0,729.08
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,KR,South Korea,KRW,790000.0,"￦790,000",596.14,596.14,19.2,1038.76
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,KW,Kuwait,USD,500.0,$500.00,500.0,500.0,0.0,873.82
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,KY,Cayman Islands,USD,500.0,USD 500.00,500.0,500.0,0.0,442.05
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,KZ,Kazakhstan,KZT,274990.0,"274,990.00₸",609.33,609.33,21.9,1836.98
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,LA,Laos,USD,549.99,USD 549.99,549.99,549.99,10.0,2534.52
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,LB,Lebanon,USD,500.0,$500.00,500.0,500.0,0.0,
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,LC,Saint Lucia,USD,500.0,USD 500.00,500.0,500.0,0.0,972.2
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,LK,Sri Lanka,USD,500.0,USD 500.00,500.0,500.0,0.0,1901.86
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,LR,Liberia,USD,500.0,USD 500.00,500.0,500.0,0.0,
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,LT,Lithuania,EUR,509.99,"509,99 €",570.5,570.5,14.1,983.79
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,LU,Luxembourg,EUR,509.99,"509,99 €",570.5,570.5,14.1,606.46
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,LV,Latvia,EUR,509.99,"509,99 €",570.5,570.5,14.1,1000.35
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,LY,Libya,USD,500.0,$500.00,500.0,500.0,0.0,1280.41
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,MA,Morocco,USD,500.0,$500.00,500.0,500.0,0.0,1189.06
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,MD,Moldova,USD,599.99,USD 599.99,599.99,599.99,20.0,1392.09
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,ME,Montenegro,EUR,424.99,"424,99 €",475.41,475.41,-4.9,1139.26
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,MG,Madagascar,USD,500.0,USD 500.00,500.0,500.0,0.0,1629.2
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,MK,North Macedonia,USD,500.0,USD 500.00,500.0,500.0,0.0,1336.18
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,ML,Mali,USD,500.0,USD 500.00,500.0,500.0,0.0,1467.57
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,MM,Myanmar,USD,500.0,USD 500.00,500.0,500.0,0.0,1948.56
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,MN,Mongolia,USD,500.0,USD 500.00,500.0,500.0,0.0,1462.84
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,MR,Mauritania,USD,500.0,$500.00,500.0,500.0,0.0,1631.85
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,MS,Montserrat,USD,500.0,USD 500.00,500.0,500.0,0.0,
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,MT,Malta,EUR,509.99,"509,99 €",570.5,570.5,14.1,859.96
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,MU,Mauritius,USD,500.0,USD 500.00,500.0,500.0,0.0,1295.67
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,MV,Maldives,USD,500.0,USD 500.00,500.0,500.0,0.0,976.94
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,MW,Malawi,USD,500.0,USD 500.00,500.0,500.0,0.0,1446.76
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,MX,Mexico,MXN,9899.0,"$9,899.00",532.45,532.45,6.5,991.72
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,MY,Malaysia,MYR,2099.9,"RM2,099.90",513.76,513.76,2.8,1624.28
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,MZ,Mozambique,USD,500.0,USD 500.00,500.0,500.0,0.0,1300.05
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,NA,Namibia,USD,500.0,USD 500.00,500.0,500.0,0.0,1229.11
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,NG,Nigeria,NGN,699900.0,"₦ 699,900.00",514.67,514.67,2.9,4008.3
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,NI,Nicaragua,USD,500.0,USD 500.00,500.0,500.0,0.0,1462.84
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,NL,Netherlands,EUR,509.99,"€ 509,99",570.5,570.5,14.1,676.11
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,NO,Norway,NOK,5899.0,"5.899,00 kr",632.74,632.74,26.5,695.93
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,NP,Nepal,USD,559.99,USD 559.99,559.99,559.99,12.0,2297.87
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,NR,Nauru,USD,500.0,USD 500.00,500.0,500.0,0.0,487.19
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,NZ,New Zealand,NZD,949.99,$949.99,540.17,540.17,8.0,630.82
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,OM,Oman,USD,519.99,$519.99,519.99,519.99,4.0,1102.61
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,PA,Panama,USD,500.0,USD 500.00,500.0,500.0,0.0,1109.14
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,PE,Peru,PEN,1969.9,"S/ 1,969.90",572.65,572.65,14.5,1112.6
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,PG,Papua New Guinea,USD,500.0,USD 500.00,500.0,500.0,0.0,863.56
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,PH,Philippines,PHP,32490.0,"₱ 32,490.00",507.97,507.97,1.6,1531.88
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,PK,Pakistan,PKR,139999.0,"Rs 139,999.00",505.75,505.75,1.2,2095.94
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,PL,Poland,PLN,2199.0,"2 199,00 zł",558.41,558.41,11.7,1066.28
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,PT,Portugal,EUR,509.99,"509,99 €",570.5,570.5,14.1,945.01
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,PW,Palau,USD,500.0,USD 500.00,500.0,500.0,0.0,590.11
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,PY,Paraguay,USD,500.0,USD 500.00,500.0,500.0,0.0,1435.96
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,QA,Qatar,QAR,1819.99,"QAR 1,819.99",500.0,500.0,0.0,888.57
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,RO,Romania,RON,2599.99,"2 599,99 lei",544.14,544.14,8.8,1228.87
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,RS,Serbia,EUR,509.99,"509,99 €",570.5,570.5,14.1,1267.5
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,RW,Rwanda,USD,500.0,USD 500.00,500.0,500.0,0.0,1853.22
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,SA,Saudi Arabia,SAR,2149.99,"SAR 2,149.99",573.33,573.33,14.7,1224.8
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,SB,Solomon Islands,USD,500.0,USD 500.00,500.0,500.0,0.0,668.09
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,SC,Seychelles,USD,500.0,USD 500.00,500.0,500.0,0.0,921.66
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,SE,Sweden,SEK,5599.0,"5 599,00 kr",562.55,562.55,12.5,646.24
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,SG,Singapore,SGD,689.98,S$ 689.98,538.74,538.74,7.7,890.63
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,SI,Slovenia,EUR,509.99,"509,99 €",570.5,570.5,14.1,904.26
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,SK,Slovakia,EUR,509.99,"509,99 €",570.5,570.5,14.1,985.49
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,SL,Sierra Leone,USD,500.0,USD 500.00,500.0,500.0,0.0,2222.22
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,SN,Senegal,USD,589.99,USD 589.99,589.99,589.99,18.0,1648.94
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,SR,Suriname,USD,549.99,USD 549.99,549.99,549.99,10.0,1762.22
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,ST,São Tomé and Príncipe,USD,500.0,USD 500.00,500.0,500.0,0.0,889.05
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,SV,El Salvador,USD,500.0,USD 500.00,500.0,500.0,0.0,1222.49
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,SZ,Eswatini,USD,500.0,USD 500.00,500.0,500.0,0.0,1524.86
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,TC,Turks and Caicos Islands,USD,500.0,USD 500.00,500.0,500.0,0.0,506.69
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,TD,Chad,USD,500.0,USD 500.00,500.0,500.0,0.0,1419.65
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,TH,Thailand,THB,16490.0,"฿16,490.00",488.06,488.06,-2.4,1590.28
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,TJ,Tajikistan,USD,500.0,USD 500.00,500.0,500.0,0.0,1808.97
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,TM,Turkmenistan,USD,500.0,USD 500.00,500.0,500.0,0.0,
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,TN,Tunisia,USD,500.0,$500.00,500.0,500.0,0.0,1736.11
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,TO,Tonga,USD,500.0,USD 500.00,500.0,500.0,0.0,666.67
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,TR,Turkey,TRY,26499.0,"₺26.499,00",532.22,532.22,6.4,1295.88
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,TT,Trinidad and Tobago,USD,500.0,USD 500.00,500.0,500.0,0.0,978.47
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,TW,Taiwan,TWD,16500.0,"NT$16,500.00",506.25,506.25,1.2,
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,TZ,Tanzania,TZS,1500000.0,"1,500,000.00 TZS",567.63,567.63,13.5,2012.14
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,UA,Ukraine,USD,599.0,"599,00 USD",599.0,599.0,19.8,1930.39
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,UG,Uganda,USD,589.99,USD 589.99,589.99,589.99,18.0,1671.83
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,US,United States,USD,500.0,$500.00,500.0,500.0,0.0,500.0
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,UY,Uruguay,USD,609.99,USD 609.99,609.99,609.99,22.0,926.9
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,UZ,Uzbekistan,USD,559.99,USD 559.99,559.99,559.99,12.0,1919.09
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,VC,Saint Vincent and the Grenadines,USD,500.0,USD 500.00,500.0,500.0,0.0,907.44
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,VG,British Virgin Islands,USD,500.0,USD 500.00,500.0,500.0,0.0,
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,VN,Vietnam,VND,14199000.0,14.199.000đ,549.68,549.68,9.9,1909.93
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,VU,Vanuatu,USD,500.0,USD 500.00,500.0,500.0,0.0,551.51
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,XK,Kosovo,EUR,424.99,"424,99 €",475.41,475.41,-4.9,1162.1
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,YE,Yemen,USD,500.0,$500.00,500.0,500.0,0.0,
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,ZA,South Africa,ZAR,9199.0,"R9,199.00",552.97,552.97,10.6,1333.11
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,ZM,Zambia,USD,579.99,USD 579.99,579.99,579.99,16.0,1938.47
+2026-10-27,chatgpt,chatgpt-pro-500,ChatGPT Pro 500,month,True,ZW,Zimbabwe,USD,569.99,USD 569.99,569.99,569.99,14.0,
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,AE,United Arab Emirates,AED,999.99,AED 999.99,272.29,272.29,8.9,429.75
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,AG,Antigua and Barbuda,USD,249.99,USD 249.99,249.99,249.99,0.0,360.94
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,AI,Anguilla,USD,249.99,USD 249.99,249.99,249.99,0.0,
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,AL,Albania,USD,299.99,USD 299.99,299.99,299.99,20.0,704.2
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,AM,Armenia,USD,299.99,USD 299.99,299.99,299.99,20.0,783.88
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,AO,Angola,USD,249.99,USD 249.99,249.99,249.99,0.0,705.99
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,AR,Argentina,USD,249.99,USD 249.99,249.99,249.99,0.0,546.78
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,AT,Austria,EUR,299.99,"299,99 €",335.58,335.58,34.2,409.45
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,AU,Australia,AUD,399.99,$399.99,280.78,280.78,12.3,311.49
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,AZ,Azerbaijan,USD,299.99,USD 299.99,299.99,299.99,20.0,1057.05
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,BA,Bosnia and Herzegovina,EUR,299.99,"299,99 €",335.58,335.58,34.2,834.99
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,BB,Barbados,USD,299.99,USD 299.99,299.99,299.99,20.0,273.86
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,BE,Belgium,EUR,299.99,"299,99 €",335.58,335.58,34.2,412.52
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,BF,Burkina Faso,USD,249.99,USD 249.99,249.99,249.99,0.0,669.14
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,BG,Bulgaria,EUR,299.99,"299,99 €",335.58,335.58,34.2,733.84
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,BH,Bahrain,USD,299.99,$299.99,299.99,299.99,20.0,696.03
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,BJ,Benin,USD,299.99,USD 299.99,299.99,299.99,20.0,871.3
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,BM,Bermuda,USD,249.99,USD 249.99,249.99,249.99,0.0,208.66
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,BN,Brunei,USD,249.99,USD 249.99,249.99,249.99,0.0,716.92
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,BO,Bolivia,USD,249.99,USD 249.99,249.99,249.99,0.0,625.13
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,BR,Brazil,BRL,1499.9,"R$ 1.499,90",276.13,276.13,10.5,603.96
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,BS,Bahamas,USD,299.99,USD 299.99,299.99,299.99,20.0,313.7
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,BT,Bhutan,USD,249.99,USD 249.99,249.99,249.99,0.0,1090.23
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,BW,Botswana,USD,249.99,USD 249.99,249.99,249.99,0.0,665.22
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,BZ,Belize,USD,249.99,USD 249.99,249.99,249.99,0.0,475.63
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,CA,Canada,CAD,349.99,$349.99,249.71,249.71,-0.1,299.23
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,CD,DR Congo,USD,249.99,USD 249.99,249.99,249.99,0.0,598.49
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,CG,Republic of the Congo,USD,249.99,USD 249.99,249.99,249.99,0.0,720.64
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,CH,Switzerland,CHF,200.0,CHF 200.00,241.82,241.82,-3.3,215.99
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,CI,Côte d'Ivoire,USD,299.99,$299.99,299.99,299.99,20.0,807.29
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,CL,Chile,CLP,299990.0,$299.990,301.24,301.24,20.5,632.33
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,CM,Cameroon,USD,299.99,US$299.99,299.99,299.99,20.0,880.25
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,CO,Colombia,COP,1199900.0,"$ 1.199.900,00",380.29,380.29,52.1,1005.53
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,CR,Costa Rica,USD,249.99,USD 249.99,249.99,249.99,0.0,423.28
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,CV,Cape Verde,USD,249.99,USD 249.99,249.99,249.99,0.0,524.64
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,CY,Cyprus,EUR,299.99,"299,99 €",335.58,335.58,34.2,518.6
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,CZ,Czechia,CZK,6990.0,"6 990,00 Kč",320.93,320.93,28.4,540.47
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,DE,Germany,EUR,299.99,"299,99 €",335.58,335.58,34.2,418.28
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,DK,Denmark,DKK,1999.0,"1.999,00 kr",299.22,299.22,19.7,323.52
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,DM,Dominica,USD,249.99,USD 249.99,249.99,249.99,0.0,516.72
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,DO,Dominican Republic,USD,249.99,USD 249.99,249.99,249.99,0.0,649.16
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,DZ,Algeria,USD,249.99,$249.99,249.99,249.99,0.0,767.78
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,EC,Ecuador,USD,249.99,USD 249.99,249.99,249.99,0.0,587.94
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,EE,Estonia,EUR,299.99,"299,99 €",335.58,335.58,34.2,508.08
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,EG,Egypt,EGP,12999.99,"EGP 12,999.99",231.03,231.03,-7.6,1499.22
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,ES,Spain,EUR,299.99,"299,99 €",335.58,335.58,34.2,520.12
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,FI,Finland,EUR,299.99,"299,99 €",335.58,335.58,34.2,393.79
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,FJ,Fiji,USD,249.99,USD 249.99,249.99,249.99,0.0,614.98
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,FM,Micronesia,USD,249.99,USD 249.99,249.99,249.99,0.0,260.76
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,FR,France,EUR,299.99,"299,99 €",335.58,335.58,34.2,438.27
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,GA,Gabon,USD,249.99,USD 249.99,249.99,249.99,0.0,672.2
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,GB,United Kingdom,GBP,249.99,£249.99,333.66,333.66,33.5,374.23
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,GD,Grenada,USD,249.99,USD 249.99,249.99,249.99,0.0,440.74
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,GE,Georgia,USD,299.99,USD 299.99,299.99,299.99,20.0,910.72
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,GH,Ghana,USD,299.99,USD 299.99,299.99,299.99,20.0,792.99
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,GM,Gambia,USD,249.99,USD 249.99,249.99,249.99,0.0,1001.56
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,GR,Greece,EUR,299.99,"299,99 €",335.58,335.58,34.2,563.63
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,GT,Guatemala,USD,249.99,USD 249.99,249.99,249.99,0.0,575.75
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,GW,Guinea-Bissau,USD,249.99,USD 249.99,249.99,249.99,0.0,732.68
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,GY,Guyana,USD,249.99,USD 249.99,249.99,249.99,0.0,755.03
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,HN,Honduras,USD,249.99,USD 249.99,249.99,249.99,0.0,546.9
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,HR,Croatia,EUR,299.99,"299,99 €",335.58,335.58,34.2,630.8
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,HU,Hungary,HUF,99990.0,"HUF99,990.00",304.45,304.45,21.8,585.71
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,ID,Indonesia,IDR,3999000.0,"Rp 3,999juta",220.35,220.35,-11.9,769.09
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,IE,Ireland,EUR,299.99,€299.99,335.58,335.58,34.2,395.5
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,IL,Israel,ILS,899.9,₪899.90,292.24,292.24,16.9,289.23
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,IN,India,INR,24900.0,"₹ 24,900",261.37,261.37,4.6,1133.9
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,IQ,Iraq,USD,249.99,$249.99,249.99,249.99,0.0,596.21
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,IS,Iceland,USD,299.99,USD 299.99,299.99,299.99,20.0,254.55
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,IT,Italy,EUR,299.99,"299,99 €",335.58,335.58,34.2,486.64
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,JM,Jamaica,USD,249.99,USD 249.99,249.99,249.99,0.0,415.2
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,JO,Jordan,USD,249.99,$249.99,249.99,249.99,0.0,590.43
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,JP,Japan,JPY,40000.0,"¥40,000",254.07,254.07,1.6,391.66
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,KE,Kenya,USD,299.99,USD 299.99,299.99,299.99,20.0,890.71
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,KG,Kyrgyzstan,USD,299.99,USD 299.99,299.99,299.99,20.0,979.08
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,KH,Cambodia,USD,299.99,USD 299.99,299.99,299.99,20.0,892.3
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,KN,Saint Kitts and Nevis,USD,249.99,USD 249.99,249.99,249.99,0.0,364.52
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,KR,South Korea,KRW,449000.0,"￦449,000",338.82,338.82,35.5,590.38
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,KW,Kuwait,USD,249.99,$249.99,249.99,249.99,0.0,436.89
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,KY,Cayman Islands,USD,249.99,USD 249.99,249.99,249.99,0.0,221.01
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,KZ,Kazakhstan,KZT,149990.0,"149,990.00₸",332.35,332.35,32.9,1001.96
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,LA,Laos,USD,299.99,USD 299.99,299.99,299.99,20.0,1382.44
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,LB,Lebanon,USD,249.99,$249.99,249.99,249.99,0.0,
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,LC,Saint Lucia,USD,249.99,USD 249.99,249.99,249.99,0.0,486.08
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,LK,Sri Lanka,USD,249.99,USD 249.99,249.99,249.99,0.0,950.89
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,LR,Liberia,USD,249.99,USD 249.99,249.99,249.99,0.0,
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,LT,Lithuania,EUR,299.99,"299,99 €",335.58,335.58,34.2,578.69
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,LU,Luxembourg,EUR,299.99,"299,99 €",335.58,335.58,34.2,356.74
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,LV,Latvia,EUR,299.99,"299,99 €",335.58,335.58,34.2,588.43
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,LY,Libya,USD,249.99,$249.99,249.99,249.99,0.0,640.18
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,MA,Morocco,USD,249.99,$249.99,249.99,249.99,0.0,594.51
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,MD,Moldova,USD,299.99,USD 299.99,299.99,299.99,20.0,696.03
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,ME,Montenegro,EUR,229.99,"229,99 €",257.28,257.28,2.9,616.53
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,MG,Madagascar,USD,249.99,USD 249.99,249.99,249.99,0.0,814.57
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,MK,North Macedonia,USD,249.99,USD 249.99,249.99,249.99,0.0,668.07
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,ML,Mali,USD,249.99,USD 249.99,249.99,249.99,0.0,733.75
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,MN,Mongolia,USD,249.99,USD 249.99,249.99,249.99,0.0,731.39
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,MR,Mauritania,USD,249.99,$249.99,249.99,249.99,0.0,815.89
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,MS,Montserrat,USD,249.99,USD 249.99,249.99,249.99,0.0,
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,MT,Malta,EUR,299.99,"299,99 €",335.58,335.58,34.2,505.85
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,MU,Mauritius,USD,299.99,USD 299.99,299.99,299.99,20.0,777.38
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,MV,Maldives,USD,249.99,USD 249.99,249.99,249.99,0.0,488.45
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,MW,Malawi,USD,249.99,USD 249.99,249.99,249.99,0.0,723.35
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,MX,Mexico,MXN,4999.0,"$4,999.00",268.89,268.89,7.6,500.82
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,MY,Malaysia,MYR,1199.9,"RM1,199.90",293.57,293.57,17.4,928.13
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,MZ,Mozambique,USD,249.99,USD 249.99,249.99,249.99,0.0,650.0
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,NA,Namibia,USD,249.99,USD 249.99,249.99,249.99,0.0,614.53
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,NG,Nigeria,NGN,399900.0,"₦ 399,900.00",294.06,294.06,17.6,2290.21
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,NI,Nicaragua,USD,249.99,USD 249.99,249.99,249.99,0.0,731.39
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,NL,Netherlands,EUR,299.99,"€ 299,99",335.58,335.58,34.2,397.71
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,NO,Norway,NOK,2990.0,"2.990,00 kr",320.71,320.71,28.3,352.74
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,NP,Nepal,USD,299.99,USD 299.99,299.99,299.99,20.0,1230.98
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,NR,Nauru,USD,249.99,USD 249.99,249.99,249.99,0.0,243.58
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,NZ,New Zealand,NZD,499.99,$499.99,284.3,284.3,13.7,332.01
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,OM,Oman,USD,249.99,$249.99,249.99,249.99,0.0,530.09
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,PA,Panama,USD,249.99,USD 249.99,249.99,249.99,0.0,554.55
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,PE,Peru,PEN,999.9,S/ 999.90,290.67,290.67,16.3,564.74
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,PG,Papua New Guinea,USD,249.99,USD 249.99,249.99,249.99,0.0,431.76
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,PH,Philippines,PHP,14990.0,"₱ 14,990.00",234.36,234.36,-6.3,706.77
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,PK,Pakistan,PKR,69900.0,"Rs 69,900.00",252.52,252.52,1.0,1046.48
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,PL,Poland,PLN,999.99,"999,99 zł",253.93,253.93,1.6,484.89
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,PT,Portugal,EUR,299.99,"299,99 €",335.58,335.58,34.2,555.88
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,PW,Palau,USD,249.99,USD 249.99,249.99,249.99,0.0,295.04
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,PY,Paraguay,USD,249.99,USD 249.99,249.99,249.99,0.0,717.95
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,QA,Qatar,QAR,999.99,QAR 999.99,274.72,274.72,9.9,488.22
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,RO,Romania,RON,1299.99,"1 299,99 lei",272.07,272.07,8.8,614.43
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,RS,Serbia,EUR,299.99,"299,99 €",335.58,335.58,34.2,745.58
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,RW,Rwanda,USD,249.99,USD 249.99,249.99,249.99,0.0,926.58
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,SA,Saudi Arabia,SAR,999.99,SAR 999.99,266.66,266.66,6.7,569.67
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,SB,Solomon Islands,USD,249.99,USD 249.99,249.99,249.99,0.0,334.03
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,SC,Seychelles,USD,249.99,USD 249.99,249.99,249.99,0.0,460.81
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,SE,Sweden,SEK,2995.0,"2 995,00 kr",300.92,300.92,20.4,345.69
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,SG,Singapore,SGD,349.98,S$ 349.98,273.27,273.27,9.3,451.76
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,SI,Slovenia,EUR,299.99,"299,99 €",335.58,335.58,34.2,531.91
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,SK,Slovakia,EUR,299.99,"299,99 €",335.58,335.58,34.2,579.69
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,SL,Sierra Leone,USD,249.99,USD 249.99,249.99,249.99,0.0,1111.07
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,SN,Senegal,USD,299.99,USD 299.99,299.99,299.99,20.0,838.43
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,SR,Suriname,USD,299.99,USD 299.99,299.99,299.99,20.0,961.2
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,ST,São Tomé and Príncipe,USD,249.99,USD 249.99,249.99,249.99,0.0,444.51
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,SV,El Salvador,USD,249.99,USD 249.99,249.99,249.99,0.0,611.22
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,SZ,Eswatini,USD,249.99,USD 249.99,249.99,249.99,0.0,762.4
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,TC,Turks and Caicos Islands,USD,249.99,USD 249.99,249.99,249.99,0.0,253.33
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,TD,Chad,USD,249.99,USD 249.99,249.99,249.99,0.0,709.8
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,TH,Thailand,THB,9990.0,"฿9,990.00",295.68,295.68,18.3,963.43
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,TJ,Tajikistan,USD,299.99,USD 299.99,299.99,299.99,20.0,1085.35
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,TM,Turkmenistan,USD,249.99,USD 249.99,249.99,249.99,0.0,
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,TN,Tunisia,USD,249.99,$249.99,249.99,249.99,0.0,868.02
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,TO,Tonga,USD,249.99,USD 249.99,249.99,249.99,0.0,333.32
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,TR,Turkey,TRY,12999.99,"₺12.999,99",261.1,261.1,4.4,635.74
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,TT,Trinidad and Tobago,USD,249.99,USD 249.99,249.99,249.99,0.0,489.22
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,TW,Taiwan,TWD,7990.0,"NT$7,990.00",245.15,245.15,-1.9,
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,TZ,Tanzania,TZS,699900.0,"699,900.00 TZS",264.85,264.85,5.9,938.87
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,UA,Ukraine,USD,299.99,"299,99 USD",299.99,299.99,20.0,966.77
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,UG,Uganda,USD,299.99,USD 299.99,299.99,299.99,20.0,850.07
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,US,United States,USD,249.99,$249.99,249.99,249.99,0.0,249.99
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,UY,Uruguay,USD,249.99,USD 249.99,249.99,249.99,0.0,379.87
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,UZ,Uzbekistan,USD,299.99,USD 299.99,299.99,299.99,20.0,1028.07
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,VC,Saint Vincent and the Grenadines,USD,249.99,USD 249.99,249.99,249.99,0.0,453.7
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,VG,British Virgin Islands,USD,249.99,USD 249.99,249.99,249.99,0.0,
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,VN,Vietnam,VND,7999000.0,7.999.000đ,309.66,309.66,23.9,1075.96
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,VU,Vanuatu,USD,249.99,USD 249.99,249.99,249.99,0.0,275.74
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,XK,Kosovo,EUR,299.99,"299,99 €",335.58,335.58,34.2,820.3
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,ZA,South Africa,ZAR,4999.99,"R4,999.99",300.56,300.56,20.2,724.59
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,ZM,Zambia,USD,299.99,USD 299.99,299.99,299.99,20.0,1002.64
+2026-10-27,claude,claude-max-20x,Claude Max 20x - Monthly,month,False,ZW,Zimbabwe,USD,299.99,USD 299.99,299.99,299.99,20.0,
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,AE,United Arab Emirates,AED,499.99,AED 499.99,136.14,136.14,8.9,214.87
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,AG,Antigua and Barbuda,USD,124.99,USD 124.99,124.99,124.99,0.0,180.46
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,AI,Anguilla,USD,124.99,USD 124.99,124.99,124.99,0.0,
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,AL,Albania,USD,149.99,USD 149.99,149.99,149.99,20.0,352.09
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,AM,Armenia,USD,149.99,USD 149.99,149.99,149.99,20.0,391.93
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,AO,Angola,USD,124.99,USD 124.99,124.99,124.99,0.0,352.98
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,AR,Argentina,USD,124.99,USD 124.99,124.99,124.99,0.0,273.38
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,AT,Austria,EUR,149.99,"149,99 €",167.79,167.79,34.2,204.72
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,AU,Australia,AUD,199.99,$199.99,140.39,140.39,12.3,155.74
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,AZ,Azerbaijan,USD,149.99,USD 149.99,149.99,149.99,20.0,528.51
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,BA,Bosnia and Herzegovina,EUR,149.99,"149,99 €",167.79,167.79,34.2,417.48
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,BB,Barbados,USD,149.99,USD 149.99,149.99,149.99,20.0,136.93
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,BE,Belgium,EUR,149.99,"149,99 €",167.79,167.79,34.2,206.25
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,BF,Burkina Faso,USD,124.99,USD 124.99,124.99,124.99,0.0,334.56
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,BG,Bulgaria,EUR,149.99,"149,99 €",167.79,167.79,34.2,366.91
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,BH,Bahrain,USD,129.99,$129.99,129.99,129.99,4.0,301.6
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,BJ,Benin,USD,149.99,USD 149.99,149.99,149.99,20.0,435.64
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,BM,Bermuda,USD,124.99,USD 124.99,124.99,124.99,0.0,104.32
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,BN,Brunei,USD,124.99,USD 124.99,124.99,124.99,0.0,358.45
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,BO,Bolivia,USD,124.99,USD 124.99,124.99,124.99,0.0,312.55
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,BR,Brazil,BRL,799.9,"R$ 799,90",147.26,147.26,17.8,322.09
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,BS,Bahamas,USD,129.99,USD 129.99,129.99,129.99,4.0,135.93
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,BT,Bhutan,USD,124.99,USD 124.99,124.99,124.99,0.0,545.09
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,BW,Botswana,USD,124.99,USD 124.99,124.99,124.99,0.0,332.6
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,BZ,Belize,USD,124.99,USD 124.99,124.99,124.99,0.0,237.8
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,CA,Canada,CAD,179.99,$179.99,128.42,128.42,2.7,153.89
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,CD,DR Congo,USD,124.99,USD 124.99,124.99,124.99,0.0,299.23
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,CG,Republic of the Congo,USD,124.99,USD 124.99,124.99,124.99,0.0,360.31
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,CH,Switzerland,CHF,100.0,CHF 100.00,120.91,120.91,-3.3,107.99
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,CI,Côte d'Ivoire,USD,149.99,$149.99,149.99,149.99,20.0,403.63
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,CL,Chile,CLP,149990.0,$149.990,150.62,150.62,20.5,316.15
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,CM,Cameroon,USD,149.99,US$149.99,149.99,149.99,20.0,440.11
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,CO,Colombia,COP,599900.0,"$ 599.900,00",190.13,190.13,52.1,502.72
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,CR,Costa Rica,USD,124.99,USD 124.99,124.99,124.99,0.0,211.63
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,CV,Cape Verde,USD,124.99,USD 124.99,124.99,124.99,0.0,262.31
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,CY,Cyprus,EUR,149.99,"149,99 €",167.79,167.79,34.2,259.29
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,CZ,Czechia,CZK,3490.0,"3 490,00 Kč",160.23,160.23,28.2,269.85
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,DE,Germany,EUR,149.99,"149,99 €",167.79,167.79,34.2,209.13
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,DK,Denmark,DKK,999.0,"999,00 kr",149.54,149.54,19.6,161.68
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,DM,Dominica,USD,124.99,USD 124.99,124.99,124.99,0.0,258.35
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,DO,Dominican Republic,USD,124.99,USD 124.99,124.99,124.99,0.0,324.57
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,DZ,Algeria,USD,124.99,$124.99,124.99,124.99,0.0,383.88
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,EC,Ecuador,USD,124.99,USD 124.99,124.99,124.99,0.0,293.96
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,EE,Estonia,EUR,149.99,"149,99 €",167.79,167.79,34.2,254.03
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,EG,Egypt,EGP,6999.99,"EGP 6,999.99",124.4,124.4,-0.5,807.27
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,ES,Spain,EUR,149.99,"149,99 €",167.79,167.79,34.2,260.05
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,FI,Finland,EUR,149.99,"149,99 €",167.79,167.79,34.2,196.89
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,FJ,Fiji,USD,124.99,USD 124.99,124.99,124.99,0.0,307.48
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,FM,Micronesia,USD,124.99,USD 124.99,124.99,124.99,0.0,130.37
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,FR,France,EUR,149.99,"149,99 €",167.79,167.79,34.2,219.13
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,GA,Gabon,USD,124.99,USD 124.99,124.99,124.99,0.0,336.08
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,GB,United Kingdom,GBP,119.99,£119.99,160.15,160.15,28.1,179.62
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,GD,Grenada,USD,124.99,USD 124.99,124.99,124.99,0.0,220.36
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,GE,Georgia,USD,149.99,USD 149.99,149.99,149.99,20.0,455.34
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,GH,Ghana,USD,149.99,USD 149.99,149.99,149.99,20.0,396.48
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,GM,Gambia,USD,124.99,USD 124.99,124.99,124.99,0.0,500.76
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,GR,Greece,EUR,149.99,"149,99 €",167.79,167.79,34.2,281.8
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,GT,Guatemala,USD,124.99,USD 124.99,124.99,124.99,0.0,287.86
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,GW,Guinea-Bissau,USD,124.99,USD 124.99,124.99,124.99,0.0,366.32
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,GY,Guyana,USD,124.99,USD 124.99,124.99,124.99,0.0,377.5
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,HN,Honduras,USD,124.99,USD 124.99,124.99,124.99,0.0,273.44
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,HR,Croatia,EUR,149.99,"149,99 €",167.79,167.79,34.2,315.39
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,HU,Hungary,HUF,59990.0,"HUF59,990.00",182.66,182.66,46.1,351.4
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,ID,Indonesia,IDR,1999000.0,"Rp 1,999juta",110.14,110.14,-11.9,384.45
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,IE,Ireland,EUR,149.99,€149.99,167.79,167.79,34.2,197.74
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,IL,Israel,ILS,449.9,₪449.90,146.1,146.1,16.9,144.6
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,IN,India,INR,12900.0,"₹ 12,900",135.41,135.41,8.3,587.44
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,IQ,Iraq,USD,124.99,$124.99,124.99,124.99,0.0,298.09
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,IS,Iceland,USD,149.99,USD 149.99,149.99,149.99,20.0,127.27
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,IT,Italy,EUR,149.99,"149,99 €",167.79,167.79,34.2,243.31
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,JM,Jamaica,USD,124.99,USD 124.99,124.99,124.99,0.0,207.59
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,JO,Jordan,USD,124.99,$124.99,124.99,124.99,0.0,295.21
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,JP,Japan,JPY,20000.0,"¥20,000",127.03,127.03,1.6,195.83
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,KE,Kenya,USD,149.99,USD 149.99,149.99,149.99,20.0,445.34
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,KG,Kyrgyzstan,USD,129.99,USD 129.99,129.99,129.99,4.0,424.25
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,KH,Cambodia,USD,129.99,USD 129.99,129.99,129.99,4.0,386.64
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,KN,Saint Kitts and Nevis,USD,124.99,USD 124.99,124.99,124.99,0.0,182.25
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,KR,South Korea,KRW,199000.0,"￦199,000",150.17,150.17,20.1,261.66
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,KW,Kuwait,USD,124.99,$124.99,124.99,124.99,0.0,218.44
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,KY,Cayman Islands,USD,124.99,USD 124.99,124.99,124.99,0.0,110.5
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,KZ,Kazakhstan,KZT,69990.0,"69,990.00₸",155.08,155.08,24.1,467.55
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,LA,Laos,USD,129.99,USD 129.99,129.99,129.99,4.0,599.03
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,LB,Lebanon,USD,124.99,$124.99,124.99,124.99,0.0,
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,LC,Saint Lucia,USD,124.99,USD 124.99,124.99,124.99,0.0,243.03
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,LK,Sri Lanka,USD,124.99,USD 124.99,124.99,124.99,0.0,475.43
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,LR,Liberia,USD,124.99,USD 124.99,124.99,124.99,0.0,
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,LT,Lithuania,EUR,149.99,"149,99 €",167.79,167.79,34.2,289.34
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,LU,Luxembourg,EUR,149.99,"149,99 €",167.79,167.79,34.2,178.36
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,LV,Latvia,EUR,149.99,"149,99 €",167.79,167.79,34.2,294.21
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,LY,Libya,USD,124.99,$124.99,124.99,124.99,0.0,320.08
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,MA,Morocco,USD,124.99,$124.99,124.99,124.99,0.0,297.24
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,MD,Moldova,USD,149.99,USD 149.99,149.99,149.99,20.0,348.0
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,ME,Montenegro,EUR,119.99,"119,99 €",134.23,134.23,7.4,321.66
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,MG,Madagascar,USD,124.99,USD 124.99,124.99,124.99,0.0,407.27
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,MK,North Macedonia,USD,124.99,USD 124.99,124.99,124.99,0.0,334.02
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,ML,Mali,USD,124.99,USD 124.99,124.99,124.99,0.0,366.86
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,MN,Mongolia,USD,124.99,USD 124.99,124.99,124.99,0.0,365.68
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,MR,Mauritania,USD,124.99,$124.99,124.99,124.99,0.0,407.93
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,MS,Montserrat,USD,124.99,USD 124.99,124.99,124.99,0.0,
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,MT,Malta,EUR,149.99,"149,99 €",167.79,167.79,34.2,252.92
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,MU,Mauritius,USD,149.99,USD 149.99,149.99,149.99,20.0,388.68
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,MV,Maldives,USD,124.99,USD 124.99,124.99,124.99,0.0,244.22
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,MW,Malawi,USD,124.99,USD 124.99,124.99,124.99,0.0,361.66
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,MX,Mexico,MXN,2499.0,"$2,499.00",134.42,134.42,7.5,250.36
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,MY,Malaysia,MYR,599.9,RM599.90,146.77,146.77,17.4,464.02
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,MZ,Mozambique,USD,124.99,USD 124.99,124.99,124.99,0.0,324.99
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,NA,Namibia,USD,124.99,USD 124.99,124.99,124.99,0.0,307.25
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,NG,Nigeria,NGN,199900.0,"₦ 199,900.00",146.99,146.99,17.6,1144.82
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,NI,Nicaragua,USD,124.99,USD 124.99,124.99,124.99,0.0,365.68
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,NL,Netherlands,EUR,149.99,"€ 149,99",167.79,167.79,34.2,198.85
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,NO,Norway,NOK,1490.0,"1.490,00 kr",159.82,159.82,27.9,175.78
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,NP,Nepal,USD,149.99,USD 149.99,149.99,149.99,20.0,615.47
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,NR,Nauru,USD,124.99,USD 124.99,124.99,124.99,0.0,121.79
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,NZ,New Zealand,NZD,229.99,$229.99,130.77,130.77,4.6,152.72
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,OM,Oman,USD,124.99,$124.99,124.99,124.99,0.0,265.03
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,PA,Panama,USD,124.99,USD 124.99,124.99,124.99,0.0,277.26
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,PE,Peru,PEN,599.9,S/ 599.90,174.39,174.39,39.5,338.82
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,PG,Papua New Guinea,USD,124.99,USD 124.99,124.99,124.99,0.0,215.87
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,PH,Philippines,PHP,7990.0,"₱ 7,990.00",124.92,124.92,-0.1,376.72
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,PK,Pakistan,PKR,34900.0,"Rs 34,900.00",126.08,126.08,0.9,522.49
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,PL,Poland,PLN,599.99,"599,99 zł",152.36,152.36,21.9,290.93
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,PT,Portugal,EUR,149.99,"149,99 €",167.79,167.79,34.2,277.93
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,PW,Palau,USD,124.99,USD 124.99,124.99,124.99,0.0,147.52
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,PY,Paraguay,USD,124.99,USD 124.99,124.99,124.99,0.0,358.96
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,QA,Qatar,QAR,499.99,QAR 499.99,137.36,137.36,9.9,244.11
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,RO,Romania,RON,699.99,"699,99 lei",146.5,146.5,17.2,330.85
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,RS,Serbia,EUR,149.99,"149,99 €",167.79,167.79,34.2,372.78
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,RW,Rwanda,USD,124.99,USD 124.99,124.99,124.99,0.0,463.27
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,SA,Saudi Arabia,SAR,499.99,SAR 499.99,133.33,133.33,6.7,284.83
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,SB,Solomon Islands,USD,124.99,USD 124.99,124.99,124.99,0.0,167.01
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,SC,Seychelles,USD,124.99,USD 124.99,124.99,124.99,0.0,230.4
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,SE,Sweden,SEK,1495.0,"1 495,00 kr",150.21,150.21,20.2,172.55
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,SG,Singapore,SGD,179.98,S$ 179.98,140.53,140.53,12.4,232.32
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,SI,Slovenia,EUR,149.99,"149,99 €",167.79,167.79,34.2,265.95
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,SK,Slovakia,EUR,149.99,"149,99 €",167.79,167.79,34.2,289.84
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,SL,Sierra Leone,USD,124.99,USD 124.99,124.99,124.99,0.0,555.51
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,SN,Senegal,USD,149.99,USD 149.99,149.99,149.99,20.0,419.2
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,SR,Suriname,USD,129.99,USD 129.99,129.99,129.99,4.0,416.5
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,ST,São Tomé and Príncipe,USD,124.99,USD 124.99,124.99,124.99,0.0,222.24
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,SV,El Salvador,USD,124.99,USD 124.99,124.99,124.99,0.0,305.6
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,SZ,Eswatini,USD,124.99,USD 124.99,124.99,124.99,0.0,381.18
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,TC,Turks and Caicos Islands,USD,124.99,USD 124.99,124.99,124.99,0.0,126.66
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,TD,Chad,USD,124.99,USD 124.99,124.99,124.99,0.0,354.88
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,TH,Thailand,THB,4990.0,"฿4,990.00",147.69,147.69,18.2,481.23
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,TJ,Tajikistan,USD,129.99,USD 129.99,129.99,129.99,4.0,470.3
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,TM,Turkmenistan,USD,124.99,USD 124.99,124.99,124.99,0.0,
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,TN,Tunisia,USD,124.99,$124.99,124.99,124.99,0.0,433.99
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,TO,Tonga,USD,124.99,USD 124.99,124.99,124.99,0.0,166.65
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,TR,Turkey,TRY,6999.99,"₺6.999,99",140.59,140.59,12.5,342.32
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,TT,Trinidad and Tobago,USD,124.99,USD 124.99,124.99,124.99,0.0,244.6
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,TW,Taiwan,TWD,3990.0,"NT$3,990.00",122.42,122.42,-2.1,
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,TZ,Tanzania,TZS,349900.0,"349,900.00 TZS",132.41,132.41,5.9,469.37
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,UA,Ukraine,USD,149.99,"149,99 USD",149.99,149.99,20.0,483.37
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,UG,Uganda,USD,149.99,USD 149.99,149.99,149.99,20.0,425.02
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,US,United States,USD,124.99,$124.99,124.99,124.99,0.0,124.99
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,UY,Uruguay,USD,124.99,USD 124.99,124.99,124.99,0.0,189.93
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,UZ,Uzbekistan,USD,129.99,USD 129.99,129.99,129.99,4.0,445.48
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,VC,Saint Vincent and the Grenadines,USD,124.99,USD 124.99,124.99,124.99,0.0,226.84
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,VG,British Virgin Islands,USD,124.99,USD 124.99,124.99,124.99,0.0,
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,VN,Vietnam,VND,3999000.0,3.999.000đ,154.81,154.81,23.9,537.91
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,VU,Vanuatu,USD,124.99,USD 124.99,124.99,124.99,0.0,137.87
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,XK,Kosovo,EUR,149.99,"149,99 €",167.79,167.79,34.2,410.14
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,ZA,South Africa,ZAR,2499.99,"R2,499.99",150.28,150.28,20.2,362.3
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,ZM,Zambia,USD,149.99,USD 149.99,149.99,149.99,20.0,501.3
+2026-10-27,claude,claude-max-5x,Claude Max 5x - Monthly,month,False,ZW,Zimbabwe,USD,149.99,USD 149.99,149.99,149.99,20.0,
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,AE,United Arab Emirates,AED,79.99,AED 79.99,21.78,21.78,8.9,34.38
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,AG,Antigua and Barbuda,USD,20.0,USD 20.00,20.0,20.0,0.0,28.88
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,AI,Anguilla,USD,20.0,USD 20.00,20.0,20.0,0.0,
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,AL,Albania,USD,25.0,USD 25.00,25.0,25.0,25.0,58.69
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,AM,Armenia,USD,25.0,USD 25.00,25.0,25.0,25.0,65.33
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,AO,Angola,USD,20.0,USD 20.00,20.0,20.0,0.0,56.48
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,AR,Argentina,USD,20.0,USD 20.00,20.0,20.0,0.0,43.74
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,AT,Austria,EUR,22.0,"22,00 €",24.61,24.61,23.0,30.03
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,AU,Australia,AUD,30.0,$30.00,21.06,21.06,5.3,23.36
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,AZ,Azerbaijan,USD,25.0,USD 25.00,25.0,25.0,25.0,88.09
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,BA,Bosnia and Herzegovina,EUR,22.0,"22,00 €",24.61,24.61,23.0,61.23
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,BB,Barbados,USD,25.0,USD 25.00,25.0,25.0,25.0,22.82
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,BE,Belgium,EUR,22.0,"22,00 €",24.61,24.61,23.0,30.25
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,BF,Burkina Faso,USD,20.0,USD 20.00,20.0,20.0,0.0,53.53
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,BG,Bulgaria,EUR,22.0,"22,00 €",24.61,24.61,23.0,53.82
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,BH,Bahrain,USD,22.0,$22.00,22.0,22.0,10.0,51.04
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,BJ,Benin,USD,25.0,USD 25.00,25.0,25.0,25.0,72.61
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,BM,Bermuda,USD,20.0,USD 20.00,20.0,20.0,0.0,16.69
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,BN,Brunei,USD,20.0,USD 20.00,20.0,20.0,0.0,57.36
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,BO,Bolivia,USD,20.0,USD 20.00,20.0,20.0,0.0,50.01
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,BR,Brazil,BRL,129.9,"R$ 129,90",23.91,23.91,19.6,52.31
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,BS,Bahamas,USD,22.0,USD 22.00,22.0,22.0,10.0,23.01
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,BT,Bhutan,USD,20.0,USD 20.00,20.0,20.0,0.0,87.22
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,BW,Botswana,USD,20.0,USD 20.00,20.0,20.0,0.0,53.22
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,BZ,Belize,USD,20.0,USD 20.00,20.0,20.0,0.0,38.05
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,CA,Canada,CAD,28.0,$28.00,19.98,19.98,-0.1,23.94
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,CD,DR Congo,USD,20.0,USD 20.00,20.0,20.0,0.0,47.88
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,CG,Republic of the Congo,USD,20.0,USD 20.00,20.0,20.0,0.0,57.65
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,CH,Switzerland,CHF,18.0,CHF 18.00,21.76,21.76,8.8,19.44
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,CI,Côte d'Ivoire,USD,25.0,$25.00,25.0,25.0,25.0,67.28
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,CL,Chile,CLP,22990.0,$22.990,23.09,23.09,15.5,48.46
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,CM,Cameroon,USD,25.0,US$25.00,25.0,25.0,25.0,73.36
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,CO,Colombia,COP,99900.0,"$ 99.900,00",31.66,31.66,58.3,83.72
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,CR,Costa Rica,USD,20.0,USD 20.00,20.0,20.0,0.0,33.86
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,CV,Cape Verde,USD,20.0,USD 20.00,20.0,20.0,0.0,41.97
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,CY,Cyprus,EUR,22.0,"22,00 €",24.61,24.61,23.0,38.03
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,CZ,Czechia,CZK,499.0,"499,00 Kč",22.91,22.91,14.5,38.58
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,DE,Germany,EUR,22.0,"22,00 €",24.61,24.61,23.0,30.67
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,DK,Denmark,DKK,179.0,"179,00 kr",26.79,26.79,33.9,28.97
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,DM,Dominica,USD,20.0,USD 20.00,20.0,20.0,0.0,41.34
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,DO,Dominican Republic,USD,20.0,USD 20.00,20.0,20.0,0.0,51.93
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,DZ,Algeria,USD,20.0,$20.00,20.0,20.0,0.0,61.43
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,EC,Ecuador,USD,20.0,USD 20.00,20.0,20.0,0.0,47.04
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,EE,Estonia,EUR,22.0,"22,00 €",24.61,24.61,23.0,37.26
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,EG,Egypt,EGP,999.99,EGP 999.99,17.77,17.77,-11.2,115.32
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,ES,Spain,EUR,22.0,"22,00 €",24.61,24.61,23.0,38.14
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,FI,Finland,EUR,22.0,"22,00 €",24.61,24.61,23.0,28.88
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,FJ,Fiji,USD,20.0,USD 20.00,20.0,20.0,0.0,49.2
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,FM,Micronesia,USD,20.0,USD 20.00,20.0,20.0,0.0,20.86
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,FR,France,EUR,22.0,"22,00 €",24.61,24.61,23.0,32.14
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,GA,Gabon,USD,20.0,USD 20.00,20.0,20.0,0.0,53.78
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,GB,United Kingdom,GBP,20.0,£20.00,26.69,26.69,33.5,29.94
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,GD,Grenada,USD,20.0,USD 20.00,20.0,20.0,0.0,35.26
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,GE,Georgia,USD,25.0,USD 25.00,25.0,25.0,25.0,75.9
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,GH,Ghana,USD,25.0,USD 25.00,25.0,25.0,25.0,66.09
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,GM,Gambia,USD,20.0,USD 20.00,20.0,20.0,0.0,80.13
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,GR,Greece,EUR,22.0,"22,00 €",24.61,24.61,23.0,41.33
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,GT,Guatemala,USD,20.0,USD 20.00,20.0,20.0,0.0,46.06
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,GW,Guinea-Bissau,USD,20.0,USD 20.00,20.0,20.0,0.0,58.62
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,GY,Guyana,USD,20.0,USD 20.00,20.0,20.0,0.0,60.4
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,HN,Honduras,USD,20.0,USD 20.00,20.0,20.0,0.0,43.75
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,HR,Croatia,EUR,22.0,"22,00 €",24.61,24.61,23.0,46.26
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,HU,Hungary,HUF,8990.0,"HUF8,990.00",27.37,27.37,36.9,52.66
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,ID,Indonesia,IDR,349000.0,Rp 349ribu,19.23,19.23,-3.8,67.12
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,IE,Ireland,EUR,22.0,€22.00,24.61,24.61,23.0,29.0
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,IL,Israel,ILS,69.9,₪69.90,22.7,22.7,13.5,22.47
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,IN,India,INR,1999.0,"₹ 1,999",20.98,20.98,4.9,91.03
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,IQ,Iraq,USD,20.0,$20.00,20.0,20.0,0.0,47.7
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,IS,Iceland,USD,25.0,USD 25.00,25.0,25.0,25.0,21.21
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,IT,Italy,EUR,22.0,"22,00 €",24.61,24.61,23.0,35.69
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,JM,Jamaica,USD,20.0,USD 20.00,20.0,20.0,0.0,33.22
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,JO,Jordan,USD,20.0,$20.00,20.0,20.0,0.0,47.24
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,JP,Japan,JPY,3000.0,"¥3,000",19.06,19.06,-4.7,29.37
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,KE,Kenya,USD,25.0,USD 25.00,25.0,25.0,25.0,74.23
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,KG,Kyrgyzstan,USD,22.0,USD 22.00,22.0,22.0,10.0,71.8
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,KH,Cambodia,USD,22.0,USD 22.00,22.0,22.0,10.0,65.44
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,KN,Saint Kitts and Nevis,USD,20.0,USD 20.00,20.0,20.0,0.0,29.16
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,KR,South Korea,KRW,33000.0,"￦33,000",24.9,24.9,24.5,43.39
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,KW,Kuwait,USD,20.0,$20.00,20.0,20.0,0.0,34.95
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,KY,Cayman Islands,USD,20.0,USD 20.00,20.0,20.0,0.0,17.68
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,KZ,Kazakhstan,KZT,11990.0,"11,990.00₸",26.57,26.57,32.9,80.1
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,LA,Laos,USD,22.0,USD 22.00,22.0,22.0,10.0,101.38
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,LB,Lebanon,USD,20.0,$20.00,20.0,20.0,0.0,
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,LC,Saint Lucia,USD,20.0,USD 20.00,20.0,20.0,0.0,38.89
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,LK,Sri Lanka,USD,20.0,USD 20.00,20.0,20.0,0.0,76.07
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,LR,Liberia,USD,20.0,USD 20.00,20.0,20.0,0.0,
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,LT,Lithuania,EUR,22.0,"22,00 €",24.61,24.61,23.0,42.44
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,LU,Luxembourg,EUR,22.0,"22,00 €",24.61,24.61,23.0,26.16
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,LV,Latvia,EUR,22.0,"22,00 €",24.61,24.61,23.0,43.15
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,LY,Libya,USD,20.0,$20.00,20.0,20.0,0.0,51.22
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,MA,Morocco,USD,20.0,$20.00,20.0,20.0,0.0,47.56
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,MD,Moldova,USD,25.0,USD 25.00,25.0,25.0,25.0,58.0
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,ME,Montenegro,EUR,20.0,"20,00 €",22.37,22.37,11.9,53.61
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,MG,Madagascar,USD,20.0,USD 20.00,20.0,20.0,0.0,65.17
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,MK,North Macedonia,USD,20.0,USD 20.00,20.0,20.0,0.0,53.45
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,ML,Mali,USD,20.0,USD 20.00,20.0,20.0,0.0,58.7
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,MN,Mongolia,USD,20.0,USD 20.00,20.0,20.0,0.0,58.51
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,MR,Mauritania,USD,20.0,$20.00,20.0,20.0,0.0,65.27
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,MS,Montserrat,USD,20.0,USD 20.00,20.0,20.0,0.0,
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,MT,Malta,EUR,22.0,"22,00 €",24.61,24.61,23.0,37.1
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,MU,Mauritius,USD,25.0,USD 25.00,25.0,25.0,25.0,64.78
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,MV,Maldives,USD,20.0,USD 20.00,20.0,20.0,0.0,39.08
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,MW,Malawi,USD,20.0,USD 20.00,20.0,20.0,0.0,57.87
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,MX,Mexico,MXN,399.0,$399.00,21.46,21.46,7.3,39.97
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,MY,Malaysia,MYR,99.9,RM99.90,24.44,24.44,22.2,77.27
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,MZ,Mozambique,USD,20.0,USD 20.00,20.0,20.0,0.0,52.0
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,NA,Namibia,USD,20.0,USD 20.00,20.0,20.0,0.0,49.16
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,NG,Nigeria,NGN,29900.0,"₦ 29,900.00",21.99,21.99,9.9,171.24
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,NI,Nicaragua,USD,20.0,USD 20.00,20.0,20.0,0.0,58.51
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,NL,Netherlands,EUR,22.0,"€ 22,00",24.61,24.61,23.0,29.17
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,NO,Norway,NOK,249.0,"249,00 kr",26.71,26.71,33.6,29.38
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,NP,Nepal,USD,25.0,USD 25.00,25.0,25.0,25.0,102.59
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,NR,Nauru,USD,20.0,USD 20.00,20.0,20.0,0.0,19.49
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,NZ,New Zealand,NZD,40.0,$40.00,22.74,22.74,13.7,26.56
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,OM,Oman,USD,20.0,$20.00,20.0,20.0,0.0,42.41
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,PA,Panama,USD,20.0,USD 20.00,20.0,20.0,0.0,44.37
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,PE,Peru,PEN,89.9,S/ 89.90,26.13,26.13,30.6,50.78
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,PG,Papua New Guinea,USD,20.0,USD 20.00,20.0,20.0,0.0,34.54
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,PH,Philippines,PHP,1290.0,"₱ 1,290.00",20.17,20.17,0.9,60.82
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,PK,Pakistan,PKR,4900.0,"Rs 4,900.00",17.7,17.7,-11.5,73.36
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,PL,Poland,PLN,99.99,"99,99 zł",25.39,25.39,27.0,48.48
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,PT,Portugal,EUR,22.0,"22,00 €",24.61,24.61,23.0,40.77
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,PW,Palau,USD,20.0,USD 20.00,20.0,20.0,0.0,23.6
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,PY,Paraguay,USD,20.0,USD 20.00,20.0,20.0,0.0,57.44
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,QA,Qatar,QAR,69.99,QAR 69.99,19.23,19.23,-3.8,34.17
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,RO,Romania,RON,99.99,"99,99 lei",20.93,20.93,4.6,47.26
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,RS,Serbia,EUR,22.0,"22,00 €",24.61,24.61,23.0,54.68
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,RW,Rwanda,USD,20.0,USD 20.00,20.0,20.0,0.0,74.13
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,SA,Saudi Arabia,SAR,89.99,SAR 89.99,24.0,24.0,20.0,51.27
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,SB,Solomon Islands,USD,20.0,USD 20.00,20.0,20.0,0.0,26.72
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,SC,Seychelles,USD,20.0,USD 20.00,20.0,20.0,0.0,36.87
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,SE,Sweden,SEK,249.0,"249,00 kr",25.02,25.02,25.1,28.74
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,SG,Singapore,SGD,29.98,S$ 29.98,23.41,23.41,17.1,38.7
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,SI,Slovenia,EUR,22.0,"22,00 €",24.61,24.61,23.0,39.01
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,SK,Slovakia,EUR,22.0,"22,00 €",24.61,24.61,23.0,42.51
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,SL,Sierra Leone,USD,20.0,USD 20.00,20.0,20.0,0.0,88.89
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,SN,Senegal,USD,25.0,USD 25.00,25.0,25.0,25.0,69.87
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,SR,Suriname,USD,22.0,USD 22.00,22.0,22.0,10.0,70.49
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,ST,São Tomé and Príncipe,USD,20.0,USD 20.00,20.0,20.0,0.0,35.56
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,SV,El Salvador,USD,20.0,USD 20.00,20.0,20.0,0.0,48.9
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,SZ,Eswatini,USD,20.0,USD 20.00,20.0,20.0,0.0,60.99
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,TC,Turks and Caicos Islands,USD,20.0,USD 20.00,20.0,20.0,0.0,20.27
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,TD,Chad,USD,20.0,USD 20.00,20.0,20.0,0.0,56.79
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,TH,Thailand,THB,699.0,฿699.00,20.69,20.69,3.4,67.41
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,TJ,Tajikistan,USD,22.0,USD 22.00,22.0,22.0,10.0,79.59
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,TM,Turkmenistan,USD,20.0,USD 20.00,20.0,20.0,0.0,
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,TN,Tunisia,USD,20.0,$20.00,20.0,20.0,0.0,69.44
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,TO,Tonga,USD,20.0,USD 20.00,20.0,20.0,0.0,26.67
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,TR,Turkey,TRY,999.99,"₺999,99",20.08,20.08,0.4,48.9
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,TT,Trinidad and Tobago,USD,20.0,USD 20.00,20.0,20.0,0.0,39.14
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,TW,Taiwan,TWD,690.0,NT$690.00,21.17,21.17,5.8,
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,TZ,Tanzania,TZS,59900.0,"59,900.00 TZS",22.67,22.67,13.4,80.35
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,UA,Ukraine,USD,25.0,"25,00 USD",25.0,25.0,25.0,80.57
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,UG,Uganda,USD,25.0,USD 25.00,25.0,25.0,25.0,70.84
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,US,United States,USD,20.0,$20.00,20.0,20.0,0.0,20.0
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,UY,Uruguay,USD,20.0,USD 20.00,20.0,20.0,0.0,30.39
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,UZ,Uzbekistan,USD,22.0,USD 22.00,22.0,22.0,10.0,75.39
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,VC,Saint Vincent and the Grenadines,USD,20.0,USD 20.00,20.0,20.0,0.0,36.3
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,VG,British Virgin Islands,USD,20.0,USD 20.00,20.0,20.0,0.0,
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,VN,Vietnam,VND,599000.0,599.000đ,23.19,23.19,15.9,80.57
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,VU,Vanuatu,USD,20.0,USD 20.00,20.0,20.0,0.0,22.06
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,XK,Kosovo,EUR,22.0,"22,00 €",24.61,24.61,23.0,60.16
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,ZA,South Africa,ZAR,399.99,R399.99,24.04,24.04,20.2,57.97
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,ZM,Zambia,USD,25.0,USD 25.00,25.0,25.0,25.0,83.56
+2026-10-27,claude,claude-pro,Claude Pro - Monthly,month,False,ZW,Zimbabwe,USD,25.0,USD 25.00,25.0,25.0,25.0,
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,AE,United Arab Emirates,AED,799.99,AED 799.99,217.83,18.15,1.3,343.8
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,AG,Antigua and Barbuda,USD,214.99,USD 214.99,214.99,17.92,0.0,310.41
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,AI,Anguilla,USD,214.99,USD 214.99,214.99,17.92,0.0,
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,AL,Albania,USD,249.99,USD 249.99,249.99,20.83,16.3,586.83
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,AM,Armenia,USD,249.99,USD 249.99,249.99,20.83,16.3,653.23
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,AO,Angola,USD,214.99,USD 214.99,214.99,17.92,0.0,607.14
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,AR,Argentina,USD,214.99,USD 214.99,214.99,17.92,0.0,470.23
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,AT,Austria,EUR,249.99,"249,99 €",279.65,23.3,30.1,341.2
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,AU,Australia,AUD,349.99,$349.99,245.68,20.47,14.3,272.56
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,AZ,Azerbaijan,USD,249.99,USD 249.99,249.99,20.83,16.3,880.87
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,BA,Bosnia and Herzegovina,EUR,249.99,"249,99 €",279.65,23.3,30.1,695.82
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,BB,Barbados,USD,249.99,USD 249.99,249.99,20.83,16.3,228.22
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,BE,Belgium,EUR,249.99,"249,99 €",279.65,23.3,30.1,343.76
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,BF,Burkina Faso,USD,214.99,USD 214.99,214.99,17.92,0.0,575.46
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,BG,Bulgaria,EUR,249.99,"249,99 €",279.65,23.3,30.1,611.53
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,BH,Bahrain,USD,229.99,$229.99,229.99,19.17,7.0,533.62
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,BJ,Benin,USD,249.99,USD 249.99,249.99,20.83,16.3,726.08
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,BM,Bermuda,USD,214.99,USD 214.99,214.99,17.92,0.0,179.44
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,BN,Brunei,USD,214.99,USD 214.99,214.99,17.92,0.0,616.55
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,BO,Bolivia,USD,214.99,USD 214.99,214.99,17.92,0.0,537.61
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,BR,Brazil,BRL,1299.9,"R$ 1.299,90",239.31,19.94,11.3,523.43
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,BS,Bahamas,USD,229.99,USD 229.99,229.99,19.17,7.0,240.5
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,BT,Bhutan,USD,214.99,USD 214.99,214.99,17.92,0.0,937.59
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,BW,Botswana,USD,214.99,USD 214.99,214.99,17.92,0.0,572.09
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,BZ,Belize,USD,214.99,USD 214.99,214.99,17.92,0.0,409.04
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,CA,Canada,CAD,299.99,$299.99,214.04,17.84,-0.4,256.48
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,CD,DR Congo,USD,214.99,USD 214.99,214.99,17.92,0.0,514.7
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,CG,Republic of the Congo,USD,214.99,USD 214.99,214.99,17.92,0.0,619.75
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,CH,Switzerland,CHF,200.0,CHF 200.00,241.82,20.15,12.5,215.99
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,CI,Côte d'Ivoire,USD,249.99,$249.99,249.99,20.83,16.3,672.74
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,CL,Chile,CLP,249990.0,$249.990,251.03,20.92,16.8,526.94
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,CM,Cameroon,USD,249.99,US$249.99,249.99,20.83,16.3,733.54
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,CO,Colombia,COP,999900.0,"$ 999.900,00",316.91,26.41,47.4,837.93
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,CR,Costa Rica,USD,214.99,USD 214.99,214.99,17.92,0.0,364.02
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,CV,Cape Verde,USD,214.99,USD 214.99,214.99,17.92,0.0,451.19
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,CY,Cyprus,EUR,249.99,"249,99 €",279.65,23.3,30.1,432.16
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,CZ,Czechia,CZK,5990.0,"5 990,00 Kč",275.02,22.92,27.9,463.15
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,DE,Germany,EUR,249.99,"249,99 €",279.65,23.3,30.1,348.56
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,DK,Denmark,DKK,1999.0,"1.999,00 kr",299.22,24.94,39.2,323.52
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,DM,Dominica,USD,214.99,USD 214.99,214.99,17.92,0.0,444.38
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,DO,Dominican Republic,USD,214.99,USD 214.99,214.99,17.92,0.0,558.27
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,DZ,Algeria,USD,214.99,$214.99,214.99,17.92,0.0,660.29
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,EC,Ecuador,USD,214.99,USD 214.99,214.99,17.92,0.0,505.62
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,EE,Estonia,EUR,249.99,"249,99 €",279.65,23.3,30.1,423.39
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,EG,Egypt,EGP,9999.99,"EGP 9,999.99",177.71,14.81,-17.3,1153.24
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,ES,Spain,EUR,249.99,"249,99 €",279.65,23.3,30.1,433.43
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,FI,Finland,EUR,249.99,"249,99 €",279.65,23.3,30.1,328.15
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,FJ,Fiji,USD,214.99,USD 214.99,214.99,17.92,0.0,528.88
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,FM,Micronesia,USD,214.99,USD 214.99,214.99,17.92,0.0,224.25
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,FR,France,EUR,249.99,"249,99 €",279.65,23.3,30.1,365.22
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,GA,Gabon,USD,214.99,USD 214.99,214.99,17.92,0.0,578.09
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,GB,United Kingdom,GBP,199.99,£199.99,266.93,22.24,24.2,299.38
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,GD,Grenada,USD,214.99,USD 214.99,214.99,17.92,0.0,379.04
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,GE,Georgia,USD,249.99,USD 249.99,249.99,20.83,16.3,758.93
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,GH,Ghana,USD,249.99,USD 249.99,249.99,20.83,16.3,660.82
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,GM,Gambia,USD,214.99,USD 214.99,214.99,17.92,0.0,861.34
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,GR,Greece,EUR,249.99,"249,99 €",279.65,23.3,30.1,469.69
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,GT,Guatemala,USD,214.99,USD 214.99,214.99,17.92,0.0,495.14
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,GW,Guinea-Bissau,USD,214.99,USD 214.99,214.99,17.92,0.0,630.1
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,GY,Guyana,USD,214.99,USD 214.99,214.99,17.92,0.0,649.32
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,HN,Honduras,USD,214.99,USD 214.99,214.99,17.92,0.0,470.33
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,HR,Croatia,EUR,249.99,"249,99 €",279.65,23.3,30.1,525.66
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,HU,Hungary,HUF,99990.0,"HUF99,990.00",304.45,25.37,41.6,585.71
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,ID,Indonesia,IDR,3999000.0,"Rp 3,999juta",220.35,18.36,2.5,769.09
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,IE,Ireland,EUR,249.99,€249.99,279.65,23.3,30.1,329.58
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,IL,Israel,ILS,799.9,₪799.90,259.77,21.65,20.8,257.09
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,IN,India,INR,19900.0,"₹ 19,900",208.88,17.41,-2.8,906.21
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,IQ,Iraq,USD,214.99,$214.99,214.99,17.92,0.0,512.74
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,IS,Iceland,USD,249.99,USD 249.99,249.99,20.83,16.3,212.13
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,IT,Italy,EUR,249.99,"249,99 €",279.65,23.3,30.1,405.53
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,JM,Jamaica,USD,214.99,USD 214.99,214.99,17.92,0.0,357.07
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,JO,Jordan,USD,214.99,$214.99,214.99,17.92,0.0,507.77
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,JP,Japan,JPY,35000.0,"¥35,000",222.31,18.53,3.4,342.7
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,KE,Kenya,USD,249.99,USD 249.99,249.99,20.83,16.3,742.25
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,KG,Kyrgyzstan,USD,229.99,USD 229.99,229.99,19.17,7.0,750.62
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,KH,Cambodia,USD,229.99,USD 229.99,229.99,19.17,7.0,684.09
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,KN,Saint Kitts and Nevis,USD,214.99,USD 214.99,214.99,17.92,0.0,313.49
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,KR,South Korea,KRW,349000.0,"￦349,000",263.36,21.95,22.5,458.89
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,KW,Kuwait,USD,214.99,$214.99,214.99,17.92,0.0,375.73
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,KY,Cayman Islands,USD,214.99,USD 214.99,214.99,17.92,0.0,190.07
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,KZ,Kazakhstan,KZT,129990.0,"129,990.00₸",288.03,24.0,34.0,868.36
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,LA,Laos,USD,229.99,USD 229.99,229.99,19.17,7.0,1059.86
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,LB,Lebanon,USD,214.99,$214.99,214.99,17.92,0.0,
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,LC,Saint Lucia,USD,214.99,USD 214.99,214.99,17.92,0.0,418.02
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,LK,Sri Lanka,USD,214.99,USD 214.99,214.99,17.92,0.0,817.76
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,LR,Liberia,USD,214.99,USD 214.99,214.99,17.92,0.0,
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,LT,Lithuania,EUR,249.99,"249,99 €",279.65,23.3,30.1,482.24
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,LU,Luxembourg,EUR,249.99,"249,99 €",279.65,23.3,30.1,297.28
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,LV,Latvia,EUR,249.99,"249,99 €",279.65,23.3,30.1,490.36
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,LY,Libya,USD,214.99,$214.99,214.99,17.92,0.0,550.55
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,MA,Morocco,USD,214.99,$214.99,214.99,17.92,0.0,511.27
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,MD,Moldova,USD,249.99,USD 249.99,249.99,20.83,16.3,580.02
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,ME,Montenegro,EUR,199.99,"199,99 €",223.72,18.64,4.1,536.11
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,MG,Madagascar,USD,214.99,USD 214.99,214.99,17.92,0.0,700.52
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,MK,North Macedonia,USD,214.99,USD 214.99,214.99,17.92,0.0,574.53
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,ML,Mali,USD,214.99,USD 214.99,214.99,17.92,0.0,631.02
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,MN,Mongolia,USD,214.99,USD 214.99,214.99,17.92,0.0,628.99
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,MR,Mauritania,USD,214.99,$214.99,214.99,17.92,0.0,701.66
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,MS,Montserrat,USD,214.99,USD 214.99,214.99,17.92,0.0,
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,MT,Malta,EUR,249.99,"249,99 €",279.65,23.3,30.1,421.54
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,MU,Mauritius,USD,249.99,USD 249.99,249.99,20.83,16.3,647.81
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,MV,Maldives,USD,214.99,USD 214.99,214.99,17.92,0.0,420.07
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,MW,Malawi,USD,214.99,USD 214.99,214.99,17.92,0.0,622.08
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,MX,Mexico,MXN,4999.0,"$4,999.00",268.89,22.41,25.1,500.82
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,MY,Malaysia,MYR,999.9,RM999.90,244.63,20.39,13.8,773.43
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,MZ,Mozambique,USD,214.99,USD 214.99,214.99,17.92,0.0,559.0
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,NA,Namibia,USD,214.99,USD 214.99,214.99,17.92,0.0,528.49
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,NG,Nigeria,NGN,349900.0,"₦ 349,900.00",257.3,21.44,19.7,2003.86
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,NI,Nicaragua,USD,214.99,USD 214.99,214.99,17.92,0.0,628.99
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,NL,Netherlands,EUR,249.99,"€ 249,99",279.65,23.3,30.1,331.42
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,NO,Norway,NOK,2990.0,"2.990,00 kr",320.71,26.73,49.2,352.74
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,NP,Nepal,USD,249.99,USD 249.99,249.99,20.83,16.3,1025.81
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,NR,Nauru,USD,214.99,USD 214.99,214.99,17.92,0.0,209.48
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,NZ,New Zealand,NZD,399.99,$399.99,227.44,18.95,5.8,265.61
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,OM,Oman,USD,214.99,$214.99,214.99,17.92,0.0,455.87
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,PA,Panama,USD,214.99,USD 214.99,214.99,17.92,0.0,476.91
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,PE,Peru,PEN,999.9,S/ 999.90,290.67,24.22,35.2,564.74
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,PG,Papua New Guinea,USD,214.99,USD 214.99,214.99,17.92,0.0,371.31
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,PH,Philippines,PHP,12990.0,"₱ 12,990.00",203.1,16.92,-5.5,612.47
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,PK,Pakistan,PKR,59900.0,"Rs 59,900.00",216.39,18.03,0.7,896.77
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,PL,Poland,PLN,999.99,"999,99 zł",253.93,21.16,18.1,484.89
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,PT,Portugal,EUR,249.99,"249,99 €",279.65,23.3,30.1,463.23
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,PW,Palau,USD,214.99,USD 214.99,214.99,17.92,0.0,253.74
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,PY,Paraguay,USD,214.99,USD 214.99,214.99,17.92,0.0,617.43
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,QA,Qatar,QAR,799.99,QAR 799.99,219.78,18.31,2.2,390.58
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,RO,Romania,RON,1199.99,"1 199,99 lei",251.14,20.93,16.8,567.17
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,RS,Serbia,EUR,249.99,"249,99 €",279.65,23.3,30.1,621.31
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,RW,Rwanda,USD,214.99,USD 214.99,214.99,17.92,0.0,796.85
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,SA,Saudi Arabia,SAR,999.99,SAR 999.99,266.66,22.22,24.0,569.67
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,SB,Solomon Islands,USD,214.99,USD 214.99,214.99,17.92,0.0,287.27
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,SC,Seychelles,USD,214.99,USD 214.99,214.99,17.92,0.0,396.29
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,SE,Sweden,SEK,2995.0,"2 995,00 kr",300.92,25.08,40.0,345.69
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,SG,Singapore,SGD,299.98,S$ 299.98,234.23,19.52,8.9,387.22
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,SI,Slovenia,EUR,249.99,"249,99 €",279.65,23.3,30.1,443.26
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,SK,Slovakia,EUR,249.99,"249,99 €",279.65,23.3,30.1,483.07
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,SL,Sierra Leone,USD,214.99,USD 214.99,214.99,17.92,0.0,955.51
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,SN,Senegal,USD,249.99,USD 249.99,249.99,20.83,16.3,698.69
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,SR,Suriname,USD,229.99,USD 229.99,229.99,19.17,7.0,736.91
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,ST,São Tomé and Príncipe,USD,214.99,USD 214.99,214.99,17.92,0.0,382.27
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,SV,El Salvador,USD,214.99,USD 214.99,214.99,17.92,0.0,525.65
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,SZ,Eswatini,USD,214.99,USD 214.99,214.99,17.92,0.0,655.66
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,TC,Turks and Caicos Islands,USD,214.99,USD 214.99,214.99,17.92,0.0,217.87
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,TD,Chad,USD,214.99,USD 214.99,214.99,17.92,0.0,610.42
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,TH,Thailand,THB,7990.0,"฿7,990.00",236.48,19.71,10.0,770.55
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,TJ,Tajikistan,USD,229.99,USD 229.99,229.99,19.17,7.0,832.09
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,TM,Turkmenistan,USD,214.99,USD 214.99,214.99,17.92,0.0,
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,TN,Tunisia,USD,214.99,$214.99,214.99,17.92,0.0,746.49
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,TO,Tonga,USD,214.99,USD 214.99,214.99,17.92,0.0,286.65
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,TR,Turkey,TRY,11999.99,"₺11.999,99",241.01,20.08,12.1,586.83
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,TT,Trinidad and Tobago,USD,214.99,USD 214.99,214.99,17.92,0.0,420.72
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,TW,Taiwan,TWD,6990.0,"NT$6,990.00",214.47,17.87,-0.2,
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,TZ,Tanzania,TZS,599900.0,"599,900.00 TZS",227.01,18.92,5.6,804.72
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,UA,Ukraine,USD,249.99,"249,99 USD",249.99,20.83,16.3,805.64
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,UG,Uganda,USD,249.99,USD 249.99,249.99,20.83,16.3,708.39
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,US,United States,USD,214.99,$214.99,214.99,17.92,0.0,214.99
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,UY,Uruguay,USD,214.99,USD 214.99,214.99,17.92,0.0,326.68
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,UZ,Uzbekistan,USD,229.99,USD 229.99,229.99,19.17,7.0,788.18
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,VC,Saint Vincent and the Grenadines,USD,214.99,USD 214.99,214.99,17.92,0.0,390.18
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,VG,British Virgin Islands,USD,214.99,USD 214.99,214.99,17.92,0.0,
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,VN,Vietnam,VND,6999000.0,6.999.000đ,270.95,22.58,26.0,941.44
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,VU,Vanuatu,USD,214.99,USD 214.99,214.99,17.92,0.0,237.14
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,XK,Kosovo,EUR,249.99,"249,99 €",279.65,23.3,30.1,683.58
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,ZA,South Africa,ZAR,4499.99,"R4,499.99",270.5,22.54,25.8,652.13
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,ZM,Zambia,USD,249.99,USD 249.99,249.99,20.83,16.3,835.53
+2026-10-27,claude,claude-pro,Claude Pro - Annual,year,False,ZW,Zimbabwe,USD,249.99,USD 249.99,249.99,20.83,16.3,
 2026-10-27,copilot,microsoft-365-basic,Microsoft 365 Basic,month,True,AE,United Arab Emirates,AED,7.99,AED 7.99,2.18,2.18,9.5,3.43
 2026-10-27,copilot,microsoft-365-basic,Microsoft 365 Basic,month,True,AL,Albania,USD,1.99,USD 1.99,1.99,1.99,0.0,4.67
 2026-10-27,copilot,microsoft-365-basic,Microsoft 365 Basic,month,True,AM,Armenia,USD,1.99,USD 1.99,1.99,1.99,0.0,5.2
