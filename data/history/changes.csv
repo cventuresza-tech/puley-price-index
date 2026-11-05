@@ -337,3 +337,26 @@ date,app,plan,period,cc,country,currency,old_price,new_price,change_pct
 2026-11-04,gemini,200 GB,month,TH,Thailand,THB,989.0,99.0,-90.0
 2026-11-04,gemini,200 GB,month,HN,Honduras,USD,2.99,29.99,903.0
 2026-11-04,gemini,200 GB,month,ML,Mali,USD,2.99,29.99,903.0
+2026-11-05,gemini,Google AI Ultra (30 TB),month,SL,Sierra Leone,USD,199.99,149.99,-25.0
+2026-11-05,gemini,Google AI Ultra (30 TB),month,AU,Australia,AUD,329.99,224.99,-31.8
+2026-11-05,gemini,Google AI Ultra (30 TB),month,IE,Ireland,EUR,219.99,149.99,-31.8
+2026-11-05,gemini,Google AI Ultra (30 TB),month,LU,Luxembourg,EUR,209.99,149.99,-28.6
+2026-11-05,gemini,Google AI Ultra (30 TB),month,AL,Albania,USD,199.99,179.99,-10.0
+2026-11-05,gemini,Google AI Ultra (30 TB),month,BB,Barbados,USD,149.99,199.99,33.3
+2026-11-05,gemini,Google AI Ultra (30 TB),month,GH,Ghana,USD,149.99,199.99,33.3
+2026-11-05,gemini,Google AI Ultra (30 TB),month,MN,Mongolia,USD,149.99,199.99,33.3
+2026-11-05,gemini,Google AI Ultra (30 TB),month,MO,Macau,USD,149.99,199.99,33.3
+2026-11-05,gemini,Google AI Ultra (30 TB),month,MW,Malawi,USD,149.99,199.99,33.3
+2026-11-05,gemini,Google AI Ultra (30 TB),month,TJ,Tajikistan,USD,149.99,199.99,33.3
+2026-11-05,gemini,Google AI Ultra (30 TB),month,CA,Canada,CAD,209.99,279.99,33.3
+2026-11-05,gemini,Google AI Ultra (30 TB),month,SI,Slovenia,EUR,149.99,219.99,46.7
+2026-11-05,gemini,Google AI Plus (2 TB),month,AO,Angola,USD,99.99,9.99,-90.0
+2026-11-05,gemini,Google AI Plus (2 TB),month,GH,Ghana,USD,99.99,9.99,-90.0
+2026-11-05,gemini,Google AI Plus (2 TB),month,HN,Honduras,USD,99.99,9.99,-90.0
+2026-11-05,gemini,Google AI Plus (2 TB),month,ML,Mali,USD,99.99,9.99,-90.0
+2026-11-05,gemini,Google AI Plus (2 TB),month,CA,Canada,CAD,139.99,13.99,-90.0
+2026-11-05,gemini,Google AI Plus (2 TB),month,SI,Slovenia,EUR,99.99,9.99,-90.0
+2026-11-05,gemini,Google AI Plus (2 TB),month,AU,Australia,AUD,14.99,149.99,900.6
+2026-11-05,gemini,200 GB,month,HN,Honduras,USD,29.99,2.99,-90.0
+2026-11-05,gemini,200 GB,month,ML,Mali,USD,29.99,2.99,-90.0
+2026-11-05,gemini,200 GB,month,TH,Thailand,THB,99.0,989.0,899.0
