@@ -5,7 +5,7 @@
  ],
  "name": "Price level: PPP conversion factor (GDP) / official exchange rate, latest year with both",
  "source": "World Bank, World Development Indicators (CC BY 4.0)",
- "fetched": "2026-10-08",
+ "fetched": "2026-11-08",
  "countries": {
   "AD": {
    "ratio": 0.6807,
@@ -24,8 +24,8 @@
    "year": 2025
   },
   "AL": {
-   "ratio": 0.426,
-   "year": 2024
+   "ratio": 0.4606,
+   "year": 2025
   },
   "AM": {
    "ratio": 0.3827,
@@ -344,8 +344,8 @@
    "year": 2025
   },
   "IQ": {
-   "ratio": 0.4193,
-   "year": 2024
+   "ratio": 0.3792,
+   "year": 2025
   },
   "IS": {
    "ratio": 1.1785,
@@ -372,8 +372,8 @@
    "year": 2025
   },
   "KG": {
-   "ratio": 0.3064,
-   "year": 2024
+   "ratio": 0.3342,
+   "year": 2025
   },
   "KH": {
    "ratio": 0.3362,
@@ -408,16 +408,16 @@
    "year": 2025
   },
   "LA": {
-   "ratio": 0.217,
-   "year": 2024
+   "ratio": 0.2239,
+   "year": 2025
   },
   "LC": {
    "ratio": 0.5143,
    "year": 2025
   },
   "LK": {
-   "ratio": 0.2629,
-   "year": 2023
+   "ratio": 0.2932,
+   "year": 2025
   },
   "LS": {
    "ratio": 0.342,
@@ -604,8 +604,8 @@
    "year": 2025
   },
   "RU": {
-   "ratio": 0.3137,
-   "year": 2024
+   "ratio": 0.354,
+   "year": 2025
   },
   "RW": {
    "ratio": 0.2698,
@@ -668,8 +668,8 @@
    "year": 2021
   },
   "ST": {
-   "ratio": 0.5624,
-   "year": 2024
+   "ratio": 0.6377,
+   "year": 2025
   },
   "SV": {
    "ratio": 0.409,
@@ -712,8 +712,8 @@
    "year": 2025
   },
   "TN": {
-   "ratio": 0.288,
-   "year": 2024
+   "ratio": 0.3056,
+   "year": 2025
   },
   "TO": {
    "ratio": 0.75,
@@ -768,8 +768,8 @@
    "year": 2024
   },
   "VU": {
-   "ratio": 0.9066,
-   "year": 2024
+   "ratio": 0.8925,
+   "year": 2025
   },
   "WS": {
    "ratio": 0.6284,
