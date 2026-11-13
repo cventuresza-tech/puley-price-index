@@ -455,3 +455,22 @@ date,app,plan,period,cc,country,currency,old_price,new_price,change_pct
 2026-11-12,gemini,Google AI Plus (2 TB),month,UZ,Uzbekistan,USD,9.99,99.99,900.9
 2026-11-12,gemini,Google AI Plus (2 TB),month,PE,Peru,PEN,35.99,359.9,900.0
 2026-11-12,gemini,200 GB,month,TH,Thailand,THB,99.0,989.0,899.0
+2026-11-13,gemini,Google AI Ultra (30 TB),month,FJ,Fiji,USD,199.99,149.99,-25.0
+2026-11-13,gemini,Google AI Ultra (30 TB),month,MS,Montserrat,USD,199.99,149.99,-25.0
+2026-11-13,gemini,Google AI Ultra (30 TB),month,TC,Turks and Caicos Islands,USD,199.99,149.99,-25.0
+2026-11-13,gemini,Google AI Ultra (30 TB),month,FM,Micronesia,USD,149.99,199.99,33.3
+2026-11-13,gemini,Google AI Ultra (30 TB),month,GM,Gambia,USD,149.99,199.99,33.3
+2026-11-13,gemini,Google AI Ultra (30 TB),month,GW,Guinea-Bissau,USD,149.99,199.99,33.3
+2026-11-13,gemini,Google AI Ultra (30 TB),month,KW,Kuwait,USD,149.99,199.99,33.3
+2026-11-13,gemini,Google AI Ultra (30 TB),month,MK,North Macedonia,USD,149.99,199.99,33.3
+2026-11-13,gemini,Google AI Plus (2 TB),month,KW,Kuwait,USD,99.99,9.99,-90.0
+2026-11-13,gemini,Google AI Plus (2 TB),month,MK,North Macedonia,USD,99.99,9.99,-90.0
+2026-11-13,gemini,Google AI Plus (2 TB),month,UZ,Uzbekistan,USD,99.99,9.99,-90.0
+2026-11-13,gemini,Google AI Plus (2 TB),month,PE,Peru,PEN,359.9,35.99,-90.0
+2026-11-13,gemini,Google AI Plus (2 TB),month,SA,Saudi Arabia,SAR,34.99,349.99,900.3
+2026-11-13,gemini,Google AI Plus (2 TB),month,CM,Cameroon,USD,9.99,99.99,900.9
+2026-11-13,gemini,Google AI Plus (2 TB),month,MZ,Mozambique,USD,9.99,99.99,900.9
+2026-11-13,gemini,Google AI Plus (2 TB),month,KZ,Kazakhstan,KZT,4990.0,49900.0,900.0
+2026-11-13,gemini,200 GB,month,TH,Thailand,THB,989.0,99.0,-90.0
+2026-11-13,gemini,200 GB,month,SA,Saudi Arabia,SAR,10.99,109.99,900.8
+2026-11-13,gemini,200 GB,month,MZ,Mozambique,USD,2.99,29.99,903.0
