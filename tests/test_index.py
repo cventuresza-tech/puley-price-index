@@ -81,3 +81,12 @@ def test_periods_from_names_and_prices():
 def test_plan_key_ignores_period_words():
     assert plan_key("Super Duolingo - 12 Months") == plan_key("Super Duolingo") == "super-duolingo"
     assert plan_key("Snapchat+ (Annual)") == "snapchat+"
+
+
+def test_packs_and_short_passes_are_not_plans():
+    from puley_price_index.build import one_off
+    for name in ("100 Telegram Stars", "2500 Telegram Stars", "1x Telegram Premium (Three Days)", "500 Coins", "3 Boosts", "24 hours of Premium", "Day Pass"):
+        assert one_off(name), name
+    for name in ("Telegram Premium", "ChatGPT Plus", "Premium (Monthly)", "Super Duolingo - 12 Months", "Snapchat+ (Annual)", "All-Star Monthly", "Premium 30 days",
+                 "Pro 7 days", "Crunchyroll Mega Fan"):
+        assert not one_off(name), name

@@ -12,7 +12,7 @@ Browse it at **[puley.com/prices](https://puley.com/prices)**: a world map per a
 [![Dependencies: none](https://img.shields.io/badge/dependencies-none-23252a)](pyproject.toml)
 
 <!-- index:start -->
-**Updated 2026-11-13** · 11,839 prices · 15 apps · 174 countries · US dollars at 2026-11-13 exchange rates
+**Updated 2026-11-13** · 10,653 prices · 15 apps · 174 countries · US dollars at 2026-11-13 exchange rates
 
 | App | Main plan | In the US | Cheapest | Dearest | Countries |
 | --- | --- | ---: | --- | --- | ---: |

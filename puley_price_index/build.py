@@ -34,6 +34,23 @@ PUBLISHED = ("month", "year")
 # One-off purchases sold next to the plans: credits, coin and gem packs, boosts. They aren't subscriptions, so they're left out.
 CONSUMABLE = re.compile(r"\b(credits?|packs?|coins?|gems?|tokens?|charms|boosts?|super ?likes?|super ?swipes?|spotlights?|tickets?|"
                         r"bundles?|top[\s-]?ups?|lives|restores?|first impressions?)\b", re.I)
+# Packs sold by the count ("100 Telegram Stars") and passes for a few days or hours ("1x Telegram Premium (Three Days)") are bought once
+# too. Without this they had no stated period, so they were published as monthly plans (ChatGPT's audit of Puley, 13 Nov 2026). "30 days"
+# and "7 days" are a month and a week, and stay plans.
+COUNTED_PACK = re.compile(r"\b\d[\d,.]*\s+(?:\w+\s+){0,2}(?:stars?|diamonds?|points?|hearts?|keys?|roses?)\b", re.I)
+LOOSE_ONE_OFF = re.compile(r"\b(boosted|packages?)\b", re.I)
+SHORT_PASS = re.compile(r"\b(?:\d+|one|two|three|four|five|six)[\s-]?(?:days?|hours?)\b|\bday[\s-]pass\b", re.I)
+
+
+def one_off(name: str) -> bool:
+    """A purchase that is bought once and used up or runs out: not a subscription plan."""
+    if CONSUMABLE.search(name) or COUNTED_PACK.search(name):
+        return True
+    if LOOSE_ONE_OFF.search(name) and not any(rx.search(name) for _, rx in PERIODS):
+        return True   # "Boosted Tweet package": a one-off unless the name states a period
+    return bool(SHORT_PASS.search(name)) and not any(rx.search(name) for p, rx in PERIODS if p in ("month", "week"))
+
+
 MUDDLED_MAX = 0.15  # share of stores where a plan may show conflicting prices before it's held back
 PRICE_FIELDS = ["date", "app", "plan", "plan_name", "period", "period_inferred", "cc", "country", "currency", "price", "price_text",
                 "usd", "usd_per_month", "vs_us_pct", "feels_like_usd"]
@@ -117,7 +134,7 @@ def build(data: Path, day: str | None = None, log=print) -> dict:
             cur = (entry.get("currency") or stores.get(cc, {}).get("currency") or "").upper()
             if cur not in rates:
                 continue
-            parsed = [(n, t, parse_price(t, cur)) for n, t in entry["iaps"] if not CONSUMABLE.search(n)]
+            parsed = [(n, t, parse_price(t, cur)) for n, t in entry["iaps"] if not one_off(n)]
             parsed = [(n, t, p) for n, t, p in parsed if p and p > 0]
             if not parsed:
                 continue

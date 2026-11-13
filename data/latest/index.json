@@ -3,7 +3,7 @@
  "url": "https://puley.com/prices",
  "updated": "2026-11-13",
  "fx_date": "2026-11-13",
- "built": "2026-11-13T03:05:02Z",
+ "built": "2026-11-13T15:37:43Z",
  "stores": 174,
  "apps": [
   {
@@ -762,7 +762,7 @@
    "category": "Social and chat",
    "collected": "2026-11-07",
    "sold_in": 173,
-   "plans": 17,
+   "plans": 2,
    "headline": {
     "key": "telegram-premium",
     "name": "Telegram Premium",
@@ -837,7 +837,7 @@
    "category": "Social and chat",
    "collected": "2026-11-09",
    "sold_in": 174,
-   "plans": 175,
+   "plans": 174,
    "headline": {
     "key": "x-premium",
     "name": "X Premium (Monthly)",
@@ -2700,7 +2700,7 @@
    "median_vs_us_pct": 15.0
   }
  ],
- "changes_logged": 19,
+ "changes_logged": 0,
  "held_back": [
   {
    "app": "youtube",
