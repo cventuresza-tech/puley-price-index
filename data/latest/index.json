@@ -1,16 +1,16 @@
 {
  "name": "Puley Price Index",
  "url": "https://puley.com/prices",
- "updated": "2026-11-13",
- "fx_date": "2026-11-13",
- "built": "2026-11-13T15:37:43Z",
+ "updated": "2026-11-14",
+ "fx_date": "2026-11-14",
+ "built": "2026-11-14T03:06:03Z",
  "stores": 174,
  "apps": [
   {
    "app": "chatgpt",
    "name": "ChatGPT",
    "category": "AI assistants",
-   "collected": "2026-11-13",
+   "collected": "2026-11-14",
    "sold_in": 168,
    "plans": 6,
    "headline": {
@@ -20,30 +20,30 @@
     "stores": 168,
     "stats": {
      "us": 19.99,
-     "min": 15.66,
-     "max": 30.38,
+     "min": 15.64,
+     "max": 30.4,
      "median": 19.99,
      "spread": 1.94,
      "cheapest": [
       {
        "cc": "PH",
        "country": "Philippines",
-       "usd": 15.66
+       "usd": 15.64
       },
       {
        "cc": "CA",
        "country": "Canada",
-       "usd": 17.53
-      },
-      {
-       "cc": "PK",
-       "country": "Pakistan",
-       "usd": 17.71
+       "usd": 17.52
       },
       {
        "cc": "BR",
        "country": "Brazil",
-       "usd": 17.81
+       "usd": 17.69
+      },
+      {
+       "cc": "PK",
+       "country": "Pakistan",
+       "usd": 17.72
       },
       {
        "cc": "EG",
@@ -55,27 +55,27 @@
       {
        "cc": "CO",
        "country": "Colombia",
-       "usd": 30.38
+       "usd": 30.4
       },
       {
        "cc": "HU",
        "country": "Hungary",
-       "usd": 27.25
+       "usd": 27.2
       },
       {
        "cc": "DK",
        "country": "Denmark",
-       "usd": 26.53
+       "usd": 26.46
       },
       {
        "cc": "GB",
        "country": "United Kingdom",
-       "usd": 26.47
+       "usd": 26.43
       },
       {
        "cc": "NO",
        "country": "Norway",
-       "usd": 26.04
+       "usd": 26.03
       }
      ]
     }
@@ -85,7 +85,7 @@
    "app": "claude",
    "name": "Claude",
    "category": "AI assistants",
-   "collected": "2026-11-13",
+   "collected": "2026-11-14",
    "sold_in": 165,
    "plans": 4,
    "headline": {
@@ -95,15 +95,15 @@
     "stores": 165,
     "stats": {
      "us": 20.0,
-     "min": 17.71,
-     "max": 30.38,
-     "median": 20.22,
+     "min": 17.72,
+     "max": 30.4,
+     "median": 20.2,
      "spread": 1.72,
      "cheapest": [
       {
        "cc": "PK",
        "country": "Pakistan",
-       "usd": 17.71
+       "usd": 17.72
       },
       {
        "cc": "EG",
@@ -118,7 +118,7 @@
       {
        "cc": "ID",
        "country": "Indonesia",
-       "usd": 19.12
+       "usd": 19.14
       },
       {
        "cc": "QA",
@@ -130,27 +130,27 @@
       {
        "cc": "CO",
        "country": "Colombia",
-       "usd": 30.38
+       "usd": 30.4
       },
       {
        "cc": "HU",
        "country": "Hungary",
-       "usd": 27.25
+       "usd": 27.2
       },
       {
        "cc": "KZ",
        "country": "Kazakhstan",
-       "usd": 27.01
+       "usd": 26.94
       },
       {
        "cc": "DK",
        "country": "Denmark",
-       "usd": 26.53
+       "usd": 26.46
       },
       {
        "cc": "GB",
        "country": "United Kingdom",
-       "usd": 26.48
+       "usd": 26.44
       }
      ]
     }
@@ -160,7 +160,7 @@
    "app": "gemini",
    "name": "Google Gemini",
    "category": "AI assistants",
-   "collected": "2026-11-13",
+   "collected": "2026-11-14",
    "sold_in": 169,
    "plans": 15,
    "headline": {
@@ -170,25 +170,25 @@
     "stores": 167,
     "stats": {
      "us": 19.99,
-     "min": 16.93,
-     "max": 27.09,
+     "min": 16.95,
+     "max": 27.07,
      "median": 19.99,
      "spread": 1.6,
      "cheapest": [
       {
        "cc": "ID",
        "country": "Indonesia",
-       "usd": 16.93
-      },
-      {
-       "cc": "PH",
-       "country": "Philippines",
-       "usd": 17.25
+       "usd": 16.95
       },
       {
        "cc": "BR",
        "country": "Brazil",
-       "usd": 17.27
+       "usd": 17.16
+      },
+      {
+       "cc": "PH",
+       "country": "Philippines",
+       "usd": 17.23
       },
       {
        "cc": "JP",
@@ -196,36 +196,36 @@
        "usd": 18.15
       },
       {
-       "cc": "CA",
-       "country": "Canada",
-       "usd": 18.93
+       "cc": "TZ",
+       "country": "Tanzania",
+       "usd": 18.92
       }
      ],
      "priciest": [
       {
        "cc": "NO",
        "country": "Norway",
-       "usd": 27.09
+       "usd": 27.07
       },
       {
        "cc": "HU",
        "country": "Hungary",
-       "usd": 26.64
+       "usd": 26.59
       },
       {
        "cc": "ZA",
        "country": "South Africa",
-       "usd": 25.69
+       "usd": 25.45
       },
       {
        "cc": "XK",
        "country": "Kosovo",
-       "usd": 25.45
+       "usd": 25.38
       },
       {
-       "cc": "SE",
-       "country": "Sweden",
-       "usd": 25.45
+       "cc": "HR",
+       "country": "Croatia",
+       "usd": 25.38
       }
      ]
     }
@@ -235,7 +235,7 @@
    "app": "perplexity",
    "name": "Perplexity",
    "category": "AI assistants",
-   "collected": "2026-11-13",
+   "collected": "2026-11-14",
    "sold_in": 173,
    "plans": 3,
    "headline": {
@@ -245,20 +245,20 @@
     "stores": 163,
     "stats": {
      "us": 20.0,
-     "min": 17.54,
-     "max": 30.38,
+     "min": 17.53,
+     "max": 30.4,
      "median": 20.0,
      "spread": 1.73,
      "cheapest": [
       {
        "cc": "CA",
        "country": "Canada",
-       "usd": 17.54
+       "usd": 17.53
       },
       {
        "cc": "PK",
        "country": "Pakistan",
-       "usd": 17.71
+       "usd": 17.72
       },
       {
        "cc": "EG",
@@ -273,34 +273,34 @@
       {
        "cc": "HK",
        "country": "Hong Kong",
-       "usd": 18.87
+       "usd": 18.86
       }
      ],
      "priciest": [
       {
        "cc": "CO",
        "country": "Colombia",
-       "usd": 30.38
+       "usd": 30.4
       },
       {
        "cc": "HU",
        "country": "Hungary",
-       "usd": 27.25
+       "usd": 27.2
       },
       {
        "cc": "DK",
        "country": "Denmark",
-       "usd": 26.53
+       "usd": 26.46
       },
       {
        "cc": "GB",
        "country": "United Kingdom",
-       "usd": 26.48
+       "usd": 26.44
       },
       {
        "cc": "NO",
        "country": "Norway",
-       "usd": 26.04
+       "usd": 26.03
       }
      ]
     }
@@ -310,35 +310,35 @@
    "app": "grok",
    "name": "Grok",
    "category": "AI assistants",
-   "collected": "2026-11-13",
+   "collected": "2026-11-14",
    "sold_in": 160,
    "plans": 8,
    "headline": {
     "key": "supergrok",
     "name": "SuperGrok",
     "period": "month",
-    "stores": 155,
+    "stores": 156,
     "stats": {
      "us": 30.0,
-     "min": 25.84,
-     "max": 41.73,
+     "min": 25.81,
+     "max": 41.71,
      "median": 30.0,
-     "spread": 1.61,
+     "spread": 1.62,
      "cheapest": [
       {
        "cc": "TR",
        "country": "Turkey",
-       "usd": 25.84
+       "usd": 25.81
       },
       {
        "cc": "BR",
        "country": "Brazil",
-       "usd": 26.72
+       "usd": 26.54
       },
       {
        "cc": "ID",
        "country": "Indonesia",
-       "usd": 27.34
+       "usd": 27.37
       },
       {
        "cc": "QA",
@@ -348,14 +348,14 @@
       {
        "cc": "NZ",
        "country": "New Zealand",
-       "usd": 27.74
+       "usd": 27.64
       }
      ],
      "priciest": [
       {
        "cc": "NO",
        "country": "Norway",
-       "usd": 41.73
+       "usd": 41.71
       },
       {
        "cc": "ZM",
@@ -385,7 +385,7 @@
    "app": "copilot",
    "name": "Microsoft Copilot",
    "category": "AI assistants",
-   "collected": "2026-11-13",
+   "collected": "2026-11-14",
    "sold_in": 169,
    "plans": 7,
    "headline": {
@@ -395,15 +395,15 @@
     "stores": 165,
     "stats": {
      "us": 19.99,
-     "min": 12.59,
-     "max": 27.09,
+     "min": 12.57,
+     "max": 27.07,
      "median": 19.99,
      "spread": 2.15,
      "cheapest": [
       {
        "cc": "NG",
        "country": "Nigeria",
-       "usd": 12.59
+       "usd": 12.57
       },
       {
        "cc": "EG",
@@ -413,44 +413,44 @@
       {
        "cc": "TR",
        "country": "Turkey",
-       "usd": 14.31
+       "usd": 14.29
       },
       {
        "cc": "PH",
        "country": "Philippines",
-       "usd": 17.09
+       "usd": 17.07
       },
       {
        "cc": "ID",
        "country": "Indonesia",
-       "usd": 18.08
+       "usd": 18.1
       }
      ],
      "priciest": [
       {
        "cc": "NO",
        "country": "Norway",
-       "usd": 27.09
+       "usd": 27.07
       },
       {
        "cc": "HU",
        "country": "Hungary",
-       "usd": 26.64
+       "usd": 26.59
       },
       {
        "cc": "CO",
        "country": "Colombia",
-       "usd": 25.82
+       "usd": 25.84
       },
       {
        "cc": "ZA",
        "country": "South Africa",
-       "usd": 25.63
+       "usd": 25.39
       },
       {
        "cc": "HR",
        "country": "Croatia",
-       "usd": 25.46
+       "usd": 25.39
       }
      ]
     }
@@ -460,7 +460,7 @@
    "app": "le-chat",
    "name": "Le Chat (Vibe by Mistral)",
    "category": "AI assistants",
-   "collected": "2026-11-13",
+   "collected": "2026-11-14",
    "sold_in": 174,
    "plans": 2,
    "headline": {
@@ -470,20 +470,20 @@
     "stores": 174,
     "stats": {
      "us": 14.99,
-     "min": 12.53,
-     "max": 21.25,
+     "min": 12.51,
+     "max": 21.27,
      "median": 14.99,
      "spread": 1.7,
      "cheapest": [
       {
        "cc": "PH",
        "country": "Philippines",
-       "usd": 12.53
+       "usd": 12.51
       },
       {
        "cc": "ID",
        "country": "Indonesia",
-       "usd": 13.64
+       "usd": 13.66
       },
       {
        "cc": "QA",
@@ -493,7 +493,7 @@
       {
        "cc": "TR",
        "country": "Turkey",
-       "usd": 13.91
+       "usd": 13.9
       },
       {
        "cc": "CA",
@@ -505,27 +505,27 @@
       {
        "cc": "CO",
        "country": "Colombia",
-       "usd": 21.25
+       "usd": 21.27
       },
       {
        "cc": "HU",
        "country": "Hungary",
-       "usd": 21.18
+       "usd": 21.15
       },
       {
        "cc": "NO",
        "country": "Norway",
-       "usd": 20.81
+       "usd": 20.8
       },
       {
        "cc": "PE",
        "country": "Peru",
-       "usd": 20.49
+       "usd": 20.54
       },
       {
        "cc": "PL",
        "country": "Poland",
-       "usd": 20.09
+       "usd": 20.05
       }
      ]
     }
@@ -535,7 +535,7 @@
    "app": "character-ai",
    "name": "Character.AI",
    "category": "AI assistants",
-   "collected": "2026-11-13",
+   "collected": "2026-11-14",
    "sold_in": 172,
    "plans": 2,
    "headline": {
@@ -546,7 +546,7 @@
     "stats": {
      "us": 9.99,
      "min": 5.61,
-     "max": 18.21,
+     "max": 18.23,
      "median": 9.99,
      "spread": 3.25,
      "cheapest": [
@@ -558,7 +558,7 @@
       {
        "cc": "PH",
        "country": "Philippines",
-       "usd": 7.82
+       "usd": 7.81
       },
       {
        "cc": "TZ",
@@ -568,7 +568,7 @@
       {
        "cc": "BR",
        "country": "Brazil",
-       "usd": 8.89
+       "usd": 8.83
       },
       {
        "cc": "CA",
@@ -580,27 +580,27 @@
       {
        "cc": "CO",
        "country": "Colombia",
-       "usd": 18.21
+       "usd": 18.23
       },
       {
        "cc": "HU",
        "country": "Hungary",
-       "usd": 13.61
+       "usd": 13.58
       },
       {
        "cc": "NO",
        "country": "Norway",
-       "usd": 13.49
+       "usd": 13.48
       },
       {
        "cc": "GB",
        "country": "United Kingdom",
-       "usd": 13.23
+       "usd": 13.21
       },
       {
        "cc": "DK",
        "country": "Denmark",
-       "usd": 13.19
+       "usd": 13.16
       }
      ]
     }
@@ -621,9 +621,9 @@
     "stats": {
      "us": 18.49,
      "min": 2.89,
-     "max": 20.25,
+     "max": 20.15,
      "median": 8.99,
-     "spread": 7.01,
+     "spread": 6.97,
      "cheapest": [
       {
        "cc": "PK",
@@ -633,7 +633,7 @@
       {
        "cc": "TR",
        "country": "Turkey",
-       "usd": 4.57
+       "usd": 4.56
       },
       {
        "cc": "KH",
@@ -655,12 +655,12 @@
       {
        "cc": "CH",
        "country": "Switzerland",
-       "usd": 20.25
+       "usd": 20.15
       },
       {
        "cc": "DK",
        "country": "Denmark",
-       "usd": 19.12
+       "usd": 19.07
       },
       {
        "cc": "US",
@@ -668,14 +668,14 @@
        "usd": 18.49
       },
       {
-       "cc": "IL",
-       "country": "Israel",
-       "usd": 15.62
-      },
-      {
        "cc": "NO",
        "country": "Norway",
-       "usd": 15.58
+       "usd": 15.57
+      },
+      {
+       "cc": "IL",
+       "country": "Israel",
+       "usd": 15.56
       }
      ]
     }
@@ -696,9 +696,9 @@
     "stats": {
      "us": 9.99,
      "min": 1.01,
-     "max": 10.67,
-     "median": 6.63,
-     "spread": 10.56,
+     "max": 10.61,
+     "median": 6.61,
+     "spread": 10.5,
      "cheapest": [
       {
        "cc": "PK",
@@ -730,7 +730,7 @@
       {
        "cc": "CH",
        "country": "Switzerland",
-       "usd": 10.67
+       "usd": 10.61
       },
       {
        "cc": "US",
@@ -740,17 +740,17 @@
       {
        "cc": "DE",
        "country": "Germany",
-       "usd": 9.95
+       "usd": 9.92
       },
       {
        "cc": "AT",
        "country": "Austria",
-       "usd": 9.95
+       "usd": 9.92
       },
       {
        "cc": "DK",
        "country": "Denmark",
-       "usd": 9.63
+       "usd": 9.61
       }
      ]
     }
@@ -760,30 +760,30 @@
    "app": "telegram",
    "name": "Telegram Premium",
    "category": "Social and chat",
-   "collected": "2026-11-07",
+   "collected": "2026-11-14",
    "sold_in": 173,
    "plans": 2,
    "headline": {
     "key": "telegram-premium",
     "name": "Telegram Premium",
     "period": "month",
-    "stores": 171,
+    "stores": 170,
     "stats": {
      "us": 4.99,
      "min": 3.23,
-     "max": 6.94,
+     "max": 6.93,
      "median": 4.99,
      "spread": 2.15,
      "cheapest": [
       {
-       "cc": "ID",
-       "country": "Indonesia",
+       "cc": "CL",
+       "country": "Chile",
        "usd": 3.23
       },
       {
-       "cc": "CL",
-       "country": "Chile",
-       "usd": 3.25
+       "cc": "ID",
+       "country": "Indonesia",
+       "usd": 3.24
       },
       {
        "cc": "PK",
@@ -798,34 +798,34 @@
       {
        "cc": "IN",
        "country": "India",
-       "usd": 3.39
+       "usd": 3.38
       }
      ],
      "priciest": [
       {
        "cc": "HU",
        "country": "Hungary",
-       "usd": 6.94
+       "usd": 6.93
       },
       {
        "cc": "DK",
        "country": "Denmark",
-       "usd": 6.67
+       "usd": 6.65
       },
       {
        "cc": "SI",
        "country": "Slovenia",
-       "usd": 6.63
+       "usd": 6.61
       },
       {
        "cc": "PT",
        "country": "Portugal",
-       "usd": 6.63
+       "usd": 6.61
       },
       {
        "cc": "IE",
        "country": "Ireland",
-       "usd": 6.63
+       "usd": 6.61
       }
      ]
     }
@@ -845,20 +845,25 @@
     "stores": 157,
     "stats": {
      "us": 11.0,
-     "min": 3.98,
-     "max": 14.57,
+     "min": 3.97,
+     "max": 14.54,
      "median": 6.0,
      "spread": 3.66,
      "cheapest": [
       {
        "cc": "TR",
        "country": "Turkey",
-       "usd": 3.98
+       "usd": 3.97
       },
       {
        "cc": "ID",
        "country": "Indonesia",
        "usd": 4.66
+      },
+      {
+       "cc": "IN",
+       "country": "India",
+       "usd": 4.98
       },
       {
        "cc": "AF",
@@ -869,38 +874,33 @@
        "cc": "AI",
        "country": "Anguilla",
        "usd": 5.0
-      },
-      {
-       "cc": "AR",
-       "country": "Argentina",
-       "usd": 5.0
       }
      ],
      "priciest": [
       {
        "cc": "GB",
        "country": "United Kingdom",
-       "usd": 14.57
+       "usd": 14.54
       },
       {
        "cc": "MT",
        "country": "Malta",
-       "usd": 12.17
+       "usd": 12.14
       },
       {
        "cc": "LV",
        "country": "Latvia",
-       "usd": 12.17
+       "usd": 12.14
       },
       {
        "cc": "LU",
        "country": "Luxembourg",
-       "usd": 12.17
+       "usd": 12.14
       },
       {
        "cc": "IT",
        "country": "Italy",
-       "usd": 12.17
+       "usd": 12.14
       }
      ]
     }
@@ -920,15 +920,15 @@
     "stores": 173,
     "stats": {
      "us": 11.99,
-     "min": 9.94,
-     "max": 18.21,
+     "min": 9.93,
+     "max": 18.23,
      "median": 11.99,
-     "spread": 1.83,
+     "spread": 1.84,
      "cheapest": [
       {
        "cc": "TR",
        "country": "Turkey",
-       "usd": 9.94
+       "usd": 9.93
       },
       {
        "cc": "CA",
@@ -938,44 +938,44 @@
       {
        "cc": "BR",
        "country": "Brazil",
-       "usd": 10.68
+       "usd": 10.61
       },
       {
        "cc": "ID",
        "country": "Indonesia",
-       "usd": 10.9
+       "usd": 10.91
       },
       {
        "cc": "PH",
        "country": "Philippines",
-       "usd": 10.96
+       "usd": 10.95
       }
      ],
      "priciest": [
       {
        "cc": "CO",
        "country": "Colombia",
-       "usd": 18.21
+       "usd": 18.23
       },
       {
        "cc": "PL",
        "country": "Poland",
-       "usd": 17.58
+       "usd": 17.55
       },
       {
        "cc": "GB",
        "country": "United Kingdom",
-       "usd": 15.88
+       "usd": 15.85
       },
       {
        "cc": "NO",
        "country": "Norway",
-       "usd": 15.58
+       "usd": 15.57
       },
       {
        "cc": "HU",
        "country": "Hungary",
-       "usd": 15.12
+       "usd": 15.09
       }
      ]
     }
@@ -995,20 +995,25 @@
     "stores": 157,
     "stats": {
      "us": 19.99,
-     "min": 7.53,
-     "max": 37.67,
+     "min": 7.52,
+     "max": 37.6,
      "median": 13.99,
      "spread": 5.0,
      "cheapest": [
       {
        "cc": "PH",
        "country": "Philippines",
-       "usd": 7.53
+       "usd": 7.52
       },
       {
        "cc": "ID",
        "country": "Indonesia",
-       "usd": 7.89
+       "usd": 7.9
+      },
+      {
+       "cc": "TR",
+       "country": "Turkey",
+       "usd": 7.94
       },
       {
        "cc": "PK",
@@ -1016,41 +1021,36 @@
        "usd": 7.95
       },
       {
-       "cc": "TR",
-       "country": "Turkey",
-       "usd": 7.95
-      },
-      {
        "cc": "TH",
        "country": "Thailand",
-       "usd": 8.54
+       "usd": 8.53
       }
      ],
      "priciest": [
       {
        "cc": "PL",
        "country": "Poland",
-       "usd": 37.67
+       "usd": 37.6
       },
       {
        "cc": "NO",
        "country": "Norway",
-       "usd": 36.5
+       "usd": 36.48
       },
       {
        "cc": "HU",
        "country": "Hungary",
-       "usd": 36.34
+       "usd": 36.27
       },
       {
        "cc": "SE",
        "country": "Sweden",
-       "usd": 34.84
+       "usd": 34.67
       },
       {
        "cc": "DK",
        "country": "Denmark",
-       "usd": 33.94
+       "usd": 33.85
       }
      ]
     }
@@ -1091,14 +1091,14 @@
        "usd": 1.69
       },
       {
-       "cc": "ID",
-       "country": "Indonesia",
-       "usd": 1.75
-      },
-      {
        "cc": "VN",
        "country": "Vietnam",
        "usd": 1.75
+      },
+      {
+       "cc": "ID",
+       "country": "Indonesia",
+       "usd": 1.76
       }
      ],
      "priciest": [
@@ -1110,16 +1110,16 @@
       {
        "cc": "CZ",
        "country": "Czechia",
-       "usd": 2.68
-      },
-      {
-       "cc": "DK",
-       "country": "Denmark",
-       "usd": 2.52
+       "usd": 2.67
       },
       {
        "cc": "NO",
        "country": "Norway",
+       "usd": 2.51
+      },
+      {
+       "cc": "DK",
+       "country": "Denmark",
        "usd": 2.51
       },
       {
@@ -1212,7 +1212,7 @@
    "income": "High income",
    "currency": null,
    "apps": 15,
-   "median_vs_us_pct": 21.8
+   "median_vs_us_pct": 21.4
   },
   {
    "cc": "AU",
@@ -1221,7 +1221,7 @@
    "income": "High income",
    "currency": null,
    "apps": 15,
-   "median_vs_us_pct": 2.2
+   "median_vs_us_pct": 1.7
   },
   {
    "cc": "AZ",
@@ -1239,7 +1239,7 @@
    "income": "Upper middle income",
    "currency": null,
    "apps": 15,
-   "median_vs_us_pct": 10.7
+   "median_vs_us_pct": 10.6
   },
   {
    "cc": "BB",
@@ -1257,7 +1257,7 @@
    "income": "High income",
    "currency": null,
    "apps": 14,
-   "median_vs_us_pct": 21.8
+   "median_vs_us_pct": 21.4
   },
   {
    "cc": "BF",
@@ -1275,7 +1275,7 @@
    "income": "High income",
    "currency": null,
    "apps": 13,
-   "median_vs_us_pct": 10.7
+   "median_vs_us_pct": 10.6
   },
   {
    "cc": "BH",
@@ -1329,7 +1329,7 @@
    "income": "Upper middle income",
    "currency": null,
    "apps": 14,
-   "median_vs_us_pct": -10.9
+   "median_vs_us_pct": -11.6
   },
   {
    "cc": "BS",
@@ -1410,7 +1410,7 @@
    "income": "High income",
    "currency": null,
    "apps": 14,
-   "median_vs_us_pct": 19.9
+   "median_vs_us_pct": 19.2
   },
   {
    "cc": "CI",
@@ -1428,7 +1428,7 @@
    "income": "High income",
    "currency": null,
    "apps": 15,
-   "median_vs_us_pct": 9.3
+   "median_vs_us_pct": 8.4
   },
   {
    "cc": "CM",
@@ -1455,7 +1455,7 @@
    "income": "Upper middle income",
    "currency": null,
    "apps": 15,
-   "median_vs_us_pct": 31.7
+   "median_vs_us_pct": 31.8
   },
   {
    "cc": "CR",
@@ -1482,7 +1482,7 @@
    "income": "High income",
    "currency": null,
    "apps": 15,
-   "median_vs_us_pct": 21.8
+   "median_vs_us_pct": 21.4
   },
   {
    "cc": "CZ",
@@ -1491,7 +1491,7 @@
    "income": "High income",
    "currency": null,
    "apps": 15,
-   "median_vs_us_pct": 13.3
+   "median_vs_us_pct": 13.0
   },
   {
    "cc": "DE",
@@ -1500,7 +1500,7 @@
    "income": "High income",
    "currency": null,
    "apps": 15,
-   "median_vs_us_pct": 21.8
+   "median_vs_us_pct": 21.4
   },
   {
    "cc": "DK",
@@ -1509,7 +1509,7 @@
    "income": "High income",
    "currency": null,
    "apps": 15,
-   "median_vs_us_pct": 26.6
+   "median_vs_us_pct": 26.1
   },
   {
    "cc": "DM",
@@ -1554,7 +1554,7 @@
    "income": "High income",
    "currency": null,
    "apps": 15,
-   "median_vs_us_pct": 21.8
+   "median_vs_us_pct": 21.4
   },
   {
    "cc": "EG",
@@ -1572,7 +1572,7 @@
    "income": "High income",
    "currency": null,
    "apps": 15,
-   "median_vs_us_pct": 21.8
+   "median_vs_us_pct": 21.4
   },
   {
    "cc": "FI",
@@ -1581,7 +1581,7 @@
    "income": "High income",
    "currency": null,
    "apps": 15,
-   "median_vs_us_pct": 21.8
+   "median_vs_us_pct": 21.4
   },
   {
    "cc": "FJ",
@@ -1598,7 +1598,7 @@
    "region": "East Asia & Pacific",
    "income": "Upper middle income",
    "currency": null,
-   "apps": 9,
+   "apps": 8,
    "median_vs_us_pct": 0.0
   },
   {
@@ -1608,7 +1608,7 @@
    "income": "High income",
    "currency": null,
    "apps": 14,
-   "median_vs_us_pct": 21.8
+   "median_vs_us_pct": 21.4
   },
   {
    "cc": "GA",
@@ -1626,7 +1626,7 @@
    "income": "High income",
    "currency": null,
    "apps": 14,
-   "median_vs_us_pct": 32.4
+   "median_vs_us_pct": 32.2
   },
   {
    "cc": "GD",
@@ -1671,7 +1671,7 @@
    "income": "High income",
    "currency": null,
    "apps": 15,
-   "median_vs_us_pct": 21.8
+   "median_vs_us_pct": 21.4
   },
   {
    "cc": "GT",
@@ -1725,7 +1725,7 @@
    "income": "High income",
    "currency": null,
    "apps": 14,
-   "median_vs_us_pct": 24.6
+   "median_vs_us_pct": 24.2
   },
   {
    "cc": "HU",
@@ -1734,7 +1734,7 @@
    "income": "High income",
    "currency": null,
    "apps": 15,
-   "median_vs_us_pct": 33.3
+   "median_vs_us_pct": 33.0
   },
   {
    "cc": "ID",
@@ -1743,7 +1743,7 @@
    "income": "Upper middle income",
    "currency": null,
    "apps": 14,
-   "median_vs_us_pct": -9.3
+   "median_vs_us_pct": -9.2
   },
   {
    "cc": "IE",
@@ -1752,7 +1752,7 @@
    "income": "High income",
    "currency": null,
    "apps": 14,
-   "median_vs_us_pct": 21.8
+   "median_vs_us_pct": 21.4
   },
   {
    "cc": "IL",
@@ -1761,7 +1761,7 @@
    "income": "High income",
    "currency": null,
    "apps": 14,
-   "median_vs_us_pct": 6.8
+   "median_vs_us_pct": 6.3
   },
   {
    "cc": "IN",
@@ -1770,7 +1770,7 @@
    "income": "Lower middle income",
    "currency": null,
    "apps": 13,
-   "median_vs_us_pct": 6.2
+   "median_vs_us_pct": 6.0
   },
   {
    "cc": "IQ",
@@ -1797,7 +1797,7 @@
    "income": "High income",
    "currency": null,
    "apps": 15,
-   "median_vs_us_pct": 21.8
+   "median_vs_us_pct": 21.4
   },
   {
    "cc": "JM",
@@ -1869,7 +1869,7 @@
    "income": "High income",
    "currency": null,
    "apps": 12,
-   "median_vs_us_pct": 7.6
+   "median_vs_us_pct": 7.3
   },
   {
    "cc": "KW",
@@ -1896,7 +1896,7 @@
    "income": "Upper middle income",
    "currency": null,
    "apps": 14,
-   "median_vs_us_pct": 12.5
+   "median_vs_us_pct": 12.2
   },
   {
    "cc": "LA",
@@ -1950,7 +1950,7 @@
    "income": "High income",
    "currency": null,
    "apps": 15,
-   "median_vs_us_pct": 21.8
+   "median_vs_us_pct": 21.4
   },
   {
    "cc": "LU",
@@ -1959,7 +1959,7 @@
    "income": "High income",
    "currency": null,
    "apps": 15,
-   "median_vs_us_pct": 19.9
+   "median_vs_us_pct": 19.6
   },
   {
    "cc": "LV",
@@ -1968,7 +1968,7 @@
    "income": "High income",
    "currency": null,
    "apps": 15,
-   "median_vs_us_pct": 21.8
+   "median_vs_us_pct": 21.4
   },
   {
    "cc": "LY",
@@ -2004,7 +2004,7 @@
    "income": "Upper middle income",
    "currency": null,
    "apps": 15,
-   "median_vs_us_pct": 10.6
+   "median_vs_us_pct": 10.4
   },
   {
    "cc": "MG",
@@ -2085,7 +2085,7 @@
    "income": "High income",
    "currency": null,
    "apps": 15,
-   "median_vs_us_pct": 21.8
+   "median_vs_us_pct": 21.4
   },
   {
    "cc": "MU",
@@ -2121,7 +2121,7 @@
    "income": "Upper middle income",
    "currency": null,
    "apps": 15,
-   "median_vs_us_pct": 6.1
+   "median_vs_us_pct": 6.5
   },
   {
    "cc": "MY",
@@ -2130,7 +2130,7 @@
    "income": "Upper middle income",
    "currency": null,
    "apps": 14,
-   "median_vs_us_pct": 17.2
+   "median_vs_us_pct": 17.0
   },
   {
    "cc": "MZ",
@@ -2175,7 +2175,7 @@
    "income": "High income",
    "currency": null,
    "apps": 13,
-   "median_vs_us_pct": 21.8
+   "median_vs_us_pct": 21.4
   },
   {
    "cc": "NO",
@@ -2211,7 +2211,7 @@
    "income": "High income",
    "currency": null,
    "apps": 13,
-   "median_vs_us_pct": 2.7
+   "median_vs_us_pct": 2.3
   },
   {
    "cc": "OM",
@@ -2238,7 +2238,7 @@
    "income": "Upper middle income",
    "currency": null,
    "apps": 13,
-   "median_vs_us_pct": 10.0
+   "median_vs_us_pct": 10.2
   },
   {
    "cc": "PG",
@@ -2256,7 +2256,7 @@
    "income": "Upper middle income",
    "currency": null,
    "apps": 12,
-   "median_vs_us_pct": -15.4
+   "median_vs_us_pct": -15.6
   },
   {
    "cc": "PK",
@@ -2274,7 +2274,7 @@
    "income": "High income",
    "currency": null,
    "apps": 15,
-   "median_vs_us_pct": 25.6
+   "median_vs_us_pct": 25.3
   },
   {
    "cc": "PT",
@@ -2283,7 +2283,7 @@
    "income": "High income",
    "currency": null,
    "apps": 15,
-   "median_vs_us_pct": 21.8
+   "median_vs_us_pct": 21.4
   },
   {
    "cc": "PW",
@@ -2319,7 +2319,7 @@
    "income": "High income",
    "currency": null,
    "apps": 14,
-   "median_vs_us_pct": 3.9
+   "median_vs_us_pct": 3.8
   },
   {
    "cc": "RS",
@@ -2328,7 +2328,7 @@
    "income": "Upper middle income",
    "currency": null,
    "apps": 15,
-   "median_vs_us_pct": 19.9
+   "median_vs_us_pct": 19.6
   },
   {
    "cc": "RU",
@@ -2337,7 +2337,7 @@
    "income": "High income",
    "currency": null,
    "apps": 7,
-   "median_vs_us_pct": 3.9
+   "median_vs_us_pct": 4.3
   },
   {
    "cc": "RW",
@@ -2382,7 +2382,7 @@
    "income": "High income",
    "currency": null,
    "apps": 15,
-   "median_vs_us_pct": 24.3
+   "median_vs_us_pct": 23.7
   },
   {
    "cc": "SG",
@@ -2391,7 +2391,7 @@
    "income": "High income",
    "currency": null,
    "apps": 13,
-   "median_vs_us_pct": 16.5
+   "median_vs_us_pct": 16.1
   },
   {
    "cc": "SI",
@@ -2400,7 +2400,7 @@
    "income": "High income",
    "currency": null,
    "apps": 15,
-   "median_vs_us_pct": 21.8
+   "median_vs_us_pct": 21.4
   },
   {
    "cc": "SK",
@@ -2409,7 +2409,7 @@
    "income": "High income",
    "currency": null,
    "apps": 15,
-   "median_vs_us_pct": 21.8
+   "median_vs_us_pct": 21.4
   },
   {
    "cc": "SL",
@@ -2444,7 +2444,7 @@
    "region": "Sub-Saharan Africa",
    "income": "Lower middle income",
    "currency": null,
-   "apps": 8,
+   "apps": 9,
    "median_vs_us_pct": 0.0
   },
   {
@@ -2490,7 +2490,7 @@
    "income": "Upper middle income",
    "currency": null,
    "apps": 14,
-   "median_vs_us_pct": 2.9
+   "median_vs_us_pct": 2.8
   },
   {
    "cc": "TJ",
@@ -2553,7 +2553,7 @@
    "income": null,
    "currency": null,
    "apps": 13,
-   "median_vs_us_pct": -1.3
+   "median_vs_us_pct": -1.2
   },
   {
    "cc": "TZ",
@@ -2643,7 +2643,7 @@
    "income": "Upper middle income",
    "currency": null,
    "apps": 13,
-   "median_vs_us_pct": -3.0
+   "median_vs_us_pct": -3.1
   },
   {
    "cc": "VU",
@@ -2661,7 +2661,7 @@
    "income": "Upper middle income",
    "currency": null,
    "apps": 11,
-   "median_vs_us_pct": 21.8
+   "median_vs_us_pct": 21.4
   },
   {
    "cc": "YE",
@@ -2679,7 +2679,7 @@
    "income": "Upper middle income",
    "currency": null,
    "apps": 14,
-   "median_vs_us_pct": 19.5
+   "median_vs_us_pct": 18.4
   },
   {
    "cc": "ZM",
@@ -2700,7 +2700,7 @@
    "median_vs_us_pct": 15.0
   }
  ],
- "changes_logged": 0,
+ "changes_logged": 11,
  "held_back": [
   {
    "app": "youtube",
@@ -2803,8 +2803,8 @@
    "name": "NordVPN",
    "category": "Privacy and storage",
    "main_plan": "nordvpn",
-   "muddled_share": 0.9,
-   "why": "Its main plan shows several different prices in the same country in 90% of stores, so no single price can be given."
+   "muddled_share": 0.88,
+   "why": "Its main plan shows several different prices in the same country in 88% of stores, so no single price can be given."
   },
   {
    "app": "expressvpn",
