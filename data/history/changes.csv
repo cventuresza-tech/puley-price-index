@@ -504,3 +504,18 @@ date,app,plan,period,cc,country,currency,old_price,new_price,change_pct
 2026-11-15,gemini,Google AI Plus (2 TB),month,PE,Peru,PEN,35.99,359.9,900.0
 2026-11-15,gemini,200 GB,month,MZ,Mozambique,USD,29.99,2.99,-90.0
 2026-11-15,gemini,200 GB,month,JO,Jordan,USD,2.99,29.99,903.0
+2026-11-16,gemini,Google AI Ultra (30 TB),month,AE,United Arab Emirates,AED,769.99,559.99,-27.3
+2026-11-16,gemini,Google AI Ultra (30 TB),month,CD,DR Congo,USD,149.99,199.99,33.3
+2026-11-16,gemini,Google AI Ultra (30 TB),month,JO,Jordan,USD,149.99,199.99,33.3
+2026-11-16,gemini,Google AI Ultra (30 TB),month,MW,Malawi,USD,149.99,199.99,33.3
+2026-11-16,gemini,Google AI Ultra (30 TB),month,TM,Turkmenistan,USD,149.99,199.99,33.3
+2026-11-16,gemini,Google AI Ultra (30 TB),month,MX,Mexico,MXN,2999.0,3949.0,31.7
+2026-11-16,gemini,Google AI Ultra (30 TB),month,GB,United Kingdom,GBP,119.99,189.99,58.3
+2026-11-16,gemini,Google AI Plus (2 TB),month,AO,Angola,USD,99.99,9.99,-90.0
+2026-11-16,gemini,Google AI Plus (2 TB),month,PE,Peru,PEN,359.9,35.99,-90.0
+2026-11-16,gemini,Google AI Plus (2 TB),month,AE,United Arab Emirates,AED,36.99,364.99,886.7
+2026-11-16,gemini,200 GB,month,JO,Jordan,USD,29.99,2.99,-90.0
+2026-11-16,gemini,200 GB,month,VN,Vietnam,VND,69000.0,689000.0,898.6
+2026-11-16,gemini,200 GB,month,SN,Senegal,USD,2.99,29.99,903.0
+2026-11-16,gemini,200 GB,month,NG,Nigeria,NGN,4400.0,44000.0,900.0
+2026-11-16,google-one,Google AI Ultra (30 TB),month,VG,British Virgin Islands,USD,199.99,149.99,-25.0
