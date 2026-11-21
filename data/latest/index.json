@@ -1,16 +1,16 @@
 {
  "name": "Puley Price Index",
  "url": "https://puley.com/prices",
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "fx_date": "2026-11-20",
- "built": "2026-11-20T03:04:47Z",
+ "built": "2026-11-21T03:04:52Z",
  "stores": 174,
  "apps": [
   {
    "app": "chatgpt",
    "name": "ChatGPT",
    "category": "AI assistants",
-   "collected": "2026-11-20",
+   "collected": "2026-11-21",
    "sold_in": 168,
    "plans": 6,
    "headline": {
@@ -85,7 +85,7 @@
    "app": "claude",
    "name": "Claude",
    "category": "AI assistants",
-   "collected": "2026-11-20",
+   "collected": "2026-11-21",
    "sold_in": 165,
    "plans": 4,
    "headline": {
@@ -160,7 +160,7 @@
    "app": "gemini",
    "name": "Google Gemini",
    "category": "AI assistants",
-   "collected": "2026-11-20",
+   "collected": "2026-11-21",
    "sold_in": 169,
    "plans": 15,
    "headline": {
@@ -235,7 +235,7 @@
    "app": "perplexity",
    "name": "Perplexity",
    "category": "AI assistants",
-   "collected": "2026-11-20",
+   "collected": "2026-11-21",
    "sold_in": 173,
    "plans": 3,
    "headline": {
@@ -310,7 +310,7 @@
    "app": "grok",
    "name": "Grok",
    "category": "AI assistants",
-   "collected": "2026-11-20",
+   "collected": "2026-11-21",
    "sold_in": 160,
    "plans": 7,
    "headline": {
@@ -385,7 +385,7 @@
    "app": "copilot",
    "name": "Microsoft Copilot",
    "category": "AI assistants",
-   "collected": "2026-11-20",
+   "collected": "2026-11-21",
    "sold_in": 169,
    "plans": 7,
    "headline": {
@@ -460,7 +460,7 @@
    "app": "le-chat",
    "name": "Le Chat (Vibe by Mistral)",
    "category": "AI assistants",
-   "collected": "2026-11-20",
+   "collected": "2026-11-21",
    "sold_in": 174,
    "plans": 2,
    "headline": {
@@ -535,14 +535,14 @@
    "app": "character-ai",
    "name": "Character.AI",
    "category": "AI assistants",
-   "collected": "2026-11-20",
+   "collected": "2026-11-21",
    "sold_in": 172,
    "plans": 2,
    "headline": {
     "key": "character-ai+",
     "name": "Character.AI+",
     "period": "month",
-    "stores": 156,
+    "stores": 155,
     "stats": {
      "us": 9.99,
      "min": 5.57,
@@ -835,7 +835,7 @@
    "app": "telegram",
    "name": "Telegram Premium",
    "category": "Social and chat",
-   "collected": "2026-11-14",
+   "collected": "2026-11-21",
    "sold_in": 173,
    "plans": 2,
    "headline": {
@@ -1709,7 +1709,7 @@
    "region": "Latin America & Caribbean",
    "income": "Upper middle income",
    "currency": null,
-   "apps": 14,
+   "apps": 13,
    "median_vs_us_pct": 0.0
   },
   {
@@ -2775,7 +2775,7 @@
    "median_vs_us_pct": 7.5
   }
  ],
- "changes_logged": 18,
+ "changes_logged": 9,
  "held_back": [
   {
    "app": "disney-plus",
@@ -2870,8 +2870,8 @@
    "name": "NordVPN",
    "category": "Privacy and storage",
    "main_plan": "nordvpn",
-   "muddled_share": 0.88,
-   "why": "Its main plan shows several different prices in the same country in 88% of stores, so no single price can be given."
+   "muddled_share": 0.86,
+   "why": "Its main plan shows several different prices in the same country in 86% of stores, so no single price can be given."
   },
   {
    "app": "expressvpn",

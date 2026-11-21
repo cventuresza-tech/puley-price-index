@@ -12,11 +12,11 @@ Browse it at **[puley.com/prices](https://puley.com/prices)**: a world map per a
 [![Dependencies: none](https://img.shields.io/badge/dependencies-none-23252a)](pyproject.toml)
 
 <!-- index:start -->
-**Updated 2026-11-20** · 11,099 prices · 16 apps · 174 countries · US dollars at 2026-11-20 exchange rates
+**Updated 2026-11-21** · 11,077 prices · 16 apps · 174 countries · US dollars at 2026-11-20 exchange rates
 
 | App | Main plan | In the US | Cheapest | Dearest | Countries |
 | --- | --- | ---: | --- | --- | ---: |
-| [Character.AI](https://puley.com/prices/character-ai) | Character.AI+ | $9.99 | 🇪🇬 Egypt $5.57 | 🇨🇴 Colombia $17.91 | 156 |
+| [Character.AI](https://puley.com/prices/character-ai) | Character.AI+ | $9.99 | 🇪🇬 Egypt $5.57 | 🇨🇴 Colombia $17.91 | 155 |
 | [ChatGPT](https://puley.com/prices/chatgpt) | ChatGPT Plus | $19.99 | 🇵🇭 Philippines $15.67 | 🇨🇴 Colombia $29.86 | 168 |
 | [Claude](https://puley.com/prices/claude) | Claude Pro - Monthly | $20.00 | 🇵🇰 Pakistan $17.72 | 🇨🇴 Colombia $29.86 | 165 |
 | [Google Gemini](https://puley.com/prices/gemini) | Google AI Pro (5 TB) | $19.99 | 🇧🇷 Brazil $16.44 | 🇳🇴 Norway $26.61 | 168 |
