@@ -1,16 +1,16 @@
 {
  "name": "Puley Price Index",
  "url": "https://puley.com/prices",
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "fx_date": "2026-11-25",
- "built": "2026-11-25T03:04:52Z",
+ "built": "2026-11-26T03:05:14Z",
  "stores": 174,
  "apps": [
   {
    "app": "chatgpt",
    "name": "ChatGPT",
    "category": "AI assistants",
-   "collected": "2026-11-25",
+   "collected": "2026-11-26",
    "sold_in": 168,
    "plans": 6,
    "headline": {
@@ -85,7 +85,7 @@
    "app": "claude",
    "name": "Claude",
    "category": "AI assistants",
-   "collected": "2026-11-25",
+   "collected": "2026-11-26",
    "sold_in": 165,
    "plans": 4,
    "headline": {
@@ -160,7 +160,7 @@
    "app": "gemini",
    "name": "Google Gemini",
    "category": "AI assistants",
-   "collected": "2026-11-25",
+   "collected": "2026-11-26",
    "sold_in": 169,
    "plans": 15,
    "headline": {
@@ -235,14 +235,14 @@
    "app": "perplexity",
    "name": "Perplexity",
    "category": "AI assistants",
-   "collected": "2026-11-25",
+   "collected": "2026-11-26",
    "sold_in": 173,
    "plans": 3,
    "headline": {
     "key": "perplexity-pro",
     "name": "Perplexity Pro",
     "period": "month",
-    "stores": 163,
+    "stores": 164,
     "stats": {
      "us": 20.0,
      "min": 17.49,
@@ -298,9 +298,9 @@
        "usd": 26.2
       },
       {
-       "cc": "NO",
-       "country": "Norway",
-       "usd": 25.4
+       "cc": "KZ",
+       "country": "Kazakhstan",
+       "usd": 26.06
       }
      ]
     }
@@ -310,7 +310,7 @@
    "app": "grok",
    "name": "Grok",
    "category": "AI assistants",
-   "collected": "2026-11-25",
+   "collected": "2026-11-26",
    "sold_in": 160,
    "plans": 7,
    "headline": {
@@ -385,7 +385,7 @@
    "app": "copilot",
    "name": "Microsoft Copilot",
    "category": "AI assistants",
-   "collected": "2026-11-25",
+   "collected": "2026-11-26",
    "sold_in": 169,
    "plans": 7,
    "headline": {
@@ -460,7 +460,7 @@
    "app": "le-chat",
    "name": "Le Chat (Vibe by Mistral)",
    "category": "AI assistants",
-   "collected": "2026-11-25",
+   "collected": "2026-11-26",
    "sold_in": 174,
    "plans": 2,
    "headline": {
@@ -535,14 +535,14 @@
    "app": "character-ai",
    "name": "Character.AI",
    "category": "AI assistants",
-   "collected": "2026-11-25",
+   "collected": "2026-11-26",
    "sold_in": 172,
    "plans": 2,
    "headline": {
     "key": "character-ai+",
     "name": "Character.AI+",
     "period": "month",
-    "stores": 155,
+    "stores": 158,
     "stats": {
      "us": 9.99,
      "min": 5.53,
@@ -685,19 +685,19 @@
    "app": "hbo-max",
    "name": "HBO Max",
    "category": "Video and music",
-   "collected": "2026-11-19",
-   "sold_in": 93,
+   "collected": "2026-11-26",
+   "sold_in": 96,
    "plans": 14,
    "headline": {
     "key": "standard",
     "name": "Standard",
     "period": "month",
-    "stores": 88,
+    "stores": 89,
     "stats": {
      "us": 18.49,
      "min": 2.89,
      "max": 20.2,
-     "median": 8.88,
+     "median": 8.76,
      "spread": 6.99,
      "cheapest": [
       {
@@ -1547,7 +1547,7 @@
    "region": "Sub-Saharan Africa",
    "income": "Upper middle income",
    "currency": null,
-   "apps": 13,
+   "apps": 14,
    "median_vs_us_pct": 0.0
   },
   {
@@ -1592,7 +1592,7 @@
    "region": "Latin America & Caribbean",
    "income": "Upper middle income",
    "currency": null,
-   "apps": 13,
+   "apps": 14,
    "median_vs_us_pct": 0.0
   },
   {
@@ -1709,7 +1709,7 @@
    "region": "Latin America & Caribbean",
    "income": "Upper middle income",
    "currency": null,
-   "apps": 13,
+   "apps": 14,
    "median_vs_us_pct": 0.0
   },
   {
@@ -1745,7 +1745,7 @@
    "region": "Europe & Central Asia",
    "income": "High income",
    "currency": null,
-   "apps": 15,
+   "apps": 16,
    "median_vs_us_pct": 20.6
   },
   {
@@ -1862,7 +1862,7 @@
    "region": "Europe & Central Asia",
    "income": "High income",
    "currency": null,
-   "apps": 16,
+   "apps": 15,
    "median_vs_us_pct": 20.0
   },
   {
@@ -1970,7 +1970,7 @@
    "region": "Europe & Central Asia",
    "income": "Upper middle income",
    "currency": null,
-   "apps": 15,
+   "apps": 16,
    "median_vs_us_pct": 8.6
   },
   {
@@ -2321,7 +2321,7 @@
    "region": "East Asia & Pacific",
    "income": "Lower middle income",
    "currency": null,
-   "apps": 15,
+   "apps": 16,
    "median_vs_us_pct": 0.0
   },
   {
@@ -2775,7 +2775,7 @@
    "median_vs_us_pct": 7.5
   }
  ],
- "changes_logged": 12,
+ "changes_logged": 13,
  "held_back": [
   {
    "app": "disney-plus",
@@ -2854,8 +2854,8 @@
    "name": "Calm",
    "category": "Health and fitness",
    "main_plan": "calm-premium",
-   "muddled_share": 0.98,
-   "why": "Its main plan shows several different prices in the same country in 98% of stores, so no single price can be given."
+   "muddled_share": 0.99,
+   "why": "Its main plan shows several different prices in the same country in 99% of stores, so no single price can be given."
   },
   {
    "app": "headspace",
