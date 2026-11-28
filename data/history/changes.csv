@@ -641,3 +641,24 @@ date,app,plan,period,cc,country,currency,old_price,new_price,change_pct
 2026-11-27,gemini,200 GB,month,HN,Honduras,USD,2.99,29.99,903.0
 2026-11-27,gemini,200 GB,month,KE,Kenya,USD,2.99,29.99,903.0
 2026-11-27,gemini,200 GB,month,KG,Kyrgyzstan,USD,2.99,29.99,903.0
+2026-11-28,gemini,Google AI Ultra (30 TB),month,AU,Australia,AUD,329.99,224.99,-31.8
+2026-11-28,gemini,Google AI Ultra (30 TB),month,BH,Bahrain,USD,199.99,149.99,-25.0
+2026-11-28,gemini,Google AI Ultra (30 TB),month,CV,Cape Verde,USD,199.99,149.99,-25.0
+2026-11-28,gemini,Google AI Ultra (30 TB),month,FJ,Fiji,USD,199.99,149.99,-25.0
+2026-11-28,gemini,Google AI Ultra (30 TB),month,LK,Sri Lanka,USD,199.99,149.99,-25.0
+2026-11-28,gemini,Google AI Ultra (30 TB),month,MG,Madagascar,USD,199.99,149.99,-25.0
+2026-11-28,gemini,Google AI Ultra (30 TB),month,KG,Kyrgyzstan,USD,149.99,199.99,33.3
+2026-11-28,gemini,Google AI Ultra (30 TB),month,CZ,Czechia,CZK,5500.0,4490.0,-18.4
+2026-11-28,gemini,Google AI Ultra (30 TB),month,SA,Saudi Arabia,SAR,529.99,859.99,62.3
+2026-11-28,gemini,Google AI Plus (2 TB),month,SA,Saudi Arabia,SAR,349.99,34.99,-90.0
+2026-11-28,gemini,Google AI Plus (2 TB),month,BW,Botswana,USD,99.99,9.99,-90.0
+2026-11-28,gemini,Google AI Plus (2 TB),month,HN,Honduras,USD,99.99,9.99,-90.0
+2026-11-28,gemini,Google AI Plus (2 TB),month,KZ,Kazakhstan,KZT,49900.0,4990.0,-90.0
+2026-11-28,gemini,Google AI Plus (2 TB),month,EG,Egypt,EGP,449.99,4499.99,900.0
+2026-11-28,gemini,Google AI Plus (2 TB),month,BH,Bahrain,USD,9.99,99.99,900.9
+2026-11-28,gemini,200 GB,month,HN,Honduras,USD,29.99,2.99,-90.0
+2026-11-28,gemini,200 GB,month,KE,Kenya,USD,29.99,2.99,-90.0
+2026-11-28,gemini,200 GB,month,KG,Kyrgyzstan,USD,29.99,2.99,-90.0
+2026-11-28,gemini,200 GB,month,BO,Bolivia,USD,2.99,29.99,903.0
+2026-11-28,telegram,Telegram Premium Annual,year,IL,Israel,ILS,129.9,99.9,-23.1
+2026-11-28,telegram,Telegram Premium Annual,year,HU,Hungary,HUF,14990.0,17990.0,20.0
